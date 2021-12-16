@@ -1,0 +1,2718 @@
+
+INFO 2021-12-15 12:52:57,384: Inizio
+INFO 2021-12-15 12:52:57,387: processing eb1e2ca23
+INFO 2021-12-15 12:53:01,334: Pull succeded
+INFO 2021-12-15 12:54:40,081: Metrics calculated
+INFO 2021-12-15 12:54:40,087: File stored eb1e2ca23.csv
+INFO 2021-12-15 12:54:40,087: processing af5a3d780
+INFO 2021-12-15 12:54:42,455: Pull succeded
+INFO 2021-12-15 12:55:22,515: Metrics calculated
+INFO 2021-12-15 12:55:22,517: File stored af5a3d780.csv
+INFO 2021-12-15 12:55:22,518: processing 1ed8776eb
+INFO 2021-12-15 12:55:24,236: Pull succeded
+INFO 2021-12-15 12:55:44,247: Metrics calculated
+INFO 2021-12-15 12:55:44,250: File stored 1ed8776eb.csv
+INFO 2021-12-15 12:55:44,250: processing c82005c2c
+INFO 2021-12-15 12:55:46,570: Pull succeded
+INFO 2021-12-15 12:56:08,152: Metrics calculated
+INFO 2021-12-15 12:56:08,156: File stored c82005c2c.csv
+INFO 2021-12-15 12:56:08,156: processing 03f5f8adc
+INFO 2021-12-15 12:56:10,132: Pull succeded
+INFO 2021-12-15 12:56:31,651: Metrics calculated
+INFO 2021-12-15 12:56:31,653: File stored 03f5f8adc.csv
+INFO 2021-12-15 12:56:31,654: processing f31520849
+INFO 2021-12-15 12:56:33,148: Pull succeded
+INFO 2021-12-15 12:56:54,712: Metrics calculated
+INFO 2021-12-15 12:56:54,714: File stored f31520849.csv
+INFO 2021-12-15 12:56:54,715: processing 1361bce6b
+INFO 2021-12-15 12:56:56,886: Pull succeded
+INFO 2021-12-15 12:57:18,405: Metrics calculated
+INFO 2021-12-15 12:57:18,408: File stored 1361bce6b.csv
+INFO 2021-12-15 12:57:18,408: processing b66ed5e5d
+INFO 2021-12-15 12:57:20,402: Pull succeded
+INFO 2021-12-15 12:57:37,482: Metrics calculated
+INFO 2021-12-15 12:57:37,484: File stored b66ed5e5d.csv
+INFO 2021-12-15 12:57:37,485: processing 42865229c
+INFO 2021-12-15 12:57:39,573: Pull succeded
+INFO 2021-12-15 12:57:57,127: Metrics calculated
+INFO 2021-12-15 12:57:57,130: File stored 42865229c.csv
+INFO 2021-12-15 12:57:57,131: processing b914070c9
+INFO 2021-12-15 12:57:59,356: Pull succeded
+INFO 2021-12-15 12:58:16,690: Metrics calculated
+INFO 2021-12-15 12:58:16,692: File stored b914070c9.csv
+INFO 2021-12-15 12:58:16,693: processing 737f301c1
+INFO 2021-12-15 12:58:18,960: Pull succeded
+INFO 2021-12-15 12:58:36,165: Metrics calculated
+INFO 2021-12-15 12:58:36,168: File stored 737f301c1.csv
+INFO 2021-12-15 12:58:36,168: processing 8c9169284
+INFO 2021-12-15 12:58:38,443: Pull succeded
+INFO 2021-12-15 12:58:55,688: Metrics calculated
+INFO 2021-12-15 12:58:55,690: File stored 8c9169284.csv
+INFO 2021-12-15 12:58:55,690: processing a1e43ce49
+INFO 2021-12-15 12:58:57,928: Pull succeded
+INFO 2021-12-15 12:59:15,205: Metrics calculated
+INFO 2021-12-15 12:59:15,207: File stored a1e43ce49.csv
+INFO 2021-12-15 12:59:15,207: processing 931c2b7f2
+INFO 2021-12-15 12:59:17,312: Pull succeded
+INFO 2021-12-15 12:59:34,230: Metrics calculated
+INFO 2021-12-15 12:59:34,232: File stored 931c2b7f2.csv
+INFO 2021-12-15 12:59:34,232: processing bb629d1ba
+INFO 2021-12-15 12:59:36,438: Pull succeded
+INFO 2021-12-15 12:59:54,093: Metrics calculated
+INFO 2021-12-15 12:59:54,094: File stored bb629d1ba.csv
+INFO 2021-12-15 12:59:54,095: processing 558ddd3d9
+INFO 2021-12-15 12:59:56,643: Pull succeded
+INFO 2021-12-15 13:00:12,689: Metrics calculated
+INFO 2021-12-15 13:00:12,690: File stored 558ddd3d9.csv
+INFO 2021-12-15 13:00:12,690: processing b40f54af0
+INFO 2021-12-15 13:00:14,731: Pull succeded
+INFO 2021-12-15 13:00:31,095: Metrics calculated
+INFO 2021-12-15 13:00:31,097: File stored b40f54af0.csv
+INFO 2021-12-15 13:00:31,097: processing 15133a072
+INFO 2021-12-15 13:00:33,379: Pull succeded
+INFO 2021-12-15 13:00:50,496: Metrics calculated
+INFO 2021-12-15 13:00:50,498: File stored 15133a072.csv
+INFO 2021-12-15 13:00:50,498: processing 7ae377d3e
+INFO 2021-12-15 13:00:52,537: Pull succeded
+INFO 2021-12-15 13:01:11,217: Metrics calculated
+INFO 2021-12-15 13:01:11,219: File stored 7ae377d3e.csv
+INFO 2021-12-15 13:01:11,220: processing 8793a6d35
+INFO 2021-12-15 13:01:13,372: Pull succeded
+INFO 2021-12-15 13:01:29,592: Metrics calculated
+INFO 2021-12-15 13:01:29,595: File stored 8793a6d35.csv
+INFO 2021-12-15 13:01:29,595: processing 678420cd4
+INFO 2021-12-15 13:01:31,918: Pull succeded
+INFO 2021-12-15 13:01:49,682: Metrics calculated
+INFO 2021-12-15 13:01:49,684: File stored 678420cd4.csv
+INFO 2021-12-15 13:01:49,684: processing 7cb144000
+INFO 2021-12-15 13:01:52,039: Pull succeded
+INFO 2021-12-15 13:02:08,680: Metrics calculated
+INFO 2021-12-15 13:02:08,681: File stored 7cb144000.csv
+INFO 2021-12-15 13:02:08,682: processing 113c56d65
+INFO 2021-12-15 13:02:11,167: Pull succeded
+INFO 2021-12-15 13:02:32,643: Metrics calculated
+INFO 2021-12-15 13:02:32,645: File stored 113c56d65.csv
+INFO 2021-12-15 13:02:32,646: processing 0dde85e41
+INFO 2021-12-15 13:02:35,033: Pull succeded
+INFO 2021-12-15 13:02:51,735: Metrics calculated
+INFO 2021-12-15 13:02:51,737: File stored 0dde85e41.csv
+INFO 2021-12-15 13:02:51,737: processing 5c8c3538e
+INFO 2021-12-15 13:02:54,270: Pull succeded
+INFO 2021-12-15 13:03:12,076: Metrics calculated
+INFO 2021-12-15 13:03:12,079: File stored 5c8c3538e.csv
+INFO 2021-12-15 13:03:12,080: processing 227bae4f6
+INFO 2021-12-15 13:03:14,536: Pull succeded
+INFO 2021-12-15 13:03:30,912: Metrics calculated
+INFO 2021-12-15 13:03:30,914: File stored 227bae4f6.csv
+INFO 2021-12-15 13:03:30,914: processing b9265a42b
+INFO 2021-12-15 13:03:33,637: Pull succeded
+INFO 2021-12-15 13:03:51,343: Metrics calculated
+INFO 2021-12-15 13:03:51,344: File stored b9265a42b.csv
+INFO 2021-12-15 13:03:51,345: processing 710667d15
+INFO 2021-12-15 13:03:54,003: Pull succeded
+INFO 2021-12-15 13:04:10,682: Metrics calculated
+INFO 2021-12-15 13:04:10,684: File stored 710667d15.csv
+INFO 2021-12-15 13:04:10,684: processing 2b4c4b57d
+INFO 2021-12-15 13:04:13,196: Pull succeded
+INFO 2021-12-15 13:04:31,955: Metrics calculated
+INFO 2021-12-15 13:04:31,956: File stored 2b4c4b57d.csv
+INFO 2021-12-15 13:04:31,956: processing 01d3d02a0
+INFO 2021-12-15 13:04:34,253: Pull succeded
+INFO 2021-12-15 13:04:50,720: Metrics calculated
+INFO 2021-12-15 13:04:50,723: File stored 01d3d02a0.csv
+INFO 2021-12-15 13:04:50,723: processing bcb8e9053
+INFO 2021-12-15 13:04:53,328: Pull succeded
+INFO 2021-12-15 13:05:09,645: Metrics calculated
+INFO 2021-12-15 13:05:09,647: File stored bcb8e9053.csv
+INFO 2021-12-15 13:05:09,647: processing 824567d76
+INFO 2021-12-15 13:05:11,759: Pull succeded
+INFO 2021-12-15 13:05:27,434: Metrics calculated
+INFO 2021-12-15 13:05:27,435: File stored 824567d76.csv
+INFO 2021-12-15 13:05:27,436: processing b2235c3a4
+INFO 2021-12-15 13:05:29,649: Pull succeded
+INFO 2021-12-15 13:05:45,748: Metrics calculated
+INFO 2021-12-15 13:05:45,750: File stored b2235c3a4.csv
+INFO 2021-12-15 13:05:45,750: processing b7a6d93d0
+INFO 2021-12-15 13:05:47,696: Pull succeded
+INFO 2021-12-15 13:06:05,410: Metrics calculated
+INFO 2021-12-15 13:06:05,412: File stored b7a6d93d0.csv
+INFO 2021-12-15 13:06:05,413: processing a492c1ac4
+INFO 2021-12-15 13:06:07,742: Pull succeded
+INFO 2021-12-15 13:06:23,758: Metrics calculated
+INFO 2021-12-15 13:06:23,759: File stored a492c1ac4.csv
+INFO 2021-12-15 13:06:23,760: processing 1d21f0cca
+INFO 2021-12-15 13:06:25,795: Pull succeded
+INFO 2021-12-15 13:06:42,074: Metrics calculated
+INFO 2021-12-15 13:06:42,077: File stored 1d21f0cca.csv
+INFO 2021-12-15 13:06:42,078: processing 1cacd7968
+INFO 2021-12-15 13:06:44,034: Pull succeded
+INFO 2021-12-15 13:07:00,200: Metrics calculated
+INFO 2021-12-15 13:07:00,206: File stored 1cacd7968.csv
+INFO 2021-12-15 13:07:00,207: processing 745cb01ed
+INFO 2021-12-15 13:07:02,187: Pull succeded
+INFO 2021-12-15 13:07:21,857: Metrics calculated
+INFO 2021-12-15 13:07:21,860: File stored 745cb01ed.csv
+INFO 2021-12-15 13:07:21,860: processing ed81292b1
+INFO 2021-12-15 13:07:24,291: Pull succeded
+INFO 2021-12-15 13:07:42,569: Metrics calculated
+INFO 2021-12-15 13:07:42,572: File stored ed81292b1.csv
+INFO 2021-12-15 13:07:42,573: processing 1ebdb0295
+INFO 2021-12-15 13:07:44,648: Pull succeded
+INFO 2021-12-15 13:08:00,285: Metrics calculated
+INFO 2021-12-15 13:08:00,287: File stored 1ebdb0295.csv
+INFO 2021-12-15 13:08:00,287: processing 4da41f7fa
+INFO 2021-12-15 13:08:02,413: Pull succeded
+INFO 2021-12-15 13:08:18,121: Metrics calculated
+INFO 2021-12-15 13:08:18,124: File stored 4da41f7fa.csv
+INFO 2021-12-15 13:08:18,124: processing fa77c15e8
+INFO 2021-12-15 13:08:20,630: Pull succeded
+INFO 2021-12-15 13:08:39,079: Metrics calculated
+INFO 2021-12-15 13:08:39,083: File stored fa77c15e8.csv
+INFO 2021-12-15 13:08:39,083: processing 53695d49d
+INFO 2021-12-15 13:08:41,592: Pull succeded
+INFO 2021-12-15 13:08:57,960: Metrics calculated
+INFO 2021-12-15 13:08:57,962: File stored 53695d49d.csv
+INFO 2021-12-15 13:08:57,962: processing 9e38c878e
+INFO 2021-12-15 13:09:00,105: Pull succeded
+INFO 2021-12-15 13:09:15,890: Metrics calculated
+INFO 2021-12-15 13:09:15,891: File stored 9e38c878e.csv
+INFO 2021-12-15 13:09:15,891: processing 5dba31bfd
+INFO 2021-12-15 13:09:18,935: Pull succeded
+INFO 2021-12-15 13:09:37,682: Metrics calculated
+INFO 2021-12-15 13:09:37,684: File stored 5dba31bfd.csv
+INFO 2021-12-15 13:09:37,685: processing 515768859
+INFO 2021-12-15 13:09:40,133: Pull succeded
+INFO 2021-12-15 13:09:56,173: Metrics calculated
+INFO 2021-12-15 13:09:56,174: File stored 515768859.csv
+INFO 2021-12-15 13:09:56,174: processing d3e712232
+INFO 2021-12-15 13:09:58,355: Pull succeded
+INFO 2021-12-15 13:10:14,562: Metrics calculated
+INFO 2021-12-15 13:10:14,563: File stored d3e712232.csv
+INFO 2021-12-15 13:10:14,563: processing d08932334
+INFO 2021-12-15 13:10:16,664: Pull succeded
+INFO 2021-12-15 13:10:33,580: Metrics calculated
+INFO 2021-12-15 13:10:33,582: File stored d08932334.csv
+INFO 2021-12-15 13:10:33,582: processing 8ca093b94
+INFO 2021-12-15 13:10:35,323: Pull succeded
+INFO 2021-12-15 13:10:51,544: Metrics calculated
+INFO 2021-12-15 13:10:51,546: File stored 8ca093b94.csv
+INFO 2021-12-15 13:10:51,547: processing 6592c42dc
+INFO 2021-12-15 13:10:53,398: Pull succeded
+INFO 2021-12-15 13:11:13,441: Metrics calculated
+INFO 2021-12-15 13:11:13,445: File stored 6592c42dc.csv
+INFO 2021-12-15 13:11:13,446: processing 6b770d019
+INFO 2021-12-15 13:11:15,708: Pull succeded
+INFO 2021-12-15 13:11:32,416: Metrics calculated
+INFO 2021-12-15 13:11:32,419: File stored 6b770d019.csv
+INFO 2021-12-15 13:11:32,419: processing 26f428384
+INFO 2021-12-15 13:11:35,029: Pull succeded
+INFO 2021-12-15 13:11:57,192: Metrics calculated
+INFO 2021-12-15 13:11:57,193: File stored 26f428384.csv
+INFO 2021-12-15 13:11:57,194: processing 4c8ac0472
+INFO 2021-12-15 13:12:00,450: Pull succeded
+INFO 2021-12-15 13:12:18,990: Metrics calculated
+INFO 2021-12-15 13:12:18,992: File stored 4c8ac0472.csv
+INFO 2021-12-15 13:12:18,993: processing 442007a92
+INFO 2021-12-15 13:12:21,359: Pull succeded
+INFO 2021-12-15 13:12:38,557: Metrics calculated
+INFO 2021-12-15 13:12:38,559: File stored 442007a92.csv
+INFO 2021-12-15 13:12:38,559: processing 4c2fca645
+INFO 2021-12-15 13:12:40,997: Pull succeded
+INFO 2021-12-15 13:12:57,711: Metrics calculated
+INFO 2021-12-15 13:12:57,715: File stored 4c2fca645.csv
+INFO 2021-12-15 13:12:57,716: processing 6d9dd975b
+INFO 2021-12-15 13:13:00,524: Pull succeded
+INFO 2021-12-15 13:13:23,135: Metrics calculated
+INFO 2021-12-15 13:13:23,137: File stored 6d9dd975b.csv
+INFO 2021-12-15 13:13:23,137: processing 09e466a4a
+INFO 2021-12-15 13:13:25,711: Pull succeded
+INFO 2021-12-15 13:13:42,503: Metrics calculated
+INFO 2021-12-15 13:13:42,505: File stored 09e466a4a.csv
+INFO 2021-12-15 13:13:42,506: processing 1a6d55480
+INFO 2021-12-15 13:13:44,821: Pull succeded
+INFO 2021-12-15 13:14:01,457: Metrics calculated
+INFO 2021-12-15 13:14:01,459: File stored 1a6d55480.csv
+INFO 2021-12-15 13:14:01,460: processing d4bbf71b3
+INFO 2021-12-15 13:14:04,231: Pull succeded
+INFO 2021-12-15 13:14:21,475: Metrics calculated
+INFO 2021-12-15 13:14:21,477: File stored d4bbf71b3.csv
+INFO 2021-12-15 13:14:21,477: processing 9518aa421
+INFO 2021-12-15 13:14:24,412: Pull succeded
+INFO 2021-12-15 13:14:45,528: Metrics calculated
+INFO 2021-12-15 13:14:45,530: File stored 9518aa421.csv
+INFO 2021-12-15 13:14:45,531: processing 4fffcd6e1
+INFO 2021-12-15 13:14:48,074: Pull succeded
+INFO 2021-12-15 13:15:04,791: Metrics calculated
+INFO 2021-12-15 13:15:04,795: File stored 4fffcd6e1.csv
+INFO 2021-12-15 13:15:04,795: processing cfd3cf2b2
+INFO 2021-12-15 13:15:07,394: Pull succeded
+INFO 2021-12-15 13:15:24,998: Metrics calculated
+INFO 2021-12-15 13:15:25,000: File stored cfd3cf2b2.csv
+INFO 2021-12-15 13:15:25,000: processing 5bc96652e
+INFO 2021-12-15 13:15:27,088: Pull succeded
+INFO 2021-12-15 13:15:43,237: Metrics calculated
+INFO 2021-12-15 13:15:43,240: File stored 5bc96652e.csv
+INFO 2021-12-15 13:15:43,240: processing 80fb9a0b3
+INFO 2021-12-15 13:15:45,806: Pull succeded
+INFO 2021-12-15 13:16:02,391: Metrics calculated
+INFO 2021-12-15 13:16:02,393: File stored 80fb9a0b3.csv
+INFO 2021-12-15 13:16:02,393: processing 3ccb2d97e
+INFO 2021-12-15 13:16:04,457: Pull succeded
+INFO 2021-12-15 13:16:20,569: Metrics calculated
+INFO 2021-12-15 13:16:20,570: File stored 3ccb2d97e.csv
+INFO 2021-12-15 13:16:20,571: processing d7143d685
+INFO 2021-12-15 13:16:23,066: Pull succeded
+INFO 2021-12-15 13:16:42,683: Metrics calculated
+INFO 2021-12-15 13:16:42,684: File stored d7143d685.csv
+INFO 2021-12-15 13:16:42,684: processing e029acc69
+INFO 2021-12-15 13:16:45,294: Pull succeded
+INFO 2021-12-15 13:17:01,617: Metrics calculated
+INFO 2021-12-15 13:17:01,618: File stored e029acc69.csv
+INFO 2021-12-15 13:17:01,618: processing b3b62d0c4
+INFO 2021-12-15 13:17:04,136: Pull succeded
+INFO 2021-12-15 13:17:19,615: Metrics calculated
+INFO 2021-12-15 13:17:19,617: File stored b3b62d0c4.csv
+INFO 2021-12-15 13:17:19,618: processing ffba05fd3
+INFO 2021-12-15 13:17:22,206: Pull succeded
+INFO 2021-12-15 13:17:38,628: Metrics calculated
+INFO 2021-12-15 13:17:38,631: File stored ffba05fd3.csv
+INFO 2021-12-15 13:17:38,631: processing 4d26ec85e
+INFO 2021-12-15 13:17:41,258: Pull succeded
+INFO 2021-12-15 13:17:57,094: Metrics calculated
+INFO 2021-12-15 13:17:57,095: File stored 4d26ec85e.csv
+INFO 2021-12-15 13:17:57,095: processing ff952fc05
+INFO 2021-12-15 13:17:59,677: Pull succeded
+INFO 2021-12-15 13:18:15,302: Metrics calculated
+INFO 2021-12-15 13:18:15,303: File stored ff952fc05.csv
+INFO 2021-12-15 13:18:15,304: processing c3c08e5d7
+INFO 2021-12-15 13:18:17,725: Pull succeded
+INFO 2021-12-15 13:18:33,723: Metrics calculated
+INFO 2021-12-15 13:18:33,727: File stored c3c08e5d7.csv
+INFO 2021-12-15 13:18:33,727: processing b5bfe08bd
+INFO 2021-12-15 13:18:36,074: Pull succeded
+INFO 2021-12-15 13:18:52,063: Metrics calculated
+INFO 2021-12-15 13:18:52,065: File stored b5bfe08bd.csv
+INFO 2021-12-15 13:18:52,065: processing d5e0e59fc
+INFO 2021-12-15 13:18:54,649: Pull succeded
+INFO 2021-12-15 13:19:10,277: Metrics calculated
+INFO 2021-12-15 13:19:10,278: File stored d5e0e59fc.csv
+INFO 2021-12-15 13:19:10,279: processing 2397e1e8c
+INFO 2021-12-15 13:19:12,931: Pull succeded
+INFO 2021-12-15 13:19:28,945: Metrics calculated
+INFO 2021-12-15 13:19:28,946: File stored 2397e1e8c.csv
+INFO 2021-12-15 13:19:28,946: processing 5428420e0
+INFO 2021-12-15 13:19:31,267: Pull succeded
+INFO 2021-12-15 13:19:46,795: Metrics calculated
+INFO 2021-12-15 13:19:46,796: File stored 5428420e0.csv
+INFO 2021-12-15 13:19:46,797: processing 0a0d3c88e
+INFO 2021-12-15 13:19:49,269: Pull succeded
+INFO 2021-12-15 13:20:05,375: Metrics calculated
+INFO 2021-12-15 13:20:05,377: File stored 0a0d3c88e.csv
+INFO 2021-12-15 13:20:05,377: processing 7adeef1ee
+INFO 2021-12-15 13:20:07,587: Pull succeded
+INFO 2021-12-15 13:20:27,496: Metrics calculated
+INFO 2021-12-15 13:20:27,498: File stored 7adeef1ee.csv
+INFO 2021-12-15 13:20:27,499: processing b6132e853
+INFO 2021-12-15 13:20:29,717: Pull succeded
+INFO 2021-12-15 13:20:46,310: Metrics calculated
+INFO 2021-12-15 13:20:46,311: File stored b6132e853.csv
+INFO 2021-12-15 13:20:46,312: processing df9c25692
+INFO 2021-12-15 13:20:48,485: Pull succeded
+INFO 2021-12-15 13:21:04,449: Metrics calculated
+INFO 2021-12-15 13:21:04,452: File stored df9c25692.csv
+INFO 2021-12-15 13:21:04,453: processing 5217912d5
+INFO 2021-12-15 13:21:06,449: Pull succeded
+INFO 2021-12-15 13:21:22,080: Metrics calculated
+INFO 2021-12-15 13:21:22,083: File stored 5217912d5.csv
+INFO 2021-12-15 13:21:22,083: processing ddbe80b3f
+INFO 2021-12-15 13:21:24,269: Pull succeded
+INFO 2021-12-15 13:21:40,252: Metrics calculated
+INFO 2021-12-15 13:21:40,253: File stored ddbe80b3f.csv
+INFO 2021-12-15 13:21:40,253: processing fe424ae39
+INFO 2021-12-15 13:21:42,690: Pull succeded
+INFO 2021-12-15 13:21:58,575: Metrics calculated
+INFO 2021-12-15 13:21:58,576: File stored fe424ae39.csv
+INFO 2021-12-15 13:21:58,577: processing 86217a4fb
+INFO 2021-12-15 13:22:00,742: Pull succeded
+INFO 2021-12-15 13:22:16,613: Metrics calculated
+INFO 2021-12-15 13:22:16,614: File stored 86217a4fb.csv
+INFO 2021-12-15 13:22:16,614: processing 3092e03be
+INFO 2021-12-15 13:22:18,816: Pull succeded
+INFO 2021-12-15 13:22:34,645: Metrics calculated
+INFO 2021-12-15 13:22:34,647: File stored 3092e03be.csv
+INFO 2021-12-15 13:22:34,647: processing 49cd9b57d
+INFO 2021-12-15 13:22:37,347: Pull succeded
+INFO 2021-12-15 13:22:53,247: Metrics calculated
+INFO 2021-12-15 13:22:53,248: File stored 49cd9b57d.csv
+INFO 2021-12-15 13:22:53,248: processing d97147826
+INFO 2021-12-15 13:22:55,742: Pull succeded
+INFO 2021-12-15 13:23:11,408: Metrics calculated
+INFO 2021-12-15 13:23:11,410: File stored d97147826.csv
+INFO 2021-12-15 13:23:11,410: processing 4b59dbae2
+INFO 2021-12-15 13:23:14,757: Pull succeded
+INFO 2021-12-15 13:23:30,433: Metrics calculated
+INFO 2021-12-15 13:23:30,435: File stored 4b59dbae2.csv
+INFO 2021-12-15 13:23:30,435: processing 60146b3d7
+INFO 2021-12-15 13:23:33,807: Pull succeded
+INFO 2021-12-15 13:23:49,421: Metrics calculated
+INFO 2021-12-15 13:23:49,424: File stored 60146b3d7.csv
+INFO 2021-12-15 13:23:49,425: processing 2f6d2112c
+INFO 2021-12-15 13:23:52,680: Pull succeded
+INFO 2021-12-15 13:24:08,613: Metrics calculated
+INFO 2021-12-15 13:24:08,616: File stored 2f6d2112c.csv
+INFO 2021-12-15 13:24:08,616: processing 62511c088
+INFO 2021-12-15 13:24:11,983: Pull succeded
+INFO 2021-12-15 13:24:27,689: Metrics calculated
+INFO 2021-12-15 13:24:27,691: File stored 62511c088.csv
+INFO 2021-12-15 13:24:27,691: processing 19bfd2ada
+INFO 2021-12-15 13:24:31,127: Pull succeded
+INFO 2021-12-15 13:24:47,263: Metrics calculated
+INFO 2021-12-15 13:24:47,264: File stored 19bfd2ada.csv
+INFO 2021-12-15 13:24:47,264: processing 3a3bc5be8
+INFO 2021-12-15 13:24:50,816: Pull succeded
+INFO 2021-12-15 13:25:07,037: Metrics calculated
+INFO 2021-12-15 13:25:07,039: File stored 3a3bc5be8.csv
+INFO 2021-12-15 13:25:07,040: processing 0ee0fcc01
+INFO 2021-12-15 13:25:10,210: Pull succeded
+INFO 2021-12-15 13:25:25,911: Metrics calculated
+INFO 2021-12-15 13:25:25,913: File stored 0ee0fcc01.csv
+INFO 2021-12-15 13:25:25,913: processing fa51a39b5
+INFO 2021-12-15 13:25:28,887: Pull succeded
+INFO 2021-12-15 13:25:44,834: Metrics calculated
+INFO 2021-12-15 13:25:44,837: File stored fa51a39b5.csv
+INFO 2021-12-15 13:25:44,837: processing 1db3aabaa
+INFO 2021-12-15 13:25:48,106: Pull succeded
+INFO 2021-12-15 13:26:03,606: Metrics calculated
+INFO 2021-12-15 13:26:03,609: File stored 1db3aabaa.csv
+INFO 2021-12-15 13:26:03,609: processing 8dd9a3e99
+INFO 2021-12-15 13:26:07,042: Pull succeded
+INFO 2021-12-15 13:26:22,619: Metrics calculated
+INFO 2021-12-15 13:26:22,621: File stored 8dd9a3e99.csv
+INFO 2021-12-15 13:26:22,621: processing b4efa5589
+INFO 2021-12-15 13:26:26,029: Pull succeded
+INFO 2021-12-15 13:26:41,425: Metrics calculated
+INFO 2021-12-15 13:26:41,428: File stored b4efa5589.csv
+INFO 2021-12-15 13:26:41,428: processing 397f4e81e
+INFO 2021-12-15 13:26:44,684: Pull succeded
+INFO 2021-12-15 13:27:01,133: Metrics calculated
+INFO 2021-12-15 13:27:01,135: File stored 397f4e81e.csv
+INFO 2021-12-15 13:27:01,135: processing 77ec25de6
+INFO 2021-12-15 13:27:04,686: Pull succeded
+INFO 2021-12-15 13:27:20,360: Metrics calculated
+INFO 2021-12-15 13:27:20,362: File stored 77ec25de6.csv
+INFO 2021-12-15 13:27:20,363: processing 3bce82092
+INFO 2021-12-15 13:27:23,715: Pull succeded
+INFO 2021-12-15 13:27:38,903: Metrics calculated
+INFO 2021-12-15 13:27:38,905: File stored 3bce82092.csv
+INFO 2021-12-15 13:27:38,905: processing fee5848a0
+INFO 2021-12-15 13:27:42,453: Pull succeded
+INFO 2021-12-15 13:27:58,021: Metrics calculated
+INFO 2021-12-15 13:27:58,023: File stored fee5848a0.csv
+INFO 2021-12-15 13:27:58,024: processing 246cf6edd
+INFO 2021-12-15 13:28:01,254: Pull succeded
+INFO 2021-12-15 13:28:17,148: Metrics calculated
+INFO 2021-12-15 13:28:17,149: File stored 246cf6edd.csv
+INFO 2021-12-15 13:28:17,150: processing 9f15b0d7a
+INFO 2021-12-15 13:28:20,963: Pull succeded
+INFO 2021-12-15 13:28:36,699: Metrics calculated
+INFO 2021-12-15 13:28:36,701: File stored 9f15b0d7a.csv
+INFO 2021-12-15 13:28:36,701: processing ac570c50b
+INFO 2021-12-15 13:28:40,127: Pull succeded
+INFO 2021-12-15 13:28:56,018: Metrics calculated
+INFO 2021-12-15 13:28:56,020: File stored ac570c50b.csv
+INFO 2021-12-15 13:28:56,020: processing 43c22686d
+INFO 2021-12-15 13:28:59,564: Pull succeded
+INFO 2021-12-15 13:29:18,742: Metrics calculated
+INFO 2021-12-15 13:29:18,743: File stored 43c22686d.csv
+INFO 2021-12-15 13:29:18,743: processing b3d01d828
+INFO 2021-12-15 13:29:22,077: Pull succeded
+INFO 2021-12-15 13:29:42,273: Metrics calculated
+INFO 2021-12-15 13:29:42,275: File stored b3d01d828.csv
+INFO 2021-12-15 13:29:42,276: processing 8c6e39735
+INFO 2021-12-15 13:29:45,465: Pull succeded
+INFO 2021-12-15 13:30:01,570: Metrics calculated
+INFO 2021-12-15 13:30:01,572: File stored 8c6e39735.csv
+INFO 2021-12-15 13:30:01,572: processing 5cc66e971
+INFO 2021-12-15 13:30:05,582: Pull succeded
+INFO 2021-12-15 13:30:25,628: Metrics calculated
+INFO 2021-12-15 13:30:25,630: File stored 5cc66e971.csv
+INFO 2021-12-15 13:30:25,630: processing 904a89810
+INFO 2021-12-15 13:30:28,781: Pull succeded
+INFO 2021-12-15 13:30:48,643: Metrics calculated
+INFO 2021-12-15 13:30:48,646: File stored 904a89810.csv
+INFO 2021-12-15 13:30:48,647: processing 62882e0a4
+INFO 2021-12-15 13:30:51,885: Pull succeded
+INFO 2021-12-15 13:31:08,193: Metrics calculated
+INFO 2021-12-15 13:31:08,195: File stored 62882e0a4.csv
+INFO 2021-12-15 13:31:08,196: processing 86441e434
+INFO 2021-12-15 13:31:11,331: Pull succeded
+INFO 2021-12-15 13:31:30,746: Metrics calculated
+INFO 2021-12-15 13:31:30,748: File stored 86441e434.csv
+INFO 2021-12-15 13:31:30,748: processing e89659521
+INFO 2021-12-15 13:31:34,002: Pull succeded
+INFO 2021-12-15 13:31:53,807: Metrics calculated
+INFO 2021-12-15 13:31:53,808: File stored e89659521.csv
+INFO 2021-12-15 13:31:53,808: processing cd3639a57
+INFO 2021-12-15 13:31:57,111: Pull succeded
+INFO 2021-12-15 13:32:12,794: Metrics calculated
+INFO 2021-12-15 13:32:12,796: File stored cd3639a57.csv
+INFO 2021-12-15 13:32:12,796: processing 627d4fb53
+INFO 2021-12-15 13:32:16,187: Pull succeded
+INFO 2021-12-15 13:32:32,091: Metrics calculated
+INFO 2021-12-15 13:32:32,092: File stored 627d4fb53.csv
+INFO 2021-12-15 13:32:32,092: processing 8bb20e040
+INFO 2021-12-15 13:32:35,611: Pull succeded
+INFO 2021-12-15 13:32:55,505: Metrics calculated
+INFO 2021-12-15 13:32:55,506: File stored 8bb20e040.csv
+INFO 2021-12-15 13:32:55,507: processing 01519eba9
+INFO 2021-12-15 13:32:59,307: Pull succeded
+INFO 2021-12-15 13:33:19,478: Metrics calculated
+INFO 2021-12-15 13:33:19,480: File stored 01519eba9.csv
+INFO 2021-12-15 13:33:19,480: processing e35c67b6a
+INFO 2021-12-15 13:33:23,677: Pull succeded
+INFO 2021-12-15 13:33:39,784: Metrics calculated
+INFO 2021-12-15 13:33:39,786: File stored e35c67b6a.csv
+INFO 2021-12-15 13:33:39,786: processing 52c829fb0
+INFO 2021-12-15 13:33:43,161: Pull succeded
+INFO 2021-12-15 13:33:58,888: Metrics calculated
+INFO 2021-12-15 13:33:58,889: File stored 52c829fb0.csv
+INFO 2021-12-15 13:33:58,890: processing 3d3bb385a
+INFO 2021-12-15 13:34:03,062: Pull succeded
+INFO 2021-12-15 13:34:18,890: Metrics calculated
+INFO 2021-12-15 13:34:18,891: File stored 3d3bb385a.csv
+INFO 2021-12-15 13:34:18,891: processing 3ed68c5d7
+INFO 2021-12-15 13:34:22,907: Pull succeded
+INFO 2021-12-15 13:34:38,672: Metrics calculated
+INFO 2021-12-15 13:34:38,673: File stored 3ed68c5d7.csv
+INFO 2021-12-15 13:34:38,673: processing 676f64325
+INFO 2021-12-15 13:34:42,658: Pull succeded
+INFO 2021-12-15 13:35:01,998: Metrics calculated
+INFO 2021-12-15 13:35:02,001: File stored 676f64325.csv
+INFO 2021-12-15 13:35:02,002: processing 9891a6ba2
+INFO 2021-12-15 13:35:05,703: Pull succeded
+INFO 2021-12-15 13:35:24,964: Metrics calculated
+INFO 2021-12-15 13:35:24,967: File stored 9891a6ba2.csv
+INFO 2021-12-15 13:35:24,967: processing 48384a7ad
+INFO 2021-12-15 13:35:29,111: Pull succeded
+INFO 2021-12-15 13:35:48,513: Metrics calculated
+INFO 2021-12-15 13:35:48,514: File stored 48384a7ad.csv
+INFO 2021-12-15 13:35:48,515: processing 0460dc494
+INFO 2021-12-15 13:35:51,973: Pull succeded
+INFO 2021-12-15 13:36:11,421: Metrics calculated
+INFO 2021-12-15 13:36:11,423: File stored 0460dc494.csv
+INFO 2021-12-15 13:36:11,424: processing 59a57a931
+INFO 2021-12-15 13:36:15,502: Pull succeded
+INFO 2021-12-15 13:36:35,156: Metrics calculated
+INFO 2021-12-15 13:36:35,158: File stored 59a57a931.csv
+INFO 2021-12-15 13:36:35,158: processing 7c27d09c6
+INFO 2021-12-15 13:36:38,919: Pull succeded
+INFO 2021-12-15 13:36:54,805: Metrics calculated
+INFO 2021-12-15 13:36:54,805: File stored 7c27d09c6.csv
+INFO 2021-12-15 13:36:54,805: processing 7c039c484
+INFO 2021-12-15 13:36:59,137: Pull succeded
+INFO 2021-12-15 13:37:14,917: Metrics calculated
+INFO 2021-12-15 13:37:14,918: File stored 7c039c484.csv
+INFO 2021-12-15 13:37:14,918: processing 388822ad9
+INFO 2021-12-15 13:37:18,876: Pull succeded
+INFO 2021-12-15 13:37:34,093: Metrics calculated
+INFO 2021-12-15 13:37:34,097: File stored 388822ad9.csv
+INFO 2021-12-15 13:37:34,097: processing 125846f55
+INFO 2021-12-15 13:37:38,827: Pull succeded
+INFO 2021-12-15 13:37:54,834: Metrics calculated
+INFO 2021-12-15 13:37:54,835: File stored 125846f55.csv
+INFO 2021-12-15 13:37:54,836: processing 219131512
+INFO 2021-12-15 13:37:58,613: Pull succeded
+INFO 2021-12-15 13:38:18,096: Metrics calculated
+INFO 2021-12-15 13:38:18,097: File stored 219131512.csv
+INFO 2021-12-15 13:38:18,098: processing 76f4668f0
+INFO 2021-12-15 13:38:22,387: Pull succeded
+INFO 2021-12-15 13:38:42,158: Metrics calculated
+INFO 2021-12-15 13:38:42,161: File stored 76f4668f0.csv
+INFO 2021-12-15 13:38:42,161: processing bb41ad791
+INFO 2021-12-15 13:38:46,130: Pull succeded
+INFO 2021-12-15 13:39:05,770: Metrics calculated
+INFO 2021-12-15 13:39:05,773: File stored bb41ad791.csv
+INFO 2021-12-15 13:39:05,773: processing 019022505
+INFO 2021-12-15 13:39:09,958: Pull succeded
+INFO 2021-12-15 13:39:29,297: Metrics calculated
+INFO 2021-12-15 13:39:29,300: File stored 019022505.csv
+INFO 2021-12-15 13:39:29,300: processing 39f396e55
+INFO 2021-12-15 13:39:33,001: Pull succeded
+INFO 2021-12-15 13:39:52,731: Metrics calculated
+INFO 2021-12-15 13:39:52,733: File stored 39f396e55.csv
+INFO 2021-12-15 13:39:52,733: processing 5b6adec95
+INFO 2021-12-15 13:39:56,778: Pull succeded
+INFO 2021-12-15 13:40:12,840: Metrics calculated
+INFO 2021-12-15 13:40:12,842: File stored 5b6adec95.csv
+INFO 2021-12-15 13:40:12,842: processing 1f35bfca5
+INFO 2021-12-15 13:40:17,232: Pull succeded
+INFO 2021-12-15 13:40:33,325: Metrics calculated
+INFO 2021-12-15 13:40:33,328: File stored 1f35bfca5.csv
+INFO 2021-12-15 13:40:33,328: processing 5f12bb9a3
+INFO 2021-12-15 13:40:37,223: Pull succeded
+INFO 2021-12-15 13:40:53,423: Metrics calculated
+INFO 2021-12-15 13:40:53,424: File stored 5f12bb9a3.csv
+INFO 2021-12-15 13:40:53,425: processing 1062307c5
+INFO 2021-12-15 13:40:57,089: Pull succeded
+INFO 2021-12-15 13:41:12,998: Metrics calculated
+INFO 2021-12-15 13:41:13,000: File stored 1062307c5.csv
+INFO 2021-12-15 13:41:13,001: processing dd1738828
+INFO 2021-12-15 13:41:17,397: Pull succeded
+INFO 2021-12-15 13:41:33,127: Metrics calculated
+INFO 2021-12-15 13:41:33,130: File stored dd1738828.csv
+INFO 2021-12-15 13:41:33,130: processing 87c917f4e
+INFO 2021-12-15 13:41:36,884: Pull succeded
+INFO 2021-12-15 13:41:56,726: Metrics calculated
+INFO 2021-12-15 13:41:56,727: File stored 87c917f4e.csv
+INFO 2021-12-15 13:41:56,728: processing ad503bce6
+INFO 2021-12-15 13:42:00,457: Pull succeded
+INFO 2021-12-15 13:42:19,814: Metrics calculated
+INFO 2021-12-15 13:42:19,815: File stored ad503bce6.csv
+INFO 2021-12-15 13:42:19,815: processing 4d6385ab6
+INFO 2021-12-15 13:42:24,017: Pull succeded
+INFO 2021-12-15 13:42:43,878: Metrics calculated
+INFO 2021-12-15 13:42:43,880: File stored 4d6385ab6.csv
+INFO 2021-12-15 13:42:43,880: processing 6fc037929
+INFO 2021-12-15 13:42:52,081: Pull succeded
+INFO 2021-12-15 13:43:08,361: Metrics calculated
+INFO 2021-12-15 13:43:08,363: File stored 6fc037929.csv
+INFO 2021-12-15 13:43:08,364: processing da97506ad
+INFO 2021-12-15 13:43:16,818: Pull succeded
+INFO 2021-12-15 13:43:32,787: Metrics calculated
+INFO 2021-12-15 13:43:32,789: File stored da97506ad.csv
+INFO 2021-12-15 13:43:32,790: processing e39560ecf
+INFO 2021-12-15 13:43:41,569: Pull succeded
+INFO 2021-12-15 13:44:01,162: Metrics calculated
+INFO 2021-12-15 13:44:01,163: File stored e39560ecf.csv
+INFO 2021-12-15 13:44:01,163: processing 3d52de719
+INFO 2021-12-15 13:44:09,390: Pull succeded
+INFO 2021-12-15 13:44:25,043: Metrics calculated
+INFO 2021-12-15 13:44:25,045: File stored 3d52de719.csv
+INFO 2021-12-15 13:44:25,046: processing 1a640f613
+INFO 2021-12-15 13:44:33,384: Pull succeded
+INFO 2021-12-15 13:44:52,437: Metrics calculated
+INFO 2021-12-15 13:44:52,438: File stored 1a640f613.csv
+INFO 2021-12-15 13:44:52,439: processing c209e33e9
+INFO 2021-12-15 13:45:01,568: Pull succeded
+INFO 2021-12-15 13:45:17,270: Metrics calculated
+INFO 2021-12-15 13:45:17,272: File stored c209e33e9.csv
+INFO 2021-12-15 13:45:17,272: processing 395770721
+INFO 2021-12-15 13:45:25,616: Pull succeded
+INFO 2021-12-15 13:45:44,945: Metrics calculated
+INFO 2021-12-15 13:45:44,946: File stored 395770721.csv
+INFO 2021-12-15 13:45:44,947: processing 10dcc1d93
+INFO 2021-12-15 13:45:53,697: Pull succeded
+INFO 2021-12-15 13:46:09,607: Metrics calculated
+INFO 2021-12-15 13:46:09,609: File stored 10dcc1d93.csv
+INFO 2021-12-15 13:46:09,609: processing 3af99c084
+INFO 2021-12-15 13:46:17,955: Pull succeded
+INFO 2021-12-15 13:46:38,027: Metrics calculated
+INFO 2021-12-15 13:46:38,030: File stored 3af99c084.csv
+INFO 2021-12-15 13:46:38,030: processing be01c39c3
+INFO 2021-12-15 13:46:47,358: Pull succeded
+INFO 2021-12-15 13:47:06,871: Metrics calculated
+INFO 2021-12-15 13:47:06,873: File stored be01c39c3.csv
+INFO 2021-12-15 13:47:06,873: processing ec2e9a642
+INFO 2021-12-15 13:47:14,736: Pull succeded
+INFO 2021-12-15 13:47:35,051: Metrics calculated
+INFO 2021-12-15 13:47:35,053: File stored ec2e9a642.csv
+INFO 2021-12-15 13:47:35,054: processing bd7e76533
+INFO 2021-12-15 13:47:43,405: Pull succeded
+INFO 2021-12-15 13:48:02,830: Metrics calculated
+INFO 2021-12-15 13:48:02,832: File stored bd7e76533.csv
+INFO 2021-12-15 13:48:02,832: processing 72a1d928b
+INFO 2021-12-15 13:48:11,561: Pull succeded
+INFO 2021-12-15 13:48:26,932: Metrics calculated
+INFO 2021-12-15 13:48:26,934: File stored 72a1d928b.csv
+INFO 2021-12-15 13:48:26,934: processing 4d579f765
+INFO 2021-12-15 13:48:35,924: Pull succeded
+INFO 2021-12-15 13:48:55,694: Metrics calculated
+INFO 2021-12-15 13:48:55,695: File stored 4d579f765.csv
+INFO 2021-12-15 13:48:55,696: processing fca863f32
+INFO 2021-12-15 13:49:04,226: Pull succeded
+INFO 2021-12-15 13:49:23,230: Metrics calculated
+INFO 2021-12-15 13:49:23,232: File stored fca863f32.csv
+INFO 2021-12-15 13:49:23,232: processing 3cc9446f0
+INFO 2021-12-15 13:49:31,663: Pull succeded
+INFO 2021-12-15 13:49:51,111: Metrics calculated
+INFO 2021-12-15 13:49:51,113: File stored 3cc9446f0.csv
+INFO 2021-12-15 13:49:51,114: processing 53e456936
+INFO 2021-12-15 13:49:59,887: Pull succeded
+INFO 2021-12-15 13:50:20,538: Metrics calculated
+INFO 2021-12-15 13:50:20,540: File stored 53e456936.csv
+INFO 2021-12-15 13:50:20,540: processing 5c097c03c
+INFO 2021-12-15 13:50:30,001: Pull succeded
+INFO 2021-12-15 13:50:49,933: Metrics calculated
+INFO 2021-12-15 13:50:49,934: File stored 5c097c03c.csv
+INFO 2021-12-15 13:50:49,935: processing 69fd6debb
+INFO 2021-12-15 13:50:58,570: Pull succeded
+INFO 2021-12-15 13:51:14,718: Metrics calculated
+INFO 2021-12-15 13:51:14,720: File stored 69fd6debb.csv
+INFO 2021-12-15 13:51:14,720: processing 646c9f798
+INFO 2021-12-15 13:51:23,088: Pull succeded
+INFO 2021-12-15 13:51:42,525: Metrics calculated
+INFO 2021-12-15 13:51:42,527: File stored 646c9f798.csv
+INFO 2021-12-15 13:51:42,528: processing 1efa07f01
+INFO 2021-12-15 13:51:50,996: Pull succeded
+INFO 2021-12-15 13:52:10,620: Metrics calculated
+INFO 2021-12-15 13:52:10,623: File stored 1efa07f01.csv
+INFO 2021-12-15 13:52:10,623: processing 0ddc8e630
+INFO 2021-12-15 13:52:19,732: Pull succeded
+INFO 2021-12-15 13:52:39,005: Metrics calculated
+INFO 2021-12-15 13:52:39,007: File stored 0ddc8e630.csv
+INFO 2021-12-15 13:52:39,007: processing 7d27c43ff
+INFO 2021-12-15 13:52:47,746: Pull succeded
+INFO 2021-12-15 13:53:07,283: Metrics calculated
+INFO 2021-12-15 13:53:07,286: File stored 7d27c43ff.csv
+INFO 2021-12-15 13:53:07,286: processing 84ede60df
+INFO 2021-12-15 13:53:16,026: Pull succeded
+INFO 2021-12-15 13:53:35,827: Metrics calculated
+INFO 2021-12-15 13:53:35,831: File stored 84ede60df.csv
+INFO 2021-12-15 13:53:35,832: processing 29e79c815
+INFO 2021-12-15 13:53:44,227: Pull succeded
+INFO 2021-12-15 13:53:59,729: Metrics calculated
+INFO 2021-12-15 13:53:59,732: File stored 29e79c815.csv
+INFO 2021-12-15 13:53:59,732: processing aae0bc4c4
+INFO 2021-12-15 13:54:09,055: Pull succeded
+INFO 2021-12-15 13:54:30,543: Metrics calculated
+INFO 2021-12-15 13:54:30,546: File stored aae0bc4c4.csv
+INFO 2021-12-15 13:54:30,546: processing c0f41cae5
+INFO 2021-12-15 13:54:39,789: Pull succeded
+INFO 2021-12-15 13:54:59,020: Metrics calculated
+INFO 2021-12-15 13:54:59,022: File stored c0f41cae5.csv
+INFO 2021-12-15 13:54:59,023: processing 72f815bcf
+INFO 2021-12-15 13:55:07,505: Pull succeded
+INFO 2021-12-15 13:55:27,088: Metrics calculated
+INFO 2021-12-15 13:55:27,091: File stored 72f815bcf.csv
+INFO 2021-12-15 13:55:27,091: processing 9705e1e73
+INFO 2021-12-15 13:55:35,385: Pull succeded
+INFO 2021-12-15 13:55:54,893: Metrics calculated
+INFO 2021-12-15 13:55:54,895: File stored 9705e1e73.csv
+INFO 2021-12-15 13:55:54,895: processing 0c62ac898
+INFO 2021-12-15 13:56:04,066: Pull succeded
+INFO 2021-12-15 13:56:19,942: Metrics calculated
+INFO 2021-12-15 13:56:19,946: File stored 0c62ac898.csv
+INFO 2021-12-15 13:56:19,947: processing 7d277b359
+INFO 2021-12-15 13:56:28,380: Pull succeded
+INFO 2021-12-15 13:56:43,501: Metrics calculated
+INFO 2021-12-15 13:56:43,504: File stored 7d277b359.csv
+INFO 2021-12-15 13:56:43,504: processing 8e0d007ce
+INFO 2021-12-15 13:56:51,606: Pull succeded
+INFO 2021-12-15 13:57:08,097: Metrics calculated
+INFO 2021-12-15 13:57:08,099: File stored 8e0d007ce.csv
+INFO 2021-12-15 13:57:08,099: processing 8afeb501c
+INFO 2021-12-15 13:57:16,372: Pull succeded
+INFO 2021-12-15 13:57:32,387: Metrics calculated
+INFO 2021-12-15 13:57:32,389: File stored 8afeb501c.csv
+INFO 2021-12-15 13:57:32,390: processing 76be212f2
+INFO 2021-12-15 13:57:40,709: Pull succeded
+INFO 2021-12-15 13:57:56,240: Metrics calculated
+INFO 2021-12-15 13:57:56,241: File stored 76be212f2.csv
+INFO 2021-12-15 13:57:56,242: processing 1d21378a5
+INFO 2021-12-15 13:58:05,628: Pull succeded
+INFO 2021-12-15 13:58:32,248: Metrics calculated
+INFO 2021-12-15 13:58:32,250: File stored 1d21378a5.csv
+INFO 2021-12-15 13:58:32,250: processing 6558c0654
+INFO 2021-12-15 13:58:41,202: Pull succeded
+INFO 2021-12-15 13:59:01,152: Metrics calculated
+INFO 2021-12-15 13:59:01,153: File stored 6558c0654.csv
+INFO 2021-12-15 13:59:01,154: processing c08fd76ca
+INFO 2021-12-15 13:59:09,519: Pull succeded
+INFO 2021-12-15 13:59:29,695: Metrics calculated
+INFO 2021-12-15 13:59:29,697: File stored c08fd76ca.csv
+INFO 2021-12-15 13:59:29,698: processing 31284feb9
+INFO 2021-12-15 13:59:38,433: Pull succeded
+INFO 2021-12-15 13:59:54,646: Metrics calculated
+INFO 2021-12-15 13:59:54,648: File stored 31284feb9.csv
+INFO 2021-12-15 13:59:54,648: processing 6715f41c0
+INFO 2021-12-15 14:00:02,886: Pull succeded
+INFO 2021-12-15 14:00:18,682: Metrics calculated
+INFO 2021-12-15 14:00:18,685: File stored 6715f41c0.csv
+INFO 2021-12-15 14:00:18,685: processing 6c2a94ecc
+INFO 2021-12-15 14:00:28,694: Pull succeded
+INFO 2021-12-15 14:00:44,466: Metrics calculated
+INFO 2021-12-15 14:00:44,469: File stored 6c2a94ecc.csv
+INFO 2021-12-15 14:00:44,469: processing d2bac8659
+INFO 2021-12-15 14:00:53,261: Pull succeded
+INFO 2021-12-15 14:01:08,868: Metrics calculated
+INFO 2021-12-15 14:01:08,870: File stored d2bac8659.csv
+INFO 2021-12-15 14:01:08,871: processing 0764eb7b1
+INFO 2021-12-15 14:01:17,656: Pull succeded
+INFO 2021-12-15 14:01:33,746: Metrics calculated
+INFO 2021-12-15 14:01:33,748: File stored 0764eb7b1.csv
+INFO 2021-12-15 14:01:33,749: processing 6b31cffae
+INFO 2021-12-15 14:01:42,274: Pull succeded
+INFO 2021-12-15 14:02:01,771: Metrics calculated
+INFO 2021-12-15 14:02:01,773: File stored 6b31cffae.csv
+INFO 2021-12-15 14:02:01,774: processing 982d4f3fb
+INFO 2021-12-15 14:02:10,124: Pull succeded
+INFO 2021-12-15 14:02:26,594: Metrics calculated
+INFO 2021-12-15 14:02:26,595: File stored 982d4f3fb.csv
+INFO 2021-12-15 14:02:26,596: processing 49b98959c
+INFO 2021-12-15 14:02:35,271: Pull succeded
+INFO 2021-12-15 14:02:51,236: Metrics calculated
+INFO 2021-12-15 14:02:51,239: File stored 49b98959c.csv
+INFO 2021-12-15 14:02:51,239: processing b1f9164c4
+INFO 2021-12-15 14:03:01,452: Pull succeded
+INFO 2021-12-15 14:03:24,049: Metrics calculated
+INFO 2021-12-15 14:03:24,051: File stored b1f9164c4.csv
+INFO 2021-12-15 14:03:24,051: processing e80c08599
+INFO 2021-12-15 14:03:33,133: Pull succeded
+INFO 2021-12-15 14:03:49,524: Metrics calculated
+INFO 2021-12-15 14:03:49,526: File stored e80c08599.csv
+INFO 2021-12-15 14:03:49,526: processing 3b5746228
+INFO 2021-12-15 14:03:58,437: Pull succeded
+INFO 2021-12-15 14:04:18,001: Metrics calculated
+INFO 2021-12-15 14:04:18,003: File stored 3b5746228.csv
+INFO 2021-12-15 14:04:18,004: processing 9b324bc9c
+INFO 2021-12-15 14:04:26,398: Pull succeded
+INFO 2021-12-15 14:04:46,243: Metrics calculated
+INFO 2021-12-15 14:04:46,245: File stored 9b324bc9c.csv
+INFO 2021-12-15 14:04:46,246: processing c99ab1244
+INFO 2021-12-15 14:04:54,681: Pull succeded
+INFO 2021-12-15 14:05:10,496: Metrics calculated
+INFO 2021-12-15 14:05:10,498: File stored c99ab1244.csv
+INFO 2021-12-15 14:05:10,499: processing 9c741885e
+INFO 2021-12-15 14:05:19,412: Pull succeded
+INFO 2021-12-15 14:05:35,719: Metrics calculated
+INFO 2021-12-15 14:05:35,722: File stored 9c741885e.csv
+INFO 2021-12-15 14:05:35,722: processing 02914d79b
+INFO 2021-12-15 14:05:45,753: Pull succeded
+INFO 2021-12-15 14:06:01,434: Metrics calculated
+INFO 2021-12-15 14:06:01,437: File stored 02914d79b.csv
+INFO 2021-12-15 14:06:01,437: processing 8d7ee63c7
+INFO 2021-12-15 14:06:09,978: Pull succeded
+INFO 2021-12-15 14:06:25,981: Metrics calculated
+INFO 2021-12-15 14:06:25,982: File stored 8d7ee63c7.csv
+INFO 2021-12-15 14:06:25,983: processing 42ff604f1
+INFO 2021-12-15 14:06:34,484: Pull succeded
+INFO 2021-12-15 14:06:50,440: Metrics calculated
+INFO 2021-12-15 14:06:50,442: File stored 42ff604f1.csv
+INFO 2021-12-15 14:06:50,442: processing 34b081353
+INFO 2021-12-15 14:06:59,301: Pull succeded
+INFO 2021-12-15 14:07:15,502: Metrics calculated
+INFO 2021-12-15 14:07:15,505: File stored 34b081353.csv
+INFO 2021-12-15 14:07:15,505: processing c5d88f09a
+INFO 2021-12-15 14:07:23,715: Pull succeded
+INFO 2021-12-15 14:07:39,509: Metrics calculated
+INFO 2021-12-15 14:07:39,512: File stored c5d88f09a.csv
+INFO 2021-12-15 14:07:39,512: processing ad74288e5
+INFO 2021-12-15 14:07:47,874: Pull succeded
+INFO 2021-12-15 14:08:03,408: Metrics calculated
+INFO 2021-12-15 14:08:03,412: File stored ad74288e5.csv
+INFO 2021-12-15 14:08:03,412: processing 52ef55380
+INFO 2021-12-15 14:08:11,959: Pull succeded
+INFO 2021-12-15 14:08:31,500: Metrics calculated
+INFO 2021-12-15 14:08:31,502: File stored 52ef55380.csv
+INFO 2021-12-15 14:08:31,502: processing 6d5597b07
+INFO 2021-12-15 14:08:41,494: Pull succeded
+INFO 2021-12-15 14:09:05,920: Metrics calculated
+INFO 2021-12-15 14:09:05,923: File stored 6d5597b07.csv
+INFO 2021-12-15 14:09:05,923: processing bbf909fd4
+INFO 2021-12-15 14:09:14,706: Pull succeded
+INFO 2021-12-15 14:09:31,096: Metrics calculated
+INFO 2021-12-15 14:09:31,098: File stored bbf909fd4.csv
+INFO 2021-12-15 14:09:31,098: processing b02ce5438
+INFO 2021-12-15 14:09:40,100: Pull succeded
+INFO 2021-12-15 14:09:56,532: Metrics calculated
+INFO 2021-12-15 14:09:56,533: File stored b02ce5438.csv
+INFO 2021-12-15 14:09:56,533: processing 8e4ce4cfd
+INFO 2021-12-15 14:10:05,744: Pull succeded
+INFO 2021-12-15 14:10:21,795: Metrics calculated
+INFO 2021-12-15 14:10:21,797: File stored 8e4ce4cfd.csv
+INFO 2021-12-15 14:10:21,798: processing 639d991da
+INFO 2021-12-15 14:10:30,366: Pull succeded
+INFO 2021-12-15 14:10:45,969: Metrics calculated
+INFO 2021-12-15 14:10:45,973: File stored 639d991da.csv
+INFO 2021-12-15 14:10:45,973: processing f23577499
+INFO 2021-12-15 14:10:54,510: Pull succeded
+INFO 2021-12-15 14:11:11,227: Metrics calculated
+INFO 2021-12-15 14:11:11,230: File stored f23577499.csv
+INFO 2021-12-15 14:11:11,230: processing 3928b6a04
+INFO 2021-12-15 14:11:19,410: Pull succeded
+INFO 2021-12-15 14:11:35,118: Metrics calculated
+INFO 2021-12-15 14:11:35,121: File stored 3928b6a04.csv
+INFO 2021-12-15 14:11:35,122: processing d920c0669
+INFO 2021-12-15 14:11:43,895: Pull succeded
+INFO 2021-12-15 14:12:02,863: Metrics calculated
+INFO 2021-12-15 14:12:02,866: File stored d920c0669.csv
+INFO 2021-12-15 14:12:02,866: processing 0bceb93b7
+INFO 2021-12-15 14:12:11,589: Pull succeded
+INFO 2021-12-15 14:12:27,804: Metrics calculated
+INFO 2021-12-15 14:12:27,806: File stored 0bceb93b7.csv
+INFO 2021-12-15 14:12:27,806: processing 82d3985f6
+INFO 2021-12-15 14:12:36,182: Pull succeded
+INFO 2021-12-15 14:12:55,297: Metrics calculated
+INFO 2021-12-15 14:12:55,298: File stored 82d3985f6.csv
+INFO 2021-12-15 14:12:55,299: processing 40e9aa17b
+INFO 2021-12-15 14:13:03,619: Pull succeded
+INFO 2021-12-15 14:13:23,385: Metrics calculated
+INFO 2021-12-15 14:13:23,387: File stored 40e9aa17b.csv
+INFO 2021-12-15 14:13:23,387: processing 6398cde1c
+INFO 2021-12-15 14:13:32,260: Pull succeded
+INFO 2021-12-15 14:13:48,295: Metrics calculated
+INFO 2021-12-15 14:13:48,297: File stored 6398cde1c.csv
+INFO 2021-12-15 14:13:48,297: processing 870171a69
+INFO 2021-12-15 14:13:57,207: Pull succeded
+INFO 2021-12-15 14:14:13,200: Metrics calculated
+INFO 2021-12-15 14:14:13,202: File stored 870171a69.csv
+INFO 2021-12-15 14:14:13,203: processing 4fa57be5c
+INFO 2021-12-15 14:14:21,965: Pull succeded
+INFO 2021-12-15 14:14:38,168: Metrics calculated
+INFO 2021-12-15 14:14:38,170: File stored 4fa57be5c.csv
+INFO 2021-12-15 14:14:38,171: processing 9e4243bc7
+INFO 2021-12-15 14:14:47,423: Pull succeded
+INFO 2021-12-15 14:15:03,747: Metrics calculated
+INFO 2021-12-15 14:15:03,749: File stored 9e4243bc7.csv
+INFO 2021-12-15 14:15:03,749: processing 16c470180
+INFO 2021-12-15 14:15:12,731: Pull succeded
+INFO 2021-12-15 14:15:32,201: Metrics calculated
+INFO 2021-12-15 14:15:32,204: File stored 16c470180.csv
+INFO 2021-12-15 14:15:32,204: processing 91f18dff2
+INFO 2021-12-15 14:15:40,834: Pull succeded
+INFO 2021-12-15 14:16:00,140: Metrics calculated
+INFO 2021-12-15 14:16:00,143: File stored 91f18dff2.csv
+INFO 2021-12-15 14:16:00,144: processing 47fcf318b
+INFO 2021-12-15 14:16:09,342: Pull succeded
+INFO 2021-12-15 14:16:28,089: Metrics calculated
+INFO 2021-12-15 14:16:28,090: File stored 47fcf318b.csv
+INFO 2021-12-15 14:16:28,091: processing 76068c92b
+INFO 2021-12-15 14:16:37,947: Pull succeded
+INFO 2021-12-15 14:16:54,186: Metrics calculated
+INFO 2021-12-15 14:16:54,188: File stored 76068c92b.csv
+INFO 2021-12-15 14:16:54,189: processing 4725584a4
+INFO 2021-12-15 14:17:03,341: Pull succeded
+INFO 2021-12-15 14:17:18,961: Metrics calculated
+INFO 2021-12-15 14:17:18,962: File stored 4725584a4.csv
+INFO 2021-12-15 14:17:18,963: processing 268ae8175
+INFO 2021-12-15 14:17:27,854: Pull succeded
+INFO 2021-12-15 14:17:43,557: Metrics calculated
+INFO 2021-12-15 14:17:43,559: File stored 268ae8175.csv
+INFO 2021-12-15 14:17:43,560: processing 926a8c910
+INFO 2021-12-15 14:17:52,838: Pull succeded
+INFO 2021-12-15 14:18:12,512: Metrics calculated
+INFO 2021-12-15 14:18:12,515: File stored 926a8c910.csv
+INFO 2021-12-15 14:18:12,515: processing 7949e7e81
+INFO 2021-12-15 14:18:21,413: Pull succeded
+INFO 2021-12-15 14:18:40,940: Metrics calculated
+INFO 2021-12-15 14:18:40,943: File stored 7949e7e81.csv
+INFO 2021-12-15 14:18:40,943: processing 7c089c96d
+INFO 2021-12-15 14:18:49,774: Pull succeded
+INFO 2021-12-15 14:19:06,404: Metrics calculated
+INFO 2021-12-15 14:19:06,407: File stored 7c089c96d.csv
+INFO 2021-12-15 14:19:06,407: processing fa4876b7b
+INFO 2021-12-15 14:19:15,137: Pull succeded
+INFO 2021-12-15 14:19:30,663: Metrics calculated
+INFO 2021-12-15 14:19:30,666: File stored fa4876b7b.csv
+INFO 2021-12-15 14:19:30,666: processing 376cb56fc
+INFO 2021-12-15 14:19:40,090: Pull succeded
+INFO 2021-12-15 14:19:59,449: Metrics calculated
+INFO 2021-12-15 14:19:59,451: File stored 376cb56fc.csv
+INFO 2021-12-15 14:19:59,452: processing ac66a9c64
+INFO 2021-12-15 14:20:08,348: Pull succeded
+INFO 2021-12-15 14:20:27,859: Metrics calculated
+INFO 2021-12-15 14:20:27,860: File stored ac66a9c64.csv
+INFO 2021-12-15 14:20:27,860: processing a3ba935a5
+INFO 2021-12-15 14:20:36,759: Pull succeded
+INFO 2021-12-15 14:20:52,407: Metrics calculated
+INFO 2021-12-15 14:20:52,409: File stored a3ba935a5.csv
+INFO 2021-12-15 14:20:52,409: processing 957331299
+INFO 2021-12-15 14:21:01,229: Pull succeded
+INFO 2021-12-15 14:21:17,516: Metrics calculated
+INFO 2021-12-15 14:21:17,518: File stored 957331299.csv
+INFO 2021-12-15 14:21:17,518: processing f9e1dbd48
+INFO 2021-12-15 14:21:26,643: Pull succeded
+INFO 2021-12-15 14:21:42,720: Metrics calculated
+INFO 2021-12-15 14:21:42,723: File stored f9e1dbd48.csv
+INFO 2021-12-15 14:21:42,724: processing 98d5ff79e
+INFO 2021-12-15 14:21:50,888: Pull succeded
+INFO 2021-12-15 14:22:07,181: Metrics calculated
+INFO 2021-12-15 14:22:07,183: File stored 98d5ff79e.csv
+INFO 2021-12-15 14:22:07,183: processing 9a39e5e6a
+INFO 2021-12-15 14:22:16,274: Pull succeded
+INFO 2021-12-15 14:22:35,592: Metrics calculated
+INFO 2021-12-15 14:22:35,595: File stored 9a39e5e6a.csv
+INFO 2021-12-15 14:22:35,596: processing 66117a5cc
+INFO 2021-12-15 14:22:44,478: Pull succeded
+INFO 2021-12-15 14:23:04,011: Metrics calculated
+INFO 2021-12-15 14:23:04,013: File stored 66117a5cc.csv
+INFO 2021-12-15 14:23:04,013: processing 46d1c8907
+INFO 2021-12-15 14:23:13,045: Pull succeded
+INFO 2021-12-15 14:23:32,581: Metrics calculated
+INFO 2021-12-15 14:23:32,583: File stored 46d1c8907.csv
+INFO 2021-12-15 14:23:32,583: processing e224698ec
+INFO 2021-12-15 14:23:41,222: Pull succeded
+INFO 2021-12-15 14:23:57,383: Metrics calculated
+INFO 2021-12-15 14:23:57,385: File stored e224698ec.csv
+INFO 2021-12-15 14:23:57,385: processing aaebb0a4d
+INFO 2021-12-15 14:24:06,973: Pull succeded
+INFO 2021-12-15 14:24:23,266: Metrics calculated
+INFO 2021-12-15 14:24:23,267: File stored aaebb0a4d.csv
+INFO 2021-12-15 14:24:23,268: processing 4f3415279
+INFO 2021-12-15 14:24:31,915: Pull succeded
+INFO 2021-12-15 14:24:51,919: Metrics calculated
+INFO 2021-12-15 14:24:51,921: File stored 4f3415279.csv
+INFO 2021-12-15 14:24:51,921: processing 7dd6e8f57
+INFO 2021-12-15 14:25:00,960: Pull succeded
+INFO 2021-12-15 14:25:16,760: Metrics calculated
+INFO 2021-12-15 14:25:16,762: File stored 7dd6e8f57.csv
+INFO 2021-12-15 14:25:16,762: processing ceef83dbb
+INFO 2021-12-15 14:25:26,521: Pull succeded
+INFO 2021-12-15 14:25:42,357: Metrics calculated
+INFO 2021-12-15 14:25:42,359: File stored ceef83dbb.csv
+INFO 2021-12-15 14:25:42,359: processing bfeb99497
+INFO 2021-12-15 14:25:50,909: Pull succeded
+INFO 2021-12-15 14:26:06,627: Metrics calculated
+INFO 2021-12-15 14:26:06,629: File stored bfeb99497.csv
+INFO 2021-12-15 14:26:06,629: processing a1e223ad6
+INFO 2021-12-15 14:26:15,309: Pull succeded
+INFO 2021-12-15 14:26:31,079: Metrics calculated
+INFO 2021-12-15 14:26:31,081: File stored a1e223ad6.csv
+INFO 2021-12-15 14:26:31,082: processing d0d9dfcfa
+INFO 2021-12-15 14:26:40,491: Pull succeded
+INFO 2021-12-15 14:27:00,175: Metrics calculated
+INFO 2021-12-15 14:27:00,177: File stored d0d9dfcfa.csv
+INFO 2021-12-15 14:27:00,178: processing 7e9f19c43
+INFO 2021-12-15 14:27:08,537: Pull succeded
+INFO 2021-12-15 14:27:27,495: Metrics calculated
+INFO 2021-12-15 14:27:27,496: File stored 7e9f19c43.csv
+INFO 2021-12-15 14:27:27,497: processing 1862827c2
+INFO 2021-12-15 14:27:35,802: Pull succeded
+INFO 2021-12-15 14:27:55,536: Metrics calculated
+INFO 2021-12-15 14:27:55,538: File stored 1862827c2.csv
+INFO 2021-12-15 14:27:55,538: processing 907af81ff
+INFO 2021-12-15 14:28:04,941: Pull succeded
+INFO 2021-12-15 14:28:24,680: Metrics calculated
+INFO 2021-12-15 14:28:24,700: File stored 907af81ff.csv
+INFO 2021-12-15 14:28:24,702: processing 960918796
+INFO 2021-12-15 14:28:33,644: Pull succeded
+INFO 2021-12-15 14:28:49,412: Metrics calculated
+INFO 2021-12-15 14:28:49,414: File stored 960918796.csv
+INFO 2021-12-15 14:28:49,414: processing 2747fddd1
+INFO 2021-12-15 14:28:58,265: Pull succeded
+INFO 2021-12-15 14:29:14,047: Metrics calculated
+INFO 2021-12-15 14:29:14,050: File stored 2747fddd1.csv
+INFO 2021-12-15 14:29:14,050: processing 04cfe0c36
+INFO 2021-12-15 14:29:23,523: Pull succeded
+INFO 2021-12-15 14:29:38,980: Metrics calculated
+INFO 2021-12-15 14:29:38,982: File stored 04cfe0c36.csv
+INFO 2021-12-15 14:29:38,982: processing 73e857fda
+INFO 2021-12-15 14:29:47,342: Pull succeded
+INFO 2021-12-15 14:30:03,329: Metrics calculated
+INFO 2021-12-15 14:30:03,332: File stored 73e857fda.csv
+INFO 2021-12-15 14:30:03,333: processing d0bd09c8d
+INFO 2021-12-15 14:30:11,868: Pull succeded
+INFO 2021-12-15 14:30:27,853: Metrics calculated
+INFO 2021-12-15 14:30:27,855: File stored d0bd09c8d.csv
+INFO 2021-12-15 14:30:27,855: processing 1328f3a9e
+INFO 2021-12-15 14:30:37,373: Pull succeded
+INFO 2021-12-15 14:30:57,399: Metrics calculated
+INFO 2021-12-15 14:30:57,401: File stored 1328f3a9e.csv
+INFO 2021-12-15 14:30:57,402: processing 0fb04b318
+INFO 2021-12-15 14:31:05,936: Pull succeded
+INFO 2021-12-15 14:31:25,674: Metrics calculated
+INFO 2021-12-15 14:31:25,677: File stored 0fb04b318.csv
+INFO 2021-12-15 14:31:25,677: processing 375146cd9
+INFO 2021-12-15 14:31:34,673: Pull succeded
+INFO 2021-12-15 14:31:50,684: Metrics calculated
+INFO 2021-12-15 14:31:50,685: File stored 375146cd9.csv
+INFO 2021-12-15 14:31:50,685: processing 2b75aec6a
+INFO 2021-12-15 14:31:59,674: Pull succeded
+INFO 2021-12-15 14:32:15,637: Metrics calculated
+INFO 2021-12-15 14:32:15,639: File stored 2b75aec6a.csv
+INFO 2021-12-15 14:32:15,640: processing 53987f9db
+INFO 2021-12-15 14:32:25,042: Pull succeded
+INFO 2021-12-15 14:32:40,926: Metrics calculated
+INFO 2021-12-15 14:32:40,927: File stored 53987f9db.csv
+INFO 2021-12-15 14:32:40,928: processing eb732def4
+INFO 2021-12-15 14:32:49,838: Pull succeded
+INFO 2021-12-15 14:33:05,613: Metrics calculated
+INFO 2021-12-15 14:33:05,615: File stored eb732def4.csv
+INFO 2021-12-15 14:33:05,615: processing 7d78a9c07
+INFO 2021-12-15 14:33:14,536: Pull succeded
+INFO 2021-12-15 14:33:30,625: Metrics calculated
+INFO 2021-12-15 14:33:30,627: File stored 7d78a9c07.csv
+INFO 2021-12-15 14:33:30,628: processing 320dcef67
+INFO 2021-12-15 14:33:38,904: Pull succeded
+INFO 2021-12-15 14:33:55,434: Metrics calculated
+INFO 2021-12-15 14:33:55,435: File stored 320dcef67.csv
+INFO 2021-12-15 14:33:55,436: processing 67e32ff8f
+INFO 2021-12-15 14:34:05,389: Pull succeded
+INFO 2021-12-15 14:34:21,135: Metrics calculated
+INFO 2021-12-15 14:34:21,137: File stored 67e32ff8f.csv
+INFO 2021-12-15 14:34:21,137: processing f5c3136b3
+INFO 2021-12-15 14:34:29,528: Pull succeded
+INFO 2021-12-15 14:34:45,399: Metrics calculated
+INFO 2021-12-15 14:34:45,401: File stored f5c3136b3.csv
+INFO 2021-12-15 14:34:45,402: processing e5252e303
+INFO 2021-12-15 14:34:54,208: Pull succeded
+INFO 2021-12-15 14:35:10,149: Metrics calculated
+INFO 2021-12-15 14:35:10,151: File stored e5252e303.csv
+INFO 2021-12-15 14:35:10,151: processing ec7cc8c5c
+INFO 2021-12-15 14:35:19,034: Pull succeded
+INFO 2021-12-15 14:35:38,833: Metrics calculated
+INFO 2021-12-15 14:35:38,836: File stored ec7cc8c5c.csv
+INFO 2021-12-15 14:35:38,837: processing 3d3fc0899
+INFO 2021-12-15 14:35:48,630: Pull succeded
+INFO 2021-12-15 14:36:07,771: Metrics calculated
+INFO 2021-12-15 14:36:07,774: File stored 3d3fc0899.csv
+INFO 2021-12-15 14:36:07,774: processing aaf86b4a5
+INFO 2021-12-15 14:36:16,273: Pull succeded
+INFO 2021-12-15 14:36:32,227: Metrics calculated
+INFO 2021-12-15 14:36:32,229: File stored aaf86b4a5.csv
+INFO 2021-12-15 14:36:32,230: processing d8d70ee0b
+INFO 2021-12-15 14:36:41,056: Pull succeded
+INFO 2021-12-15 14:36:56,962: Metrics calculated
+INFO 2021-12-15 14:36:56,964: File stored d8d70ee0b.csv
+INFO 2021-12-15 14:36:56,964: processing 0102a5812
+INFO 2021-12-15 14:37:05,672: Pull succeded
+INFO 2021-12-15 14:37:21,513: Metrics calculated
+INFO 2021-12-15 14:37:21,516: File stored 0102a5812.csv
+INFO 2021-12-15 14:37:21,517: processing 28ad89d69
+INFO 2021-12-15 14:37:30,856: Pull succeded
+INFO 2021-12-15 14:37:47,119: Metrics calculated
+INFO 2021-12-15 14:37:47,121: File stored 28ad89d69.csv
+INFO 2021-12-15 14:37:47,121: processing 869137469
+INFO 2021-12-15 14:37:56,002: Pull succeded
+INFO 2021-12-15 14:38:12,055: Metrics calculated
+INFO 2021-12-15 14:38:12,057: File stored 869137469.csv
+INFO 2021-12-15 14:38:12,058: processing c1ce64955
+INFO 2021-12-15 14:38:21,155: Pull succeded
+INFO 2021-12-15 14:38:37,028: Metrics calculated
+INFO 2021-12-15 14:38:37,030: File stored c1ce64955.csv
+INFO 2021-12-15 14:38:37,030: processing 688c406cb
+INFO 2021-12-15 14:38:45,633: Pull succeded
+INFO 2021-12-15 14:39:05,452: Metrics calculated
+INFO 2021-12-15 14:39:05,455: File stored 688c406cb.csv
+INFO 2021-12-15 14:39:05,456: processing 5c7b8e658
+INFO 2021-12-15 14:39:14,668: Pull succeded
+INFO 2021-12-15 14:39:31,308: Metrics calculated
+INFO 2021-12-15 14:39:31,311: File stored 5c7b8e658.csv
+INFO 2021-12-15 14:39:31,311: processing 417857ee4
+INFO 2021-12-15 14:39:40,144: Pull succeded
+INFO 2021-12-15 14:39:59,817: Metrics calculated
+INFO 2021-12-15 14:39:59,819: File stored 417857ee4.csv
+INFO 2021-12-15 14:39:59,820: processing 9af0eee33
+INFO 2021-12-15 14:40:08,859: Pull succeded
+INFO 2021-12-15 14:40:29,261: Metrics calculated
+INFO 2021-12-15 14:40:29,267: File stored 9af0eee33.csv
+INFO 2021-12-15 14:40:29,267: processing aa654ba24
+INFO 2021-12-15 14:40:39,891: Pull succeded
+INFO 2021-12-15 14:40:59,014: Metrics calculated
+INFO 2021-12-15 14:40:59,016: File stored aa654ba24.csv
+INFO 2021-12-15 14:40:59,017: processing f511c2451
+INFO 2021-12-15 14:41:11,788: Pull succeded
+INFO 2021-12-15 14:41:34,320: Metrics calculated
+INFO 2021-12-15 14:41:34,323: File stored f511c2451.csv
+INFO 2021-12-15 14:41:34,323: processing 3872f5d31
+INFO 2021-12-15 14:41:44,896: Pull succeded
+INFO 2021-12-15 14:42:03,141: Metrics calculated
+INFO 2021-12-15 14:42:03,144: File stored 3872f5d31.csv
+INFO 2021-12-15 14:42:03,144: processing b82aebd99
+INFO 2021-12-15 14:42:11,943: Pull succeded
+INFO 2021-12-15 14:42:29,112: Metrics calculated
+INFO 2021-12-15 14:42:29,115: File stored b82aebd99.csv
+INFO 2021-12-15 14:42:29,116: processing befd7d42b
+INFO 2021-12-15 14:42:38,960: Pull succeded
+INFO 2021-12-15 14:42:55,850: Metrics calculated
+INFO 2021-12-15 14:42:55,852: File stored befd7d42b.csv
+INFO 2021-12-15 14:42:55,853: processing 71c81e30a
+INFO 2021-12-15 14:43:05,563: Pull succeded
+INFO 2021-12-15 14:43:32,478: Metrics calculated
+INFO 2021-12-15 14:43:32,480: File stored 71c81e30a.csv
+INFO 2021-12-15 14:43:32,481: processing 6128dace4
+INFO 2021-12-15 14:43:45,102: Pull succeded
+INFO 2021-12-15 14:44:11,103: Metrics calculated
+INFO 2021-12-15 14:44:11,106: File stored 6128dace4.csv
+INFO 2021-12-15 14:44:11,106: processing 4f2621bd3
+INFO 2021-12-15 14:44:31,656: Pull succeded
+INFO 2021-12-15 14:45:21,899: Metrics calculated
+INFO 2021-12-15 14:45:21,902: File stored 4f2621bd3.csv
+INFO 2021-12-15 14:45:21,903: processing a295fbbc3
+INFO 2021-12-15 14:45:37,523: Pull succeded
+INFO 2021-12-15 14:46:14,589: Metrics calculated
+INFO 2021-12-15 14:46:14,593: File stored a295fbbc3.csv
+INFO 2021-12-15 14:46:14,593: processing 9c850c36e
+INFO 2021-12-15 14:46:34,500: Pull succeded
+INFO 2021-12-15 14:47:28,320: Metrics calculated
+INFO 2021-12-15 14:47:28,324: File stored 9c850c36e.csv
+INFO 2021-12-15 14:47:28,325: processing 57ed2b241
+INFO 2021-12-15 14:48:06,510: Pull succeded
+INFO 2021-12-15 14:49:32,668: Metrics calculated
+INFO 2021-12-15 14:49:32,671: File stored 57ed2b241.csv
+INFO 2021-12-15 14:49:32,672: processing 682a5ec33
+INFO 2021-12-15 14:50:06,320: Pull succeded
+INFO 2021-12-15 14:51:39,920: Metrics calculated
+INFO 2021-12-15 14:51:39,923: File stored 682a5ec33.csv
+INFO 2021-12-15 14:51:39,926: processing e5ddd0be3
+INFO 2021-12-15 14:52:13,546: Pull succeded
+INFO 2021-12-15 14:53:57,801: Metrics calculated
+INFO 2021-12-15 14:53:57,807: File stored e5ddd0be3.csv
+INFO 2021-12-15 14:53:57,808: processing 57bff44d0
+INFO 2021-12-15 14:54:54,284: Pull succeded
+INFO 2021-12-15 14:57:15,995: Metrics calculated
+INFO 2021-12-15 14:57:15,998: File stored 57bff44d0.csv
+INFO 2021-12-15 14:57:15,998: processing 43d855c28
+INFO 2021-12-15 14:58:12,219: Pull succeded
+INFO 2021-12-15 15:00:37,257: Metrics calculated
+INFO 2021-12-15 15:00:37,267: File stored 43d855c28.csv
+INFO 2021-12-15 15:00:37,269: processing 4cb72ceb9
+INFO 2021-12-15 15:01:21,920: Pull succeded
+INFO 2021-12-15 15:03:07,208: Metrics calculated
+INFO 2021-12-15 15:03:07,210: File stored 4cb72ceb9.csv
+INFO 2021-12-15 15:03:07,211: processing a4a7e3ec9
+INFO 2021-12-15 15:03:22,054: Pull succeded
+INFO 2021-12-15 15:05:25,359: Metrics calculated
+INFO 2021-12-15 15:05:25,373: File stored a4a7e3ec9.csv
+INFO 2021-12-15 15:05:25,375: processing 7fa355a70
+INFO 2021-12-15 15:06:05,008: Pull succeded
+INFO 2021-12-15 15:07:31,814: Metrics calculated
+INFO 2021-12-15 15:07:31,821: File stored 7fa355a70.csv
+INFO 2021-12-15 15:07:31,822: processing f2427b47f
+INFO 2021-12-15 15:07:59,574: Pull succeded
+INFO 2021-12-15 15:09:28,791: Metrics calculated
+INFO 2021-12-15 15:09:28,795: File stored f2427b47f.csv
+INFO 2021-12-15 15:09:28,796: processing f605d1d99
+INFO 2021-12-15 15:09:58,248: Pull succeded
+INFO 2021-12-15 15:11:44,438: Metrics calculated
+INFO 2021-12-15 15:11:44,445: File stored f605d1d99.csv
+INFO 2021-12-15 15:11:44,446: processing fa78f718c
+INFO 2021-12-15 15:12:33,060: Pull succeded
+INFO 2021-12-15 15:14:15,526: Metrics calculated
+INFO 2021-12-15 15:14:15,537: File stored fa78f718c.csv
+INFO 2021-12-15 15:14:15,539: processing 36e43713c
+INFO 2021-12-15 15:14:49,136: Pull succeded
+INFO 2021-12-15 15:16:25,328: Metrics calculated
+INFO 2021-12-15 15:16:25,333: File stored 36e43713c.csv
+INFO 2021-12-15 15:16:25,334: processing e45f07d50
+INFO 2021-12-15 15:17:07,717: Pull succeded
+INFO 2021-12-15 15:18:49,377: Metrics calculated
+INFO 2021-12-15 15:18:49,380: File stored e45f07d50.csv
+INFO 2021-12-15 15:18:49,380: processing 70fbb8b08
+INFO 2021-12-15 15:19:24,500: Pull succeded
+INFO 2021-12-15 15:21:07,290: Metrics calculated
+INFO 2021-12-15 15:21:07,293: File stored 70fbb8b08.csv
+INFO 2021-12-15 15:21:07,293: processing cb292d611
+INFO 2021-12-15 15:21:44,804: Pull succeded
+INFO 2021-12-15 15:23:33,937: Metrics calculated
+INFO 2021-12-15 15:23:33,941: File stored cb292d611.csv
+INFO 2021-12-15 15:23:33,942: processing 28e8eb41c
+INFO 2021-12-15 15:24:12,757: Pull succeded
+INFO 2021-12-15 15:25:56,161: Metrics calculated
+INFO 2021-12-15 15:25:56,167: File stored 28e8eb41c.csv
+INFO 2021-12-15 15:25:56,167: processing 2c0584158
+INFO 2021-12-15 15:26:32,179: Pull succeded
+INFO 2021-12-15 15:28:13,308: Metrics calculated
+INFO 2021-12-15 15:28:13,311: File stored 2c0584158.csv
+INFO 2021-12-15 15:28:13,312: processing 7f061ccb0
+INFO 2021-12-15 15:28:48,259: Pull succeded
+INFO 2021-12-15 15:30:33,838: Metrics calculated
+INFO 2021-12-15 15:30:33,842: File stored 7f061ccb0.csv
+INFO 2021-12-15 15:30:33,843: processing 09e2fedf5
+INFO 2021-12-15 15:31:09,333: Pull succeded
+INFO 2021-12-15 15:32:45,380: Metrics calculated
+INFO 2021-12-15 15:32:45,384: File stored 09e2fedf5.csv
+INFO 2021-12-15 15:32:45,385: processing 110a6e20d
+INFO 2021-12-15 15:33:19,198: Pull succeded
+INFO 2021-12-15 15:34:59,394: Metrics calculated
+INFO 2021-12-15 15:34:59,399: File stored 110a6e20d.csv
+INFO 2021-12-15 15:34:59,399: processing a9d10e069
+INFO 2021-12-15 15:35:33,878: Pull succeded
+INFO 2021-12-15 15:37:06,337: Metrics calculated
+INFO 2021-12-15 15:37:06,341: File stored a9d10e069.csv
+INFO 2021-12-15 15:37:06,342: processing 0ad73ebed
+INFO 2021-12-15 15:37:47,302: Pull succeded
+INFO 2021-12-15 15:39:45,707: Metrics calculated
+INFO 2021-12-15 15:39:45,711: File stored 0ad73ebed.csv
+INFO 2021-12-15 15:39:45,712: processing e22463032
+INFO 2021-12-15 15:40:22,687: Pull succeded
+INFO 2021-12-15 15:42:15,137: Metrics calculated
+INFO 2021-12-15 15:42:15,155: File stored e22463032.csv
+INFO 2021-12-15 15:42:15,156: processing 40c8c067b
+INFO 2021-12-15 15:42:50,964: Pull succeded
+INFO 2021-12-15 15:44:33,660: Metrics calculated
+INFO 2021-12-15 15:44:33,663: File stored 40c8c067b.csv
+INFO 2021-12-15 15:44:33,663: processing 987cad263
+INFO 2021-12-15 15:45:06,595: Pull succeded
+INFO 2021-12-15 15:46:40,926: Metrics calculated
+INFO 2021-12-15 15:46:40,929: File stored 987cad263.csv
+INFO 2021-12-15 15:46:40,930: processing 7cc7d47e6
+INFO 2021-12-15 15:47:15,599: Pull succeded
+INFO 2021-12-15 15:48:41,882: Metrics calculated
+INFO 2021-12-15 15:48:41,887: File stored 7cc7d47e6.csv
+INFO 2021-12-15 15:48:41,888: processing fc8d903c7
+INFO 2021-12-15 15:49:21,966: Pull succeded
+INFO 2021-12-15 15:51:06,547: Metrics calculated
+INFO 2021-12-15 15:51:06,551: File stored fc8d903c7.csv
+INFO 2021-12-15 15:51:06,551: processing d02cdfdb0
+INFO 2021-12-15 15:51:44,015: Pull succeded
+INFO 2021-12-15 15:53:28,266: Metrics calculated
+INFO 2021-12-15 15:53:28,273: File stored d02cdfdb0.csv
+INFO 2021-12-15 15:53:28,274: processing afecb819a
+INFO 2021-12-15 15:54:07,046: Pull succeded
+INFO 2021-12-15 15:56:06,338: Metrics calculated
+INFO 2021-12-15 15:56:06,351: File stored afecb819a.csv
+INFO 2021-12-15 15:56:06,351: processing fef4e5604
+INFO 2021-12-15 15:56:43,158: Pull succeded
+INFO 2021-12-15 15:58:19,141: Metrics calculated
+INFO 2021-12-15 15:58:19,146: File stored fef4e5604.csv
+INFO 2021-12-15 15:58:19,148: processing 32cf19627
+INFO 2021-12-15 15:58:48,662: Pull succeded
+INFO 2021-12-15 16:00:22,598: Metrics calculated
+INFO 2021-12-15 16:00:22,604: File stored 32cf19627.csv
+INFO 2021-12-15 16:00:22,605: processing 9a01e3067
+INFO 2021-12-15 16:01:03,585: Pull succeded
+INFO 2021-12-15 16:02:48,903: Metrics calculated
+INFO 2021-12-15 16:02:48,910: File stored 9a01e3067.csv
+INFO 2021-12-15 16:02:48,912: processing a414fdee7
+INFO 2021-12-15 16:03:29,544: Pull succeded
+INFO 2021-12-15 16:05:13,069: Metrics calculated
+INFO 2021-12-15 16:05:13,072: File stored a414fdee7.csv
+INFO 2021-12-15 16:05:13,073: processing c4de75025
+INFO 2021-12-15 16:05:54,671: Pull succeded
+INFO 2021-12-15 16:07:39,125: Metrics calculated
+INFO 2021-12-15 16:07:39,131: File stored c4de75025.csv
+INFO 2021-12-15 16:07:39,134: processing a6184cb03
+INFO 2021-12-15 16:08:12,678: Pull succeded
+INFO 2021-12-15 16:10:01,311: Metrics calculated
+INFO 2021-12-15 16:10:01,316: File stored a6184cb03.csv
+INFO 2021-12-15 16:10:01,317: processing 98874e4af
+INFO 2021-12-15 16:10:37,683: Pull succeded
+INFO 2021-12-15 16:12:21,755: Metrics calculated
+INFO 2021-12-15 16:12:21,762: File stored 98874e4af.csv
+INFO 2021-12-15 16:12:21,763: processing e097439ea
+INFO 2021-12-15 16:13:01,108: Pull succeded
+INFO 2021-12-15 16:14:45,435: Metrics calculated
+INFO 2021-12-15 16:14:45,441: File stored e097439ea.csv
+INFO 2021-12-15 16:14:45,442: processing 46058a5bf
+INFO 2021-12-15 16:15:26,960: Pull succeded
+INFO 2021-12-15 16:17:20,081: Metrics calculated
+INFO 2021-12-15 16:17:20,089: File stored 46058a5bf.csv
+INFO 2021-12-15 16:17:20,090: processing 4bd62deba
+INFO 2021-12-15 16:17:56,203: Pull succeded
+INFO 2021-12-15 16:19:44,680: Metrics calculated
+INFO 2021-12-15 16:19:44,684: File stored 4bd62deba.csv
+INFO 2021-12-15 16:19:44,686: processing 71f9d67a5
+INFO 2021-12-15 16:20:15,416: Pull succeded
+INFO 2021-12-15 16:21:47,541: Metrics calculated
+INFO 2021-12-15 16:21:47,547: File stored 71f9d67a5.csv
+INFO 2021-12-15 16:21:47,548: processing ea55a2edc
+INFO 2021-12-15 16:22:22,002: Pull succeded
+INFO 2021-12-15 16:24:28,427: Metrics calculated
+INFO 2021-12-15 16:24:28,432: File stored ea55a2edc.csv
+INFO 2021-12-15 16:24:28,434: processing 62e5e0186
+INFO 2021-12-15 16:25:09,082: Pull succeded
+INFO 2021-12-15 16:26:54,148: Metrics calculated
+INFO 2021-12-15 16:26:54,151: File stored 62e5e0186.csv
+INFO 2021-12-15 16:26:54,151: processing c5b1d866d
+INFO 2021-12-15 16:27:31,696: Pull succeded
+INFO 2021-12-15 16:29:15,582: Metrics calculated
+INFO 2021-12-15 16:29:15,599: File stored c5b1d866d.csv
+INFO 2021-12-15 16:29:15,601: processing 98eb1a9ee
+INFO 2021-12-15 16:29:56,058: Pull succeded
+INFO 2021-12-15 16:31:39,585: Metrics calculated
+INFO 2021-12-15 16:31:39,589: File stored 98eb1a9ee.csv
+INFO 2021-12-15 16:31:39,589: processing bf1275a8a
+INFO 2021-12-15 16:32:17,787: Pull succeded
+INFO 2021-12-15 16:34:03,285: Metrics calculated
+INFO 2021-12-15 16:34:03,290: File stored bf1275a8a.csv
+INFO 2021-12-15 16:34:03,291: processing 3bc9308ab
+INFO 2021-12-15 16:34:39,293: Pull succeded
+INFO 2021-12-15 16:36:33,924: Metrics calculated
+INFO 2021-12-15 16:36:33,930: File stored 3bc9308ab.csv
+INFO 2021-12-15 16:36:33,931: processing 9e81ab67b
+INFO 2021-12-15 16:37:19,868: Pull succeded
+INFO 2021-12-15 16:39:33,965: Metrics calculated
+INFO 2021-12-15 16:39:33,969: File stored 9e81ab67b.csv
+INFO 2021-12-15 16:39:33,970: processing d00ca7f38
+INFO 2021-12-15 16:40:45,888: Pull succeded
+INFO 2021-12-15 16:43:20,683: Metrics calculated
+INFO 2021-12-15 16:43:20,688: File stored d00ca7f38.csv
+INFO 2021-12-15 16:43:20,690: processing 6a62bf2a6
+INFO 2021-12-15 16:44:21,334: Pull succeded
+INFO 2021-12-15 16:46:28,769: Metrics calculated
+INFO 2021-12-15 16:46:28,774: File stored 6a62bf2a6.csv
+INFO 2021-12-15 16:46:28,775: processing 5d3e4c185
+INFO 2021-12-15 16:47:17,370: Pull succeded
+INFO 2021-12-15 16:49:24,918: Metrics calculated
+INFO 2021-12-15 16:49:24,929: File stored 5d3e4c185.csv
+INFO 2021-12-15 16:49:24,931: processing cac568f44
+INFO 2021-12-15 16:50:49,917: Pull succeded
+INFO 2021-12-15 16:54:30,376: Metrics calculated
+INFO 2021-12-15 16:54:30,378: File stored cac568f44.csv
+INFO 2021-12-15 16:54:30,379: processing 978c8fc68
+INFO 2021-12-15 16:56:07,431: Pull succeded
+INFO 2021-12-15 16:58:58,735: Metrics calculated
+INFO 2021-12-15 16:58:58,738: File stored 978c8fc68.csv
+INFO 2021-12-15 16:58:58,739: processing 8e76fb87d
+INFO 2021-12-15 17:00:27,022: Pull succeded
+INFO 2021-12-15 17:03:13,902: Metrics calculated
+INFO 2021-12-15 17:03:13,905: File stored 8e76fb87d.csv
+INFO 2021-12-15 17:03:13,905: processing 380b147da
+INFO 2021-12-15 17:03:59,784: Pull succeded
+INFO 2021-12-15 17:05:48,484: Metrics calculated
+INFO 2021-12-15 17:05:48,487: File stored 380b147da.csv
+INFO 2021-12-15 17:05:48,488: processing 6558afa21
+INFO 2021-12-15 17:06:27,753: Pull succeded
+INFO 2021-12-15 17:08:21,268: Metrics calculated
+INFO 2021-12-15 17:08:21,275: File stored 6558afa21.csv
+INFO 2021-12-15 17:08:21,277: processing ee006271d
+INFO 2021-12-15 17:08:59,353: Pull succeded
+INFO 2021-12-15 17:10:53,442: Metrics calculated
+INFO 2021-12-15 17:10:53,444: File stored ee006271d.csv
+INFO 2021-12-15 17:10:53,445: processing db75e677d
+INFO 2021-12-15 17:11:33,466: Pull succeded
+INFO 2021-12-15 17:13:20,640: Metrics calculated
+INFO 2021-12-15 17:13:20,643: File stored db75e677d.csv
+INFO 2021-12-15 17:13:20,644: processing 9089fecbe
+INFO 2021-12-15 17:14:00,253: Pull succeded
+INFO 2021-12-15 17:15:51,696: Metrics calculated
+INFO 2021-12-15 17:15:51,700: File stored 9089fecbe.csv
+INFO 2021-12-15 17:15:51,702: processing f16bbaa91
+INFO 2021-12-15 17:16:34,934: Pull succeded
+INFO 2021-12-15 17:18:28,250: Metrics calculated
+INFO 2021-12-15 17:18:28,256: File stored f16bbaa91.csv
+INFO 2021-12-15 17:18:28,256: processing fbb61ffd3
+INFO 2021-12-15 17:19:03,194: Pull succeded
+INFO 2021-12-15 17:20:51,379: Metrics calculated
+INFO 2021-12-15 17:20:51,385: File stored fbb61ffd3.csv
+INFO 2021-12-15 17:20:51,386: processing b282e2abf
+INFO 2021-12-15 17:21:31,031: Pull succeded
+INFO 2021-12-15 17:23:27,509: Metrics calculated
+INFO 2021-12-15 17:23:27,512: File stored b282e2abf.csv
+INFO 2021-12-15 17:23:27,513: processing f48d3fac0
+INFO 2021-12-15 17:24:08,815: Pull succeded
+INFO 2021-12-15 17:25:45,547: Metrics calculated
+INFO 2021-12-15 17:25:45,549: File stored f48d3fac0.csv
+INFO 2021-12-15 17:25:45,550: processing bc05c40aa
+INFO 2021-12-15 17:25:54,978: Pull succeded
+INFO 2021-12-15 17:26:15,003: Metrics calculated
+INFO 2021-12-15 17:26:15,005: File stored bc05c40aa.csv
+INFO 2021-12-15 17:26:15,006: processing d2ac1a4e6
+INFO 2021-12-15 17:26:25,011: Pull succeded
+INFO 2021-12-15 17:26:45,526: Metrics calculated
+INFO 2021-12-15 17:26:45,528: File stored d2ac1a4e6.csv
+INFO 2021-12-15 17:26:45,529: processing ad8046dab
+INFO 2021-12-15 17:26:55,071: Pull succeded
+INFO 2021-12-15 17:27:15,060: Metrics calculated
+INFO 2021-12-15 17:27:15,063: File stored ad8046dab.csv
+INFO 2021-12-15 17:27:15,063: processing 4813e573c
+INFO 2021-12-15 17:27:25,026: Pull succeded
+INFO 2021-12-15 17:27:45,358: Metrics calculated
+INFO 2021-12-15 17:27:45,362: File stored 4813e573c.csv
+INFO 2021-12-15 17:27:45,362: processing 64fcc716c
+INFO 2021-12-15 17:27:55,068: Pull succeded
+INFO 2021-12-15 17:28:15,115: Metrics calculated
+INFO 2021-12-15 17:28:15,118: File stored 64fcc716c.csv
+INFO 2021-12-15 17:28:15,119: processing 2f4485d06
+INFO 2021-12-15 17:28:24,966: Pull succeded
+INFO 2021-12-15 17:28:45,654: Metrics calculated
+INFO 2021-12-15 17:28:45,657: File stored 2f4485d06.csv
+INFO 2021-12-15 17:28:45,657: processing 35d3aeb6d
+INFO 2021-12-15 17:28:55,099: Pull succeded
+INFO 2021-12-15 17:29:15,577: Metrics calculated
+INFO 2021-12-15 17:29:15,579: File stored 35d3aeb6d.csv
+INFO 2021-12-15 17:29:15,580: processing 0a6577f85
+INFO 2021-12-15 17:29:24,966: Pull succeded
+INFO 2021-12-15 17:29:44,478: Metrics calculated
+INFO 2021-12-15 17:29:44,480: File stored 0a6577f85.csv
+INFO 2021-12-15 17:29:44,480: processing fec9fb4d0
+INFO 2021-12-15 17:29:53,886: Pull succeded
+INFO 2021-12-15 17:30:12,778: Metrics calculated
+INFO 2021-12-15 17:30:12,782: File stored fec9fb4d0.csv
+INFO 2021-12-15 17:30:12,782: processing bef09e4d0
+INFO 2021-12-15 17:30:21,849: Pull succeded
+INFO 2021-12-15 17:30:40,889: Metrics calculated
+INFO 2021-12-15 17:30:40,893: File stored bef09e4d0.csv
+INFO 2021-12-15 17:30:40,894: processing 846520226
+INFO 2021-12-15 17:30:50,088: Pull succeded
+INFO 2021-12-15 17:31:09,729: Metrics calculated
+INFO 2021-12-15 17:31:09,733: File stored 846520226.csv
+INFO 2021-12-15 17:31:09,733: processing 9ab0ea6e4
+INFO 2021-12-15 17:31:19,170: Pull succeded
+INFO 2021-12-15 17:31:38,943: Metrics calculated
+INFO 2021-12-15 17:31:38,946: File stored 9ab0ea6e4.csv
+INFO 2021-12-15 17:31:38,946: processing aef835b45
+INFO 2021-12-15 17:31:48,051: Pull succeded
+INFO 2021-12-15 17:32:07,211: Metrics calculated
+INFO 2021-12-15 17:32:07,214: File stored aef835b45.csv
+INFO 2021-12-15 17:32:07,215: processing 84d10a8ea
+INFO 2021-12-15 17:32:16,382: Pull succeded
+INFO 2021-12-15 17:32:35,809: Metrics calculated
+INFO 2021-12-15 17:32:35,813: File stored 84d10a8ea.csv
+INFO 2021-12-15 17:32:35,813: processing 455fecff1
+INFO 2021-12-15 17:32:45,327: Pull succeded
+INFO 2021-12-15 17:33:04,647: Metrics calculated
+INFO 2021-12-15 17:33:04,651: File stored 455fecff1.csv
+INFO 2021-12-15 17:33:04,651: processing 9b8a26e32
+INFO 2021-12-15 17:33:13,965: Pull succeded
+INFO 2021-12-15 17:33:33,146: Metrics calculated
+INFO 2021-12-15 17:33:33,148: File stored 9b8a26e32.csv
+INFO 2021-12-15 17:33:33,148: processing 1bd1c14d8
+INFO 2021-12-15 17:33:42,159: Pull succeded
+INFO 2021-12-15 17:34:01,320: Metrics calculated
+INFO 2021-12-15 17:34:01,322: File stored 1bd1c14d8.csv
+INFO 2021-12-15 17:34:01,322: processing 587590968
+INFO 2021-12-15 17:34:10,818: Pull succeded
+INFO 2021-12-15 17:34:30,200: Metrics calculated
+INFO 2021-12-15 17:34:30,201: File stored 587590968.csv
+INFO 2021-12-15 17:34:30,202: processing 0cb6b48e2
+INFO 2021-12-15 17:34:39,532: Pull succeded
+INFO 2021-12-15 17:34:58,991: Metrics calculated
+INFO 2021-12-15 17:34:58,994: File stored 0cb6b48e2.csv
+INFO 2021-12-15 17:34:58,994: processing 3c982759c
+INFO 2021-12-15 17:35:08,149: Pull succeded
+INFO 2021-12-15 17:35:27,347: Metrics calculated
+INFO 2021-12-15 17:35:27,349: File stored 3c982759c.csv
+INFO 2021-12-15 17:35:27,349: processing bede6967d
+INFO 2021-12-15 17:35:36,843: Pull succeded
+INFO 2021-12-15 17:35:56,244: Metrics calculated
+INFO 2021-12-15 17:35:56,245: File stored bede6967d.csv
+INFO 2021-12-15 17:35:56,246: processing 054a901b9
+INFO 2021-12-15 17:36:06,005: Pull succeded
+INFO 2021-12-15 17:36:25,576: Metrics calculated
+INFO 2021-12-15 17:36:25,579: File stored 054a901b9.csv
+INFO 2021-12-15 17:36:25,579: processing e08211309
+INFO 2021-12-15 17:36:35,181: Pull succeded
+INFO 2021-12-15 17:36:54,964: Metrics calculated
+INFO 2021-12-15 17:36:54,967: File stored e08211309.csv
+INFO 2021-12-15 17:36:54,967: processing b0cb2c4e5
+INFO 2021-12-15 17:37:04,378: Pull succeded
+INFO 2021-12-15 17:37:23,287: Metrics calculated
+INFO 2021-12-15 17:37:23,290: File stored b0cb2c4e5.csv
+INFO 2021-12-15 17:37:23,290: processing b77f5f731
+INFO 2021-12-15 17:37:33,089: Pull succeded
+INFO 2021-12-15 17:37:52,535: Metrics calculated
+INFO 2021-12-15 17:37:52,538: File stored b77f5f731.csv
+INFO 2021-12-15 17:37:52,538: processing a859cfb9f
+INFO 2021-12-15 17:38:02,415: Pull succeded
+INFO 2021-12-15 17:38:21,880: Metrics calculated
+INFO 2021-12-15 17:38:21,881: File stored a859cfb9f.csv
+INFO 2021-12-15 17:38:21,882: processing e55d4145d
+INFO 2021-12-15 17:38:30,982: Pull succeded
+INFO 2021-12-15 17:38:50,532: Metrics calculated
+INFO 2021-12-15 17:38:50,535: File stored e55d4145d.csv
+INFO 2021-12-15 17:38:50,535: processing 740a14e63
+INFO 2021-12-15 17:39:00,446: Pull succeded
+INFO 2021-12-15 17:39:20,084: Metrics calculated
+INFO 2021-12-15 17:39:20,087: File stored 740a14e63.csv
+INFO 2021-12-15 17:39:20,087: processing 0b8e7922b
+INFO 2021-12-15 17:39:29,142: Pull succeded
+INFO 2021-12-15 17:39:48,226: Metrics calculated
+INFO 2021-12-15 17:39:48,228: File stored 0b8e7922b.csv
+INFO 2021-12-15 17:39:48,228: processing 24c9f8c27
+INFO 2021-12-15 17:39:57,969: Pull succeded
+INFO 2021-12-15 17:40:17,079: Metrics calculated
+INFO 2021-12-15 17:40:17,081: File stored 24c9f8c27.csv
+INFO 2021-12-15 17:40:17,081: processing 935becec6
+INFO 2021-12-15 17:40:26,122: Pull succeded
+INFO 2021-12-15 17:40:46,076: Metrics calculated
+INFO 2021-12-15 17:40:46,078: File stored 935becec6.csv
+INFO 2021-12-15 17:40:46,078: processing a48906e0c
+INFO 2021-12-15 17:40:55,534: Pull succeded
+INFO 2021-12-15 17:41:14,952: Metrics calculated
+INFO 2021-12-15 17:41:14,956: File stored a48906e0c.csv
+INFO 2021-12-15 17:41:14,956: processing 1b7574a8b
+INFO 2021-12-15 17:41:24,179: Pull succeded
+INFO 2021-12-15 17:41:43,290: Metrics calculated
+INFO 2021-12-15 17:41:43,294: File stored 1b7574a8b.csv
+INFO 2021-12-15 17:41:43,294: processing 4bf40fc23
+INFO 2021-12-15 17:41:52,714: Pull succeded
+INFO 2021-12-15 17:42:12,089: Metrics calculated
+INFO 2021-12-15 17:42:12,092: File stored 4bf40fc23.csv
+INFO 2021-12-15 17:42:12,093: processing b11d54e50
+INFO 2021-12-15 17:42:21,309: Pull succeded
+INFO 2021-12-15 17:42:41,583: Metrics calculated
+INFO 2021-12-15 17:42:41,586: File stored b11d54e50.csv
+INFO 2021-12-15 17:42:41,586: processing c84fb7fc9
+INFO 2021-12-15 17:42:51,086: Pull succeded
+INFO 2021-12-15 17:43:10,215: Metrics calculated
+INFO 2021-12-15 17:43:10,218: File stored c84fb7fc9.csv
+INFO 2021-12-15 17:43:10,218: processing 8c83281a1
+INFO 2021-12-15 17:43:19,523: Pull succeded
+INFO 2021-12-15 17:43:38,392: Metrics calculated
+INFO 2021-12-15 17:43:38,394: File stored 8c83281a1.csv
+INFO 2021-12-15 17:43:38,395: processing 4748e9df5
+INFO 2021-12-15 17:43:47,923: Pull succeded
+INFO 2021-12-15 17:44:07,255: Metrics calculated
+INFO 2021-12-15 17:44:07,257: File stored 4748e9df5.csv
+INFO 2021-12-15 17:44:07,258: processing a3eae13e5
+INFO 2021-12-15 17:44:16,811: Pull succeded
+INFO 2021-12-15 17:44:35,819: Metrics calculated
+INFO 2021-12-15 17:44:35,821: File stored a3eae13e5.csv
+INFO 2021-12-15 17:44:35,822: processing 2afdb8a6c
+INFO 2021-12-15 17:44:45,130: Pull succeded
+INFO 2021-12-15 17:45:04,032: Metrics calculated
+INFO 2021-12-15 17:45:04,034: File stored 2afdb8a6c.csv
+INFO 2021-12-15 17:45:04,034: processing 9c1fd0d74
+INFO 2021-12-15 17:45:13,434: Pull succeded
+INFO 2021-12-15 17:45:32,840: Metrics calculated
+INFO 2021-12-15 17:45:32,842: File stored 9c1fd0d74.csv
+INFO 2021-12-15 17:45:32,842: processing 5faa1c986
+INFO 2021-12-15 17:45:42,273: Pull succeded
+INFO 2021-12-15 17:46:02,281: Metrics calculated
+INFO 2021-12-15 17:46:02,282: File stored 5faa1c986.csv
+INFO 2021-12-15 17:46:02,283: processing de671f7e3
+INFO 2021-12-15 17:46:11,629: Pull succeded
+INFO 2021-12-15 17:46:35,270: Metrics calculated
+INFO 2021-12-15 17:46:35,274: File stored de671f7e3.csv
+INFO 2021-12-15 17:46:35,274: processing ab7b7351f
+INFO 2021-12-15 17:46:44,739: Pull succeded
+INFO 2021-12-15 17:47:03,898: Metrics calculated
+INFO 2021-12-15 17:47:03,902: File stored ab7b7351f.csv
+INFO 2021-12-15 17:47:03,902: processing 9c02f932f
+INFO 2021-12-15 17:47:13,387: Pull succeded
+INFO 2021-12-15 17:47:32,770: Metrics calculated
+INFO 2021-12-15 17:47:32,772: File stored 9c02f932f.csv
+INFO 2021-12-15 17:47:32,772: processing 76c5d9912
+INFO 2021-12-15 17:47:42,127: Pull succeded
+INFO 2021-12-15 17:48:01,544: Metrics calculated
+INFO 2021-12-15 17:48:01,546: File stored 76c5d9912.csv
+INFO 2021-12-15 17:48:01,547: processing a5ad02f81
+INFO 2021-12-15 17:48:11,357: Pull succeded
+INFO 2021-12-15 17:48:30,624: Metrics calculated
+INFO 2021-12-15 17:48:30,626: File stored a5ad02f81.csv
+INFO 2021-12-15 17:48:30,626: processing 9ddb72b51
+INFO 2021-12-15 17:48:40,058: Pull succeded
+INFO 2021-12-15 17:48:59,906: Metrics calculated
+INFO 2021-12-15 17:48:59,907: File stored 9ddb72b51.csv
+INFO 2021-12-15 17:48:59,908: processing 67b65ddd7
+INFO 2021-12-15 17:49:09,633: Pull succeded
+INFO 2021-12-15 17:49:29,012: Metrics calculated
+INFO 2021-12-15 17:49:29,015: File stored 67b65ddd7.csv
+INFO 2021-12-15 17:49:29,015: processing 036370280
+INFO 2021-12-15 17:49:38,194: Pull succeded
+INFO 2021-12-15 17:49:59,547: Metrics calculated
+INFO 2021-12-15 17:49:59,550: File stored 036370280.csv
+INFO 2021-12-15 17:49:59,550: processing 9166828bf
+INFO 2021-12-15 17:50:09,630: Pull succeded
+INFO 2021-12-15 17:50:29,250: Metrics calculated
+INFO 2021-12-15 17:50:29,253: File stored 9166828bf.csv
+INFO 2021-12-15 17:50:29,253: processing f6546aea4
+INFO 2021-12-15 17:50:38,567: Pull succeded
+INFO 2021-12-15 17:51:09,348: Metrics calculated
+INFO 2021-12-15 17:51:09,350: File stored f6546aea4.csv
+INFO 2021-12-15 17:51:09,351: processing 026210564
+INFO 2021-12-15 17:51:22,663: Pull succeded
+INFO 2021-12-15 17:51:55,625: Metrics calculated
+INFO 2021-12-15 17:51:55,627: File stored 026210564.csv
+INFO 2021-12-15 17:51:55,628: processing 0b4a4fb0b
+INFO 2021-12-15 17:52:05,519: Pull succeded
+INFO 2021-12-15 17:52:37,015: Metrics calculated
+INFO 2021-12-15 17:52:37,017: File stored 0b4a4fb0b.csv
+INFO 2021-12-15 17:52:37,018: processing af812a551
+INFO 2021-12-15 17:52:47,222: Pull succeded
+INFO 2021-12-15 17:53:27,158: Metrics calculated
+INFO 2021-12-15 17:53:27,162: File stored af812a551.csv
+INFO 2021-12-15 17:53:27,162: processing f13fe9a4f
+INFO 2021-12-15 17:53:36,846: Pull succeded
+INFO 2021-12-15 17:54:02,768: Metrics calculated
+INFO 2021-12-15 17:54:02,770: File stored f13fe9a4f.csv
+INFO 2021-12-15 17:54:02,770: processing 1d6e710ea
+INFO 2021-12-15 17:54:12,557: Pull succeded
+INFO 2021-12-15 17:54:31,673: Metrics calculated
+INFO 2021-12-15 17:54:31,676: File stored 1d6e710ea.csv
+INFO 2021-12-15 17:54:31,676: processing 65e0d8b54
+INFO 2021-12-15 17:54:41,086: Pull succeded
+INFO 2021-12-15 17:55:00,505: Metrics calculated
+INFO 2021-12-15 17:55:00,507: File stored 65e0d8b54.csv
+INFO 2021-12-15 17:55:00,507: processing d71f2738c
+INFO 2021-12-15 17:55:10,131: Pull succeded
+INFO 2021-12-15 17:55:29,381: Metrics calculated
+INFO 2021-12-15 17:55:29,382: File stored d71f2738c.csv
+INFO 2021-12-15 17:55:29,383: processing 4c3de2663
+INFO 2021-12-15 17:55:38,924: Pull succeded
+INFO 2021-12-15 17:55:58,607: Metrics calculated
+INFO 2021-12-15 17:55:58,608: File stored 4c3de2663.csv
+INFO 2021-12-15 17:55:58,609: processing 670ad374e
+INFO 2021-12-15 17:56:08,305: Pull succeded
+INFO 2021-12-15 17:56:28,111: Metrics calculated
+INFO 2021-12-15 17:56:28,112: File stored 670ad374e.csv
+INFO 2021-12-15 17:56:28,113: processing 971bd7705
+INFO 2021-12-15 17:56:37,474: Pull succeded
+INFO 2021-12-15 17:56:57,241: Metrics calculated
+INFO 2021-12-15 17:56:57,242: File stored 971bd7705.csv
+INFO 2021-12-15 17:56:57,242: processing 956ddda98
+INFO 2021-12-15 17:57:07,131: Pull succeded
+INFO 2021-12-15 17:57:26,429: Metrics calculated
+INFO 2021-12-15 17:57:26,431: File stored 956ddda98.csv
+INFO 2021-12-15 17:57:26,432: processing d57681c44
+INFO 2021-12-15 17:57:35,806: Pull succeded
+INFO 2021-12-15 17:57:54,935: Metrics calculated
+INFO 2021-12-15 17:57:54,938: File stored d57681c44.csv
+INFO 2021-12-15 17:57:54,938: processing 54da4d6d3
+INFO 2021-12-15 17:58:04,577: Pull succeded
+INFO 2021-12-15 17:58:23,549: Metrics calculated
+INFO 2021-12-15 17:58:23,551: File stored 54da4d6d3.csv
+INFO 2021-12-15 17:58:23,552: processing 0210c6b53
+INFO 2021-12-15 17:58:33,487: Pull succeded
+INFO 2021-12-15 17:58:52,782: Metrics calculated
+INFO 2021-12-15 17:58:52,785: File stored 0210c6b53.csv
+INFO 2021-12-15 17:58:52,786: processing 765519a56
+INFO 2021-12-15 17:59:02,001: Pull succeded
+INFO 2021-12-15 17:59:21,577: Metrics calculated
+INFO 2021-12-15 17:59:21,578: File stored 765519a56.csv
+INFO 2021-12-15 17:59:21,578: processing 2d24d074e
+INFO 2021-12-15 17:59:30,870: Pull succeded
+INFO 2021-12-15 17:59:49,962: Metrics calculated
+INFO 2021-12-15 17:59:49,965: File stored 2d24d074e.csv
+INFO 2021-12-15 17:59:49,965: processing 6789cfe22
+INFO 2021-12-15 17:59:59,438: Pull succeded
+INFO 2021-12-15 18:00:19,127: Metrics calculated
+INFO 2021-12-15 18:00:19,130: File stored 6789cfe22.csv
+INFO 2021-12-15 18:00:19,130: processing 03283bb09
+INFO 2021-12-15 18:00:28,554: Pull succeded
+INFO 2021-12-15 18:00:47,775: Metrics calculated
+INFO 2021-12-15 18:00:47,778: File stored 03283bb09.csv
+INFO 2021-12-15 18:00:47,779: processing 334e75254
+INFO 2021-12-15 18:00:57,465: Pull succeded
+INFO 2021-12-15 18:01:16,843: Metrics calculated
+INFO 2021-12-15 18:01:16,847: File stored 334e75254.csv
+INFO 2021-12-15 18:01:16,847: processing e8c4980c4
+INFO 2021-12-15 18:01:26,338: Pull succeded
+INFO 2021-12-15 18:01:45,420: Metrics calculated
+INFO 2021-12-15 18:01:45,424: File stored e8c4980c4.csv
+INFO 2021-12-15 18:01:45,424: processing 5bc6cee11
+INFO 2021-12-15 18:01:55,266: Pull succeded
+INFO 2021-12-15 18:02:15,053: Metrics calculated
+INFO 2021-12-15 18:02:15,055: File stored 5bc6cee11.csv
+INFO 2021-12-15 18:02:15,055: processing 298105925
+INFO 2021-12-15 18:02:24,544: Pull succeded
+INFO 2021-12-15 18:02:43,491: Metrics calculated
+INFO 2021-12-15 18:02:43,495: File stored 298105925.csv
+INFO 2021-12-15 18:02:43,495: processing c0a1ffa27
+INFO 2021-12-15 18:02:53,212: Pull succeded
+INFO 2021-12-15 18:03:13,200: Metrics calculated
+INFO 2021-12-15 18:03:13,204: File stored c0a1ffa27.csv
+INFO 2021-12-15 18:03:13,204: processing 9ebe916fa
+INFO 2021-12-15 18:03:22,909: Pull succeded
+INFO 2021-12-15 18:03:42,542: Metrics calculated
+INFO 2021-12-15 18:03:42,545: File stored 9ebe916fa.csv
+INFO 2021-12-15 18:03:42,546: processing 2ec7a0253
+INFO 2021-12-15 18:03:51,928: Pull succeded
+INFO 2021-12-15 18:04:11,479: Metrics calculated
+INFO 2021-12-15 18:04:11,481: File stored 2ec7a0253.csv
+INFO 2021-12-15 18:04:11,482: processing 330aeb0ba
+INFO 2021-12-15 18:04:20,945: Pull succeded
+INFO 2021-12-15 18:04:40,267: Metrics calculated
+INFO 2021-12-15 18:04:40,270: File stored 330aeb0ba.csv
+INFO 2021-12-15 18:04:40,270: processing 1e61cd6b4
+INFO 2021-12-15 18:04:49,893: Pull succeded
+INFO 2021-12-15 18:05:09,479: Metrics calculated
+INFO 2021-12-15 18:05:09,482: File stored 1e61cd6b4.csv
+INFO 2021-12-15 18:05:09,482: processing 1379505e1
+INFO 2021-12-15 18:05:19,306: Pull succeded
+INFO 2021-12-15 18:05:38,270: Metrics calculated
+INFO 2021-12-15 18:05:38,272: File stored 1379505e1.csv
+INFO 2021-12-15 18:05:38,272: processing 2e497c6c4
+INFO 2021-12-15 18:05:47,884: Pull succeded
+INFO 2021-12-15 18:06:06,954: Metrics calculated
+INFO 2021-12-15 18:06:06,956: File stored 2e497c6c4.csv
+INFO 2021-12-15 18:06:06,956: processing 9d92baa14
+INFO 2021-12-15 18:06:16,272: Pull succeded
+INFO 2021-12-15 18:06:35,992: Metrics calculated
+INFO 2021-12-15 18:06:35,995: File stored 9d92baa14.csv
+INFO 2021-12-15 18:06:35,995: processing 50a503417
+INFO 2021-12-15 18:06:45,774: Pull succeded
+INFO 2021-12-15 18:07:04,723: Metrics calculated
+INFO 2021-12-15 18:07:04,726: File stored 50a503417.csv
+INFO 2021-12-15 18:07:04,726: processing 4d029de00
+INFO 2021-12-15 18:07:14,423: Pull succeded
+INFO 2021-12-15 18:07:34,150: Metrics calculated
+INFO 2021-12-15 18:07:34,153: File stored 4d029de00.csv
+INFO 2021-12-15 18:07:34,153: processing 03a43370b
+INFO 2021-12-15 18:07:43,569: Pull succeded
+INFO 2021-12-15 18:08:02,963: Metrics calculated
+INFO 2021-12-15 18:08:02,964: File stored 03a43370b.csv
+INFO 2021-12-15 18:08:02,964: processing 7e7a9d0fe
+INFO 2021-12-15 18:08:12,629: Pull succeded
+INFO 2021-12-15 18:08:31,950: Metrics calculated
+INFO 2021-12-15 18:08:31,951: File stored 7e7a9d0fe.csv
+INFO 2021-12-15 18:08:31,951: processing 875a775e9
+INFO 2021-12-15 18:08:41,258: Pull succeded
+INFO 2021-12-15 18:09:00,671: Metrics calculated
+INFO 2021-12-15 18:09:00,672: File stored 875a775e9.csv
+INFO 2021-12-15 18:09:00,672: processing cd49d29e5
+INFO 2021-12-15 18:09:10,365: Pull succeded
+INFO 2021-12-15 18:09:30,078: Metrics calculated
+INFO 2021-12-15 18:09:30,080: File stored cd49d29e5.csv
+INFO 2021-12-15 18:09:30,081: processing ecf432fad
+INFO 2021-12-15 18:09:39,312: Pull succeded
+INFO 2021-12-15 18:09:59,744: Metrics calculated
+INFO 2021-12-15 18:09:59,746: File stored ecf432fad.csv
+INFO 2021-12-15 18:09:59,747: processing 2288f035b
+INFO 2021-12-15 18:10:09,157: Pull succeded
+INFO 2021-12-15 18:10:28,220: Metrics calculated
+INFO 2021-12-15 18:10:28,222: File stored 2288f035b.csv
+INFO 2021-12-15 18:10:28,222: processing 74dea286a
+INFO 2021-12-15 18:10:37,488: Pull succeded
+INFO 2021-12-15 18:10:57,088: Metrics calculated
+INFO 2021-12-15 18:10:57,089: File stored 74dea286a.csv
+INFO 2021-12-15 18:10:57,090: processing 6303f8494
+INFO 2021-12-15 18:11:06,505: Pull succeded
+INFO 2021-12-15 18:11:25,552: Metrics calculated
+INFO 2021-12-15 18:11:25,554: File stored 6303f8494.csv
+INFO 2021-12-15 18:11:25,554: processing 96c457696
+INFO 2021-12-15 18:11:34,790: Pull succeded
+INFO 2021-12-15 18:11:53,989: Metrics calculated
+INFO 2021-12-15 18:11:53,991: File stored 96c457696.csv
+INFO 2021-12-15 18:11:53,992: processing f7fe11c82
+INFO 2021-12-15 18:12:03,675: Pull succeded
+INFO 2021-12-15 18:12:23,249: Metrics calculated
+INFO 2021-12-15 18:12:23,251: File stored f7fe11c82.csv
+INFO 2021-12-15 18:12:23,251: processing 40535dfc5
+INFO 2021-12-15 18:12:32,423: Pull succeded
+INFO 2021-12-15 18:12:51,741: Metrics calculated
+INFO 2021-12-15 18:12:51,744: File stored 40535dfc5.csv
+INFO 2021-12-15 18:12:51,745: processing b42c6667e
+INFO 2021-12-15 18:13:01,444: Pull succeded
+INFO 2021-12-15 18:13:21,561: Metrics calculated
+INFO 2021-12-15 18:13:21,563: File stored b42c6667e.csv
+INFO 2021-12-15 18:13:21,563: processing 4c9e5fc56
+INFO 2021-12-15 18:13:30,977: Pull succeded
+INFO 2021-12-15 18:13:50,634: Metrics calculated
+INFO 2021-12-15 18:13:50,636: File stored 4c9e5fc56.csv
+INFO 2021-12-15 18:13:50,636: processing 9521d54be
+INFO 2021-12-15 18:13:59,942: Pull succeded
+INFO 2021-12-15 18:14:19,431: Metrics calculated
+INFO 2021-12-15 18:14:19,433: File stored 9521d54be.csv
+INFO 2021-12-15 18:14:19,433: processing 7d0ffe92b
+INFO 2021-12-15 18:14:28,760: Pull succeded
+INFO 2021-12-15 18:14:48,624: Metrics calculated
+INFO 2021-12-15 18:14:48,627: File stored 7d0ffe92b.csv
+INFO 2021-12-15 18:14:48,628: processing 3c67e7438
+INFO 2021-12-15 18:14:58,510: Pull succeded
+INFO 2021-12-15 18:15:17,875: Metrics calculated
+INFO 2021-12-15 18:15:17,878: File stored 3c67e7438.csv
+INFO 2021-12-15 18:15:17,879: processing 9b3ee714c
+INFO 2021-12-15 18:15:27,249: Pull succeded
+INFO 2021-12-15 18:15:47,045: Metrics calculated
+INFO 2021-12-15 18:15:47,048: File stored 9b3ee714c.csv
+INFO 2021-12-15 18:15:47,049: processing a7024791c
+INFO 2021-12-15 18:15:56,408: Pull succeded
+INFO 2021-12-15 18:16:16,038: Metrics calculated
+INFO 2021-12-15 18:16:16,041: File stored a7024791c.csv
+INFO 2021-12-15 18:16:16,041: processing 750534f69
+INFO 2021-12-15 18:16:27,104: Pull succeded
+INFO 2021-12-15 18:16:47,803: Metrics calculated
+INFO 2021-12-15 18:16:47,806: File stored 750534f69.csv
+INFO 2021-12-15 18:16:47,807: processing b5367bcdb
+INFO 2021-12-15 18:16:57,082: Pull succeded
+INFO 2021-12-15 18:17:16,573: Metrics calculated
+INFO 2021-12-15 18:17:16,575: File stored b5367bcdb.csv
+INFO 2021-12-15 18:17:16,576: processing fe739de2a
+INFO 2021-12-15 18:17:26,213: Pull succeded
+INFO 2021-12-15 18:17:45,151: Metrics calculated
+INFO 2021-12-15 18:17:45,153: File stored fe739de2a.csv
+INFO 2021-12-15 18:17:45,154: processing c21b8b744
+INFO 2021-12-15 18:17:55,276: Pull succeded
+INFO 2021-12-15 18:18:15,088: Metrics calculated
+INFO 2021-12-15 18:18:15,091: File stored c21b8b744.csv
+INFO 2021-12-15 18:18:15,091: processing 65f285fa6
+INFO 2021-12-15 18:18:24,284: Pull succeded
+INFO 2021-12-15 18:18:44,031: Metrics calculated
+INFO 2021-12-15 18:18:44,034: File stored 65f285fa6.csv
+INFO 2021-12-15 18:18:44,034: processing ab227d37e
+INFO 2021-12-15 18:18:53,495: Pull succeded
+INFO 2021-12-15 18:19:13,042: Metrics calculated
+INFO 2021-12-15 18:19:13,045: File stored ab227d37e.csv
+INFO 2021-12-15 18:19:13,045: processing ed3d46732
+INFO 2021-12-15 18:19:22,390: Pull succeded
+INFO 2021-12-15 18:19:41,322: Metrics calculated
+INFO 2021-12-15 18:19:41,326: File stored ed3d46732.csv
+INFO 2021-12-15 18:19:41,326: processing e646ca252
+INFO 2021-12-15 18:19:50,973: Pull succeded
+INFO 2021-12-15 18:20:10,100: Metrics calculated
+INFO 2021-12-15 18:20:10,102: File stored e646ca252.csv
+INFO 2021-12-15 18:20:10,103: processing 930289aa6
+INFO 2021-12-15 18:20:19,332: Pull succeded
+INFO 2021-12-15 18:20:38,907: Metrics calculated
+INFO 2021-12-15 18:20:38,910: File stored 930289aa6.csv
+INFO 2021-12-15 18:20:38,910: processing 02b7fa87e
+INFO 2021-12-15 18:20:48,300: Pull succeded
+INFO 2021-12-15 18:21:07,913: Metrics calculated
+INFO 2021-12-15 18:21:07,916: File stored 02b7fa87e.csv
+INFO 2021-12-15 18:21:07,916: processing 59b817791
+INFO 2021-12-15 18:21:17,053: Pull succeded
+INFO 2021-12-15 18:21:36,388: Metrics calculated
+INFO 2021-12-15 18:21:36,391: File stored 59b817791.csv
+INFO 2021-12-15 18:21:36,392: processing fc4179f1f
+INFO 2021-12-15 18:21:45,943: Pull succeded
+INFO 2021-12-15 18:22:05,878: Metrics calculated
+INFO 2021-12-15 18:22:05,880: File stored fc4179f1f.csv
+INFO 2021-12-15 18:22:05,881: processing 6b5244eaf
+INFO 2021-12-15 18:22:15,712: Pull succeded
+INFO 2021-12-15 18:22:35,356: Metrics calculated
+INFO 2021-12-15 18:22:35,360: File stored 6b5244eaf.csv
+INFO 2021-12-15 18:22:35,360: processing 323458c8d
+INFO 2021-12-15 18:22:44,425: Pull succeded
+INFO 2021-12-15 18:23:03,767: Metrics calculated
+INFO 2021-12-15 18:23:03,769: File stored 323458c8d.csv
+INFO 2021-12-15 18:23:03,770: processing fe85083f0
+INFO 2021-12-15 18:23:13,279: Pull succeded
+INFO 2021-12-15 18:23:32,724: Metrics calculated
+INFO 2021-12-15 18:23:32,726: File stored fe85083f0.csv
+INFO 2021-12-15 18:23:32,726: processing 603dd3cb3
+INFO 2021-12-15 18:23:42,297: Pull succeded
+INFO 2021-12-15 18:24:01,564: Metrics calculated
+INFO 2021-12-15 18:24:01,566: File stored 603dd3cb3.csv
+INFO 2021-12-15 18:24:01,566: processing 6d55c6ea0
+INFO 2021-12-15 18:24:11,366: Pull succeded
+INFO 2021-12-15 18:24:30,934: Metrics calculated
+INFO 2021-12-15 18:24:30,936: File stored 6d55c6ea0.csv
+INFO 2021-12-15 18:24:30,936: processing 145e0184e
+INFO 2021-12-15 18:24:40,519: Pull succeded
+INFO 2021-12-15 18:25:00,757: Metrics calculated
+INFO 2021-12-15 18:25:00,759: File stored 145e0184e.csv
+INFO 2021-12-15 18:25:00,759: processing 9fd4e8e94
+INFO 2021-12-15 18:25:10,031: Pull succeded
+INFO 2021-12-15 18:25:28,826: Metrics calculated
+INFO 2021-12-15 18:25:28,829: File stored 9fd4e8e94.csv
+INFO 2021-12-15 18:25:28,829: processing 64e6edde9
+INFO 2021-12-15 18:25:38,352: Pull succeded
+INFO 2021-12-15 18:25:57,833: Metrics calculated
+INFO 2021-12-15 18:25:57,835: File stored 64e6edde9.csv
+INFO 2021-12-15 18:25:57,835: processing f833ff84a
+INFO 2021-12-15 18:26:07,378: Pull succeded
+INFO 2021-12-15 18:26:26,685: Metrics calculated
+INFO 2021-12-15 18:26:26,686: File stored f833ff84a.csv
+INFO 2021-12-15 18:26:26,687: processing 33457adaf
+INFO 2021-12-15 18:26:36,263: Pull succeded
+INFO 2021-12-15 18:26:55,422: Metrics calculated
+INFO 2021-12-15 18:26:55,424: File stored 33457adaf.csv
+INFO 2021-12-15 18:26:55,425: processing cb6514e4b
+INFO 2021-12-15 18:27:04,553: Pull succeded
+INFO 2021-12-15 18:27:23,499: Metrics calculated
+INFO 2021-12-15 18:27:23,501: File stored cb6514e4b.csv
+INFO 2021-12-15 18:27:23,501: processing 56b9fd7d9
+INFO 2021-12-15 18:27:33,423: Pull succeded
+INFO 2021-12-15 18:27:49,379: Metrics calculated
+INFO 2021-12-15 18:27:49,382: File stored 56b9fd7d9.csv
+INFO 2021-12-15 18:27:49,382: processing 86f84c8a3
+INFO 2021-12-15 18:27:59,525: Pull succeded
+INFO 2021-12-15 18:28:18,762: Metrics calculated
+INFO 2021-12-15 18:28:18,765: File stored 86f84c8a3.csv
+INFO 2021-12-15 18:28:18,766: processing 600740383
+INFO 2021-12-15 18:28:28,299: Pull succeded
+INFO 2021-12-15 18:28:47,647: Metrics calculated
+INFO 2021-12-15 18:28:47,649: File stored 600740383.csv
+INFO 2021-12-15 18:28:47,650: processing fe6718ce4
+INFO 2021-12-15 18:28:57,402: Pull succeded
+INFO 2021-12-15 18:29:17,211: Metrics calculated
+INFO 2021-12-15 18:29:17,213: File stored fe6718ce4.csv
+INFO 2021-12-15 18:29:17,214: processing b1e0249a4
+INFO 2021-12-15 18:29:26,468: Pull succeded
+INFO 2021-12-15 18:29:45,450: Metrics calculated
+INFO 2021-12-15 18:29:45,452: File stored b1e0249a4.csv
+INFO 2021-12-15 18:29:45,452: processing fe2d087eb
+INFO 2021-12-15 18:29:54,808: Pull succeded
+INFO 2021-12-15 18:30:14,149: Metrics calculated
+INFO 2021-12-15 18:30:14,151: File stored fe2d087eb.csv
+INFO 2021-12-15 18:30:14,152: processing 373a62590
+INFO 2021-12-15 18:30:23,302: Pull succeded
+INFO 2021-12-15 18:30:42,899: Metrics calculated
+INFO 2021-12-15 18:30:42,901: File stored 373a62590.csv
+INFO 2021-12-15 18:30:42,902: processing 36079efcc
+INFO 2021-12-15 18:30:52,377: Pull succeded
+INFO 2021-12-15 18:31:08,404: Metrics calculated
+INFO 2021-12-15 18:31:08,407: File stored 36079efcc.csv
+INFO 2021-12-15 18:31:08,407: processing 6bdfa00e6
+INFO 2021-12-15 18:31:18,249: Pull succeded
+INFO 2021-12-15 18:31:37,562: Metrics calculated
+INFO 2021-12-15 18:31:37,565: File stored 6bdfa00e6.csv
+INFO 2021-12-15 18:31:37,565: processing 38f868af5
+INFO 2021-12-15 18:31:46,971: Pull succeded
+INFO 2021-12-15 18:32:06,935: Metrics calculated
+INFO 2021-12-15 18:32:06,938: File stored 38f868af5.csv
+INFO 2021-12-15 18:32:06,939: processing b4ff39144
+INFO 2021-12-15 18:32:16,198: Pull succeded
+INFO 2021-12-15 18:32:35,493: Metrics calculated
+INFO 2021-12-15 18:32:35,495: File stored b4ff39144.csv
+INFO 2021-12-15 18:32:35,496: processing c287450d7
+INFO 2021-12-15 18:32:45,420: Pull succeded
+INFO 2021-12-15 18:33:04,844: Metrics calculated
+INFO 2021-12-15 18:33:04,847: File stored c287450d7.csv
+INFO 2021-12-15 18:33:04,847: processing aca6c223d
+INFO 2021-12-15 18:33:14,434: Pull succeded
+INFO 2021-12-15 18:33:33,649: Metrics calculated
+INFO 2021-12-15 18:33:33,652: File stored aca6c223d.csv
+INFO 2021-12-15 18:33:33,653: processing 58581e2eb
+INFO 2021-12-15 18:33:43,357: Pull succeded
+INFO 2021-12-15 18:34:03,084: Metrics calculated
+INFO 2021-12-15 18:34:03,120: File stored 58581e2eb.csv
+INFO 2021-12-15 18:34:03,120: processing d1feeb541
+INFO 2021-12-15 18:34:12,480: Pull succeded
+INFO 2021-12-15 18:34:32,761: Metrics calculated
+INFO 2021-12-15 18:34:32,764: File stored d1feeb541.csv
+INFO 2021-12-15 18:34:32,764: processing 2dbe0059c
+INFO 2021-12-15 18:34:42,021: Pull succeded
+INFO 2021-12-15 18:35:01,722: Metrics calculated
+INFO 2021-12-15 18:35:01,725: File stored 2dbe0059c.csv
+INFO 2021-12-15 18:35:01,725: processing f474d1c58
+INFO 2021-12-15 18:35:11,439: Pull succeded
+INFO 2021-12-15 18:35:31,557: Metrics calculated
+INFO 2021-12-15 18:35:31,559: File stored f474d1c58.csv
+INFO 2021-12-15 18:35:31,559: processing 3fec636b2
+INFO 2021-12-15 18:35:40,594: Pull succeded
+INFO 2021-12-15 18:35:59,931: Metrics calculated
+INFO 2021-12-15 18:35:59,933: File stored 3fec636b2.csv
+INFO 2021-12-15 18:35:59,934: processing a39364193
+INFO 2021-12-15 18:36:08,903: Pull succeded
+INFO 2021-12-15 18:36:28,350: Metrics calculated
+INFO 2021-12-15 18:36:28,351: File stored a39364193.csv
+INFO 2021-12-15 18:36:28,351: processing a49963d0a
+INFO 2021-12-15 18:36:37,694: Pull succeded
+INFO 2021-12-15 18:36:57,249: Metrics calculated
+INFO 2021-12-15 18:36:57,252: File stored a49963d0a.csv
+INFO 2021-12-15 18:36:57,252: processing fea3848ee
+INFO 2021-12-15 18:37:06,140: Pull succeded
+INFO 2021-12-15 18:37:25,572: Metrics calculated
+INFO 2021-12-15 18:37:25,574: File stored fea3848ee.csv
+INFO 2021-12-15 18:37:25,574: processing ce911788e
+INFO 2021-12-15 18:37:35,252: Pull succeded
+INFO 2021-12-15 18:37:55,059: Metrics calculated
+INFO 2021-12-15 18:37:55,060: File stored ce911788e.csv
+INFO 2021-12-15 18:37:55,061: processing d46098262
+INFO 2021-12-15 18:38:04,130: Pull succeded
+INFO 2021-12-15 18:38:23,239: Metrics calculated
+INFO 2021-12-15 18:38:23,241: File stored d46098262.csv
+INFO 2021-12-15 18:38:23,241: processing 5ff4c9f8d
+INFO 2021-12-15 18:38:33,021: Pull succeded
+INFO 2021-12-15 18:38:52,212: Metrics calculated
+INFO 2021-12-15 18:38:52,216: File stored 5ff4c9f8d.csv
+INFO 2021-12-15 18:38:52,216: processing 17115b0a9
+INFO 2021-12-15 18:39:02,467: Pull succeded
+INFO 2021-12-15 18:39:22,262: Metrics calculated
+INFO 2021-12-15 18:39:22,265: File stored 17115b0a9.csv
+INFO 2021-12-15 18:39:22,265: processing 56b9f1cd6
+INFO 2021-12-15 18:39:32,176: Pull succeded
+INFO 2021-12-15 18:39:48,026: Metrics calculated
+INFO 2021-12-15 18:39:48,029: File stored 56b9f1cd6.csv
+INFO 2021-12-15 18:39:48,029: processing ec67b0d4b
+INFO 2021-12-15 18:39:57,384: Pull succeded
+INFO 2021-12-15 18:40:16,977: Metrics calculated
+INFO 2021-12-15 18:40:16,979: File stored ec67b0d4b.csv
+INFO 2021-12-15 18:40:16,980: processing 99715d22d
+INFO 2021-12-15 18:40:26,442: Pull succeded
+INFO 2021-12-15 18:40:46,077: Metrics calculated
+INFO 2021-12-15 18:40:46,079: File stored 99715d22d.csv
+INFO 2021-12-15 18:40:46,080: processing 92118494e
+INFO 2021-12-15 18:40:55,209: Pull succeded
+INFO 2021-12-15 18:41:14,496: Metrics calculated
+INFO 2021-12-15 18:41:14,500: File stored 92118494e.csv
+INFO 2021-12-15 18:41:14,500: processing fd4a5a82b
+INFO 2021-12-15 18:41:24,081: Pull succeded
+INFO 2021-12-15 18:41:39,893: Metrics calculated
+INFO 2021-12-15 18:41:39,895: File stored fd4a5a82b.csv
+INFO 2021-12-15 18:41:39,896: processing f5520fc7e
+INFO 2021-12-15 18:41:49,419: Pull succeded
+INFO 2021-12-15 18:42:05,501: Metrics calculated
+INFO 2021-12-15 18:42:05,504: File stored f5520fc7e.csv
+INFO 2021-12-15 18:42:05,504: processing 980709f6f
+INFO 2021-12-15 18:42:14,890: Pull succeded
+INFO 2021-12-15 18:42:33,898: Metrics calculated
+INFO 2021-12-15 18:42:33,902: File stored 980709f6f.csv
+INFO 2021-12-15 18:42:33,902: processing ad9fc89fc
+INFO 2021-12-15 18:42:43,305: Pull succeded
+INFO 2021-12-15 18:43:03,213: Metrics calculated
+INFO 2021-12-15 18:43:03,217: File stored ad9fc89fc.csv
+INFO 2021-12-15 18:43:03,217: processing 8e0a311e8
+INFO 2021-12-15 18:43:10,561: Pull succeded
+INFO 2021-12-15 18:43:26,323: Metrics calculated
+INFO 2021-12-15 18:43:26,325: File stored 8e0a311e8.csv
+INFO 2021-12-15 18:43:26,325: processing 35848e09a
+INFO 2021-12-15 18:43:32,420: Pull succeded
+INFO 2021-12-15 18:43:48,854: Metrics calculated
+INFO 2021-12-15 18:43:48,857: File stored 35848e09a.csv
+INFO 2021-12-15 18:43:48,857: processing 6eef45394
+INFO 2021-12-15 18:43:58,246: Pull succeded
+INFO 2021-12-15 18:44:17,396: Metrics calculated
+INFO 2021-12-15 18:44:17,398: File stored 6eef45394.csv
+INFO 2021-12-15 18:44:17,398: processing 15f3d1f8e
+INFO 2021-12-15 18:44:27,040: Pull succeded
+INFO 2021-12-15 18:44:46,172: Metrics calculated
+INFO 2021-12-15 18:44:46,173: File stored 15f3d1f8e.csv
+INFO 2021-12-15 18:44:46,174: processing ca1a35562
+INFO 2021-12-15 18:44:56,161: Pull succeded
+INFO 2021-12-15 18:45:15,382: Metrics calculated
+INFO 2021-12-15 18:45:15,385: File stored ca1a35562.csv
+INFO 2021-12-15 18:45:15,385: processing 257238c05
+INFO 2021-12-15 18:45:24,987: Pull succeded
+INFO 2021-12-15 18:45:45,039: Metrics calculated
+INFO 2021-12-15 18:45:45,042: File stored 257238c05.csv
+INFO 2021-12-15 18:45:45,043: processing b9e186e45
+INFO 2021-12-15 18:45:54,808: Pull succeded
+INFO 2021-12-15 18:46:10,879: Metrics calculated
+INFO 2021-12-15 18:46:10,883: File stored b9e186e45.csv
+INFO 2021-12-15 18:46:10,883: processing 7b2ed12ad
+INFO 2021-12-15 18:46:20,091: Pull succeded
+INFO 2021-12-15 18:46:43,965: Metrics calculated
+INFO 2021-12-15 18:46:43,969: File stored 7b2ed12ad.csv
+INFO 2021-12-15 18:46:43,969: processing c2223107b
+INFO 2021-12-15 18:46:53,521: Pull succeded
+INFO 2021-12-15 18:47:12,805: Metrics calculated
+INFO 2021-12-15 18:47:12,808: File stored c2223107b.csv
+INFO 2021-12-15 18:47:12,809: processing 2702ccef0
+INFO 2021-12-15 18:47:21,963: Pull succeded
+INFO 2021-12-15 18:47:41,769: Metrics calculated
+INFO 2021-12-15 18:47:41,772: File stored 2702ccef0.csv
+INFO 2021-12-15 18:47:41,772: processing 26a8b37d1
+INFO 2021-12-15 18:47:51,266: Pull succeded
+INFO 2021-12-15 18:48:10,988: Metrics calculated
+INFO 2021-12-15 18:48:10,992: File stored 26a8b37d1.csv
+INFO 2021-12-15 18:48:10,992: processing 20582630a
+INFO 2021-12-15 18:48:20,814: Pull succeded
+INFO 2021-12-15 18:48:36,634: Metrics calculated
+INFO 2021-12-15 18:48:36,638: File stored 20582630a.csv
+INFO 2021-12-15 18:48:36,638: processing 061d1f14b
+INFO 2021-12-15 18:48:46,321: Pull succeded
+INFO 2021-12-15 18:49:02,459: Metrics calculated
+INFO 2021-12-15 18:49:02,461: File stored 061d1f14b.csv
+INFO 2021-12-15 18:49:02,462: processing 36fd0bf34
+INFO 2021-12-15 18:49:12,121: Pull succeded
+INFO 2021-12-15 18:49:31,041: Metrics calculated
+INFO 2021-12-15 18:49:31,043: File stored 36fd0bf34.csv
+INFO 2021-12-15 18:49:31,044: processing 7c58be397
+INFO 2021-12-15 18:49:40,747: Pull succeded
+INFO 2021-12-15 18:50:00,034: Metrics calculated
+INFO 2021-12-15 18:50:00,036: File stored 7c58be397.csv
+INFO 2021-12-15 18:50:00,036: processing 612f4c926
+INFO 2021-12-15 18:50:09,061: Pull succeded
+INFO 2021-12-15 18:50:28,857: Metrics calculated
+INFO 2021-12-15 18:50:28,858: File stored 612f4c926.csv
+INFO 2021-12-15 18:50:28,859: processing f2d92bbd0
+INFO 2021-12-15 18:50:38,398: Pull succeded
+INFO 2021-12-15 18:50:58,074: Metrics calculated
+INFO 2021-12-15 18:50:58,077: File stored f2d92bbd0.csv
+INFO 2021-12-15 18:50:58,077: processing 22be22a5a
+INFO 2021-12-15 18:51:07,284: Pull succeded
+INFO 2021-12-15 18:51:33,679: Metrics calculated
+INFO 2021-12-15 18:51:33,682: File stored 22be22a5a.csv
+INFO 2021-12-15 18:51:33,682: processing b278c19a2
+INFO 2021-12-15 18:51:44,594: Pull succeded
+INFO 2021-12-15 18:52:14,664: Metrics calculated
+INFO 2021-12-15 18:52:14,666: File stored b278c19a2.csv
+INFO 2021-12-15 18:52:14,667: processing eb284804f
+INFO 2021-12-15 18:52:24,588: Pull succeded
+INFO 2021-12-15 18:52:41,463: Metrics calculated
+INFO 2021-12-15 18:52:41,465: File stored eb284804f.csv
+INFO 2021-12-15 18:52:41,466: processing bc6b488cf
+INFO 2021-12-15 18:52:51,122: Pull succeded
+INFO 2021-12-15 18:53:07,208: Metrics calculated
+INFO 2021-12-15 18:53:07,212: File stored bc6b488cf.csv
+INFO 2021-12-15 18:53:07,213: processing d6bd77ec2
+INFO 2021-12-15 18:53:17,364: Pull succeded
+INFO 2021-12-15 18:53:37,220: Metrics calculated
+INFO 2021-12-15 18:53:37,222: File stored d6bd77ec2.csv
+INFO 2021-12-15 18:53:37,222: processing fa0d37dad
+INFO 2021-12-15 18:53:47,551: Pull succeded
+INFO 2021-12-15 18:54:07,801: Metrics calculated
+INFO 2021-12-15 18:54:07,804: File stored fa0d37dad.csv
+INFO 2021-12-15 18:54:07,804: processing 1bb2da83c
+INFO 2021-12-15 18:54:17,069: Pull succeded
+INFO 2021-12-15 18:54:37,494: Metrics calculated
+INFO 2021-12-15 18:54:37,497: File stored 1bb2da83c.csv
+INFO 2021-12-15 18:54:37,498: processing 50f89d966
+INFO 2021-12-15 18:54:47,452: Pull succeded
+INFO 2021-12-15 18:55:07,445: Metrics calculated
+INFO 2021-12-15 18:55:07,448: File stored 50f89d966.csv
+INFO 2021-12-15 18:55:07,449: processing e0f680be5
+INFO 2021-12-15 18:55:16,965: Pull succeded
+INFO 2021-12-15 18:55:38,099: Metrics calculated
+INFO 2021-12-15 18:55:38,102: File stored e0f680be5.csv
+INFO 2021-12-15 18:55:38,102: processing af19257fb
+INFO 2021-12-15 18:55:47,234: Pull succeded
+INFO 2021-12-15 18:56:06,183: Metrics calculated
+INFO 2021-12-15 18:56:06,185: File stored af19257fb.csv
+INFO 2021-12-15 18:56:06,186: processing 479b974fe
+INFO 2021-12-15 18:56:16,673: Pull succeded
+INFO 2021-12-15 18:56:36,137: Metrics calculated
+INFO 2021-12-15 18:56:36,140: File stored 479b974fe.csv
+INFO 2021-12-15 18:56:36,140: processing 026dd50d8
+INFO 2021-12-15 18:56:44,959: Pull succeded
+INFO 2021-12-15 18:57:04,198: Metrics calculated
+INFO 2021-12-15 18:57:04,202: File stored 026dd50d8.csv
+INFO 2021-12-15 18:57:04,203: processing dd911bc79
+INFO 2021-12-15 18:57:13,170: Pull succeded
+INFO 2021-12-15 18:57:32,020: Metrics calculated
+INFO 2021-12-15 18:57:32,022: File stored dd911bc79.csv
+INFO 2021-12-15 18:57:32,023: processing 9bc1824b9
+INFO 2021-12-15 18:57:41,729: Pull succeded
+INFO 2021-12-15 18:58:01,724: Metrics calculated
+INFO 2021-12-15 18:58:01,725: File stored 9bc1824b9.csv
+INFO 2021-12-15 18:58:01,725: processing e994c5272
+INFO 2021-12-15 18:58:10,551: Pull succeded
+INFO 2021-12-15 18:58:30,013: Metrics calculated
+INFO 2021-12-15 18:58:30,014: File stored e994c5272.csv
+INFO 2021-12-15 18:58:30,014: processing e76de57f6
+INFO 2021-12-15 18:58:38,910: Pull succeded
+INFO 2021-12-15 18:58:58,158: Metrics calculated
+INFO 2021-12-15 18:58:58,159: File stored e76de57f6.csv
+INFO 2021-12-15 18:58:58,160: processing d4ca6ce12
+INFO 2021-12-15 18:59:08,187: Pull succeded
+INFO 2021-12-15 18:59:27,815: Metrics calculated
+INFO 2021-12-15 18:59:27,816: File stored d4ca6ce12.csv
+INFO 2021-12-15 18:59:27,816: processing 1b783fa48
+INFO 2021-12-15 18:59:36,770: Pull succeded
+INFO 2021-12-15 18:59:55,979: Metrics calculated
+INFO 2021-12-15 18:59:55,980: File stored 1b783fa48.csv
+INFO 2021-12-15 18:59:55,981: processing 90bd172f3
+INFO 2021-12-15 19:00:02,225: Pull succeded
+INFO 2021-12-15 19:00:22,134: Metrics calculated
+INFO 2021-12-15 19:00:22,136: File stored 90bd172f3.csv
+INFO 2021-12-15 19:00:22,137: processing ec1310e1b
+INFO 2021-12-15 19:00:31,997: Pull succeded
+INFO 2021-12-15 19:00:51,907: Metrics calculated
+INFO 2021-12-15 19:00:51,910: File stored ec1310e1b.csv
+INFO 2021-12-15 19:00:51,911: processing e3dc5e75e
+INFO 2021-12-15 19:01:01,189: Pull succeded
+INFO 2021-12-15 19:01:20,466: Metrics calculated
+INFO 2021-12-15 19:01:20,469: File stored e3dc5e75e.csv
+INFO 2021-12-15 19:01:20,469: processing 83ede8fdb
+INFO 2021-12-15 19:01:29,640: Pull succeded
+INFO 2021-12-15 19:01:48,714: Metrics calculated
+INFO 2021-12-15 19:01:48,717: File stored 83ede8fdb.csv
+INFO 2021-12-15 19:01:48,717: processing f47ec35eb
+INFO 2021-12-15 19:01:58,571: Pull succeded
+INFO 2021-12-15 19:02:14,980: Metrics calculated
+INFO 2021-12-15 19:02:14,982: File stored f47ec35eb.csv
+INFO 2021-12-15 19:02:14,982: processing f96d71f32
+INFO 2021-12-15 19:02:23,858: Pull succeded
+INFO 2021-12-15 19:02:43,379: Metrics calculated
+INFO 2021-12-15 19:02:43,382: File stored f96d71f32.csv
+INFO 2021-12-15 19:02:43,382: processing 31fe4ac0c
+INFO 2021-12-15 19:02:52,346: Pull succeded
+INFO 2021-12-15 19:03:11,847: Metrics calculated
+INFO 2021-12-15 19:03:11,850: File stored 31fe4ac0c.csv
+INFO 2021-12-15 19:03:11,850: processing dcc1020a6
+INFO 2021-12-15 19:03:21,234: Pull succeded
+INFO 2021-12-15 19:03:37,582: Metrics calculated
+INFO 2021-12-15 19:03:37,586: File stored dcc1020a6.csv
+INFO 2021-12-15 19:03:37,586: processing cd75cc24a
+INFO 2021-12-15 19:03:48,060: Pull succeded
+INFO 2021-12-15 19:04:04,852: Metrics calculated
+INFO 2021-12-15 19:04:04,855: File stored cd75cc24a.csv
+INFO 2021-12-15 19:04:04,855: processing 6efbecd3c
+INFO 2021-12-15 19:04:14,592: Pull succeded
+INFO 2021-12-15 19:04:30,965: Metrics calculated
+INFO 2021-12-15 19:04:30,967: File stored 6efbecd3c.csv
+INFO 2021-12-15 19:04:30,968: processing 2a71073c3
+INFO 2021-12-15 19:04:40,031: Pull succeded
+INFO 2021-12-15 19:04:56,283: Metrics calculated
+INFO 2021-12-15 19:04:56,285: File stored 2a71073c3.csv
+INFO 2021-12-15 19:04:56,285: processing ab1ee51d6
+INFO 2021-12-15 19:05:07,658: Pull succeded
+INFO 2021-12-15 19:05:24,033: Metrics calculated
+INFO 2021-12-15 19:05:24,036: File stored ab1ee51d6.csv
+INFO 2021-12-15 19:05:24,036: processing d2505a08f
+INFO 2021-12-15 19:05:35,898: Pull succeded
+INFO 2021-12-15 19:05:51,651: Metrics calculated
+INFO 2021-12-15 19:05:51,654: File stored d2505a08f.csv
+INFO 2021-12-15 19:05:51,654: processing a89f5e68c
+INFO 2021-12-15 19:06:02,291: Pull succeded
+INFO 2021-12-15 19:06:21,904: Metrics calculated
+INFO 2021-12-15 19:06:21,906: File stored a89f5e68c.csv
+INFO 2021-12-15 19:06:21,907: processing 5a60f6b00
+INFO 2021-12-15 19:06:28,530: Pull succeded
+INFO 2021-12-15 19:06:47,706: Metrics calculated
+INFO 2021-12-15 19:06:47,709: File stored 5a60f6b00.csv
+INFO 2021-12-15 19:06:47,709: processing f91670e0d
+INFO 2021-12-15 19:06:58,470: Pull succeded
+INFO 2021-12-15 19:07:17,882: Metrics calculated
+INFO 2021-12-15 19:07:17,884: File stored f91670e0d.csv
+INFO 2021-12-15 19:07:17,885: processing a3632d53a
+INFO 2021-12-15 19:07:29,035: Pull succeded
+INFO 2021-12-15 19:07:48,520: Metrics calculated
+INFO 2021-12-15 19:07:48,522: File stored a3632d53a.csv
+INFO 2021-12-15 19:07:48,523: processing 57bee97d7
+INFO 2021-12-15 19:07:54,619: Pull succeded
+INFO 2021-12-15 19:08:10,363: Metrics calculated
+INFO 2021-12-15 19:08:10,367: File stored 57bee97d7.csv
+INFO 2021-12-15 19:08:10,367: processing a013ab2dd
+INFO 2021-12-15 19:08:21,018: Pull succeded
+INFO 2021-12-15 19:08:40,267: Metrics calculated
+INFO 2021-12-15 19:08:40,270: File stored a013ab2dd.csv
+INFO 2021-12-15 19:08:40,270: processing 6d5431f63
+INFO 2021-12-15 19:08:50,894: Pull succeded
+INFO 2021-12-15 19:09:11,098: Metrics calculated
+INFO 2021-12-15 19:09:11,101: File stored 6d5431f63.csv
+INFO 2021-12-15 19:09:11,101: processing 2b53d6988
+INFO 2021-12-15 19:09:22,867: Pull succeded
+INFO 2021-12-15 19:09:41,756: Metrics calculated
+INFO 2021-12-15 19:09:41,759: File stored 2b53d6988.csv
+INFO 2021-12-15 19:09:41,760: processing 1d8901d9b
+INFO 2021-12-15 19:09:52,566: Pull succeded
+INFO 2021-12-15 19:10:12,333: Metrics calculated
+INFO 2021-12-15 19:10:12,335: File stored 1d8901d9b.csv
+INFO 2021-12-15 19:10:12,336: processing 0029e97b5
+INFO 2021-12-15 19:10:23,072: Pull succeded
+INFO 2021-12-15 19:10:43,116: Metrics calculated
+INFO 2021-12-15 19:10:43,118: File stored 0029e97b5.csv
+INFO 2021-12-15 19:10:43,118: processing f334e673a
+INFO 2021-12-15 19:10:53,947: Pull succeded
+INFO 2021-12-15 19:11:13,235: Metrics calculated
+INFO 2021-12-15 19:11:13,239: File stored f334e673a.csv
+INFO 2021-12-15 19:11:13,239: processing d5cc92d8a
+INFO 2021-12-15 19:11:24,238: Pull succeded
+INFO 2021-12-15 19:11:43,476: Metrics calculated
+INFO 2021-12-15 19:11:43,479: File stored d5cc92d8a.csv
+INFO 2021-12-15 19:11:43,479: processing fdb98f121
+INFO 2021-12-15 19:11:54,721: Pull succeded
+INFO 2021-12-15 19:12:14,235: Metrics calculated
+INFO 2021-12-15 19:12:14,238: File stored fdb98f121.csv
+INFO 2021-12-15 19:12:14,239: processing 9b1c9d4f1
+INFO 2021-12-15 19:12:25,778: Pull succeded
+INFO 2021-12-15 19:12:44,789: Metrics calculated
+INFO 2021-12-15 19:12:44,792: File stored 9b1c9d4f1.csv
+INFO 2021-12-15 19:12:44,792: processing 07f8c691b
+INFO 2021-12-15 19:12:56,028: Pull succeded
+INFO 2021-12-15 19:13:15,983: Metrics calculated
+INFO 2021-12-15 19:13:15,986: File stored 07f8c691b.csv
+INFO 2021-12-15 19:13:15,986: processing 7706fcfdd
+INFO 2021-12-15 19:13:27,111: Pull succeded
+INFO 2021-12-15 19:13:46,374: Metrics calculated
+INFO 2021-12-15 19:13:46,377: File stored 7706fcfdd.csv
+INFO 2021-12-15 19:13:46,377: processing 0d8e12dbe
+INFO 2021-12-15 19:13:57,893: Pull succeded
+INFO 2021-12-15 19:14:17,100: Metrics calculated
+INFO 2021-12-15 19:14:17,101: File stored 0d8e12dbe.csv
+INFO 2021-12-15 19:14:17,102: processing 787f73dad
+INFO 2021-12-15 19:14:23,722: Pull succeded
+INFO 2021-12-15 19:14:43,276: Metrics calculated
+INFO 2021-12-15 19:14:43,279: File stored 787f73dad.csv
+INFO 2021-12-15 19:14:43,279: processing bdf7eba7e
+INFO 2021-12-15 19:14:54,257: Pull succeded
+INFO 2021-12-15 19:15:13,801: Metrics calculated
+INFO 2021-12-15 19:15:13,804: File stored bdf7eba7e.csv
+INFO 2021-12-15 19:15:13,804: processing 8bcf02ac3
+INFO 2021-12-15 19:15:28,350: Pull succeded
+INFO 2021-12-15 19:15:52,512: Metrics calculated
+INFO 2021-12-15 19:15:52,514: File stored 8bcf02ac3.csv
+INFO 2021-12-15 19:15:52,515: processing 59de784e9
+INFO 2021-12-15 19:16:08,446: Pull succeded
+INFO 2021-12-15 19:16:34,222: Metrics calculated
+INFO 2021-12-15 19:16:34,226: File stored 59de784e9.csv
+INFO 2021-12-15 19:16:34,226: processing 49a05121d
+INFO 2021-12-15 19:16:46,079: Pull succeded
+INFO 2021-12-15 19:17:06,296: Metrics calculated
+INFO 2021-12-15 19:17:06,298: File stored 49a05121d.csv
+INFO 2021-12-15 19:17:06,298: processing 187770392
+INFO 2021-12-15 19:17:17,933: Pull succeded
+INFO 2021-12-15 19:17:38,581: Metrics calculated
+INFO 2021-12-15 19:17:38,584: File stored 187770392.csv
+INFO 2021-12-15 19:17:38,584: processing 143c91f0b
+INFO 2021-12-15 19:17:50,189: Pull succeded
+INFO 2021-12-15 19:18:10,162: Metrics calculated
+INFO 2021-12-15 19:18:10,164: File stored 143c91f0b.csv
+INFO 2021-12-15 19:18:10,164: processing 8028cc38e
+INFO 2021-12-15 19:18:22,710: Pull succeded
+INFO 2021-12-15 19:18:42,825: Metrics calculated
+INFO 2021-12-15 19:18:42,828: File stored 8028cc38e.csv
+INFO 2021-12-15 19:18:42,828: processing 2f38d1aaa
+INFO 2021-12-15 19:18:55,164: Pull succeded
+INFO 2021-12-15 19:19:15,374: Metrics calculated
+INFO 2021-12-15 19:19:15,375: File stored 2f38d1aaa.csv
+INFO 2021-12-15 19:19:15,376: processing ddcb89e1f
+INFO 2021-12-15 19:19:27,168: Pull succeded
+INFO 2021-12-15 19:19:47,192: Metrics calculated
+INFO 2021-12-15 19:19:47,196: File stored ddcb89e1f.csv
+INFO 2021-12-15 19:19:47,196: processing af20a50b3
+INFO 2021-12-15 19:19:59,306: Pull succeded
+INFO 2021-12-15 19:20:20,183: Metrics calculated
+INFO 2021-12-15 19:20:20,185: File stored af20a50b3.csv
+INFO 2021-12-15 19:20:20,185: processing e563c5f13
+INFO 2021-12-15 19:20:32,173: Pull succeded
+INFO 2021-12-15 19:20:52,016: Metrics calculated
+INFO 2021-12-15 19:20:52,017: File stored e563c5f13.csv
+INFO 2021-12-15 19:20:52,018: processing 421fa18c3
+INFO 2021-12-15 19:21:04,059: Pull succeded
+INFO 2021-12-15 19:21:24,603: Metrics calculated
+INFO 2021-12-15 19:21:24,606: File stored 421fa18c3.csv
+INFO 2021-12-15 19:21:24,607: processing 4edca6f01
+INFO 2021-12-15 19:21:36,386: Pull succeded
+INFO 2021-12-15 19:21:56,180: Metrics calculated
+INFO 2021-12-15 19:21:56,182: File stored 4edca6f01.csv
+INFO 2021-12-15 19:21:56,182: processing b84f27687
+INFO 2021-12-15 19:22:08,144: Pull succeded
+INFO 2021-12-15 19:22:27,281: Metrics calculated
+INFO 2021-12-15 19:22:27,283: File stored b84f27687.csv
+INFO 2021-12-15 19:22:27,283: processing 8472a6b47
+INFO 2021-12-15 19:22:38,459: Pull succeded
+INFO 2021-12-15 19:22:58,501: Metrics calculated
+INFO 2021-12-15 19:22:58,503: File stored 8472a6b47.csv
+INFO 2021-12-15 19:22:58,503: processing f65e736a1
+INFO 2021-12-15 19:23:09,897: Pull succeded
+INFO 2021-12-15 19:23:30,130: Metrics calculated
+INFO 2021-12-15 19:23:30,132: File stored f65e736a1.csv
+INFO 2021-12-15 19:23:30,133: processing def612e7b
+INFO 2021-12-15 19:23:42,052: Pull succeded
+INFO 2021-12-15 19:23:57,818: Metrics calculated
+INFO 2021-12-15 19:23:57,821: File stored def612e7b.csv
+INFO 2021-12-15 19:23:57,821: processing 7f87574f7
+INFO 2021-12-15 19:24:09,505: Pull succeded
+INFO 2021-12-15 19:24:28,944: Metrics calculated
+INFO 2021-12-15 19:24:28,946: File stored 7f87574f7.csv
+INFO 2021-12-15 19:24:28,946: processing 8ab419fd1
+INFO 2021-12-15 19:24:40,195: Pull succeded
+INFO 2021-12-15 19:24:56,106: Metrics calculated
+INFO 2021-12-15 19:24:56,109: File stored 8ab419fd1.csv
+INFO 2021-12-15 19:24:56,109: processing c24b3f648
+INFO 2021-12-15 19:25:07,794: Pull succeded
+INFO 2021-12-15 19:25:26,432: Metrics calculated
+INFO 2021-12-15 19:25:26,434: File stored c24b3f648.csv
+INFO 2021-12-15 19:25:26,434: processing 92ee03496
+INFO 2021-12-15 19:25:37,772: Pull succeded
+INFO 2021-12-15 19:25:57,001: Metrics calculated
+INFO 2021-12-15 19:25:57,004: File stored 92ee03496.csv
+INFO 2021-12-15 19:25:57,004: processing 9f84ae1d6
+INFO 2021-12-15 19:26:08,650: Pull succeded
+INFO 2021-12-15 19:26:27,697: Metrics calculated
+INFO 2021-12-15 19:26:27,699: File stored 9f84ae1d6.csv
+INFO 2021-12-15 19:26:27,699: processing ae222c10e
+INFO 2021-12-15 19:26:39,106: Pull succeded
+INFO 2021-12-15 19:26:55,896: Metrics calculated
+INFO 2021-12-15 19:26:55,898: File stored ae222c10e.csv
+INFO 2021-12-15 19:26:55,898: processing 137da0326
+INFO 2021-12-15 19:27:06,963: Pull succeded
+INFO 2021-12-15 19:27:26,368: Metrics calculated
+INFO 2021-12-15 19:27:26,370: File stored 137da0326.csv
+INFO 2021-12-15 19:27:26,370: processing 16b7b67c4
+INFO 2021-12-15 19:27:38,487: Pull succeded
+INFO 2021-12-15 19:27:54,135: Metrics calculated
+INFO 2021-12-15 19:27:54,138: File stored 16b7b67c4.csv
+INFO 2021-12-15 19:27:54,139: processing 73fa08f27
+INFO 2021-12-15 19:28:05,010: Pull succeded
+INFO 2021-12-15 19:28:21,535: Metrics calculated
+INFO 2021-12-15 19:28:21,537: File stored 73fa08f27.csv
+INFO 2021-12-15 19:28:21,538: processing 0ab4f8b24
+INFO 2021-12-15 19:28:32,765: Pull succeded
+INFO 2021-12-15 19:28:51,707: Metrics calculated
+INFO 2021-12-15 19:28:51,709: File stored 0ab4f8b24.csv
+INFO 2021-12-15 19:28:51,710: processing 3f9bb3e58
+INFO 2021-12-15 19:29:03,478: Pull succeded
+INFO 2021-12-15 19:29:23,158: Metrics calculated
+INFO 2021-12-15 19:29:23,160: File stored 3f9bb3e58.csv
+INFO 2021-12-15 19:29:23,160: processing 4b0a97668
+INFO 2021-12-15 19:29:34,042: Pull succeded
+INFO 2021-12-15 19:29:53,630: Metrics calculated
+INFO 2021-12-15 19:29:53,633: File stored 4b0a97668.csv
+INFO 2021-12-15 19:29:53,633: processing 6b05276b7
+INFO 2021-12-15 19:30:05,221: Pull succeded
+INFO 2021-12-15 19:30:24,118: Metrics calculated
+INFO 2021-12-15 19:30:24,121: File stored 6b05276b7.csv
+INFO 2021-12-15 19:30:24,121: processing ab6eb0843
+INFO 2021-12-15 19:30:36,064: Pull succeded
+INFO 2021-12-15 19:30:56,133: Metrics calculated
+INFO 2021-12-15 19:30:56,152: File stored ab6eb0843.csv
+INFO 2021-12-15 19:30:56,153: processing e25601e3e
+INFO 2021-12-15 19:31:08,043: Pull succeded
+INFO 2021-12-15 19:31:30,262: Metrics calculated
+INFO 2021-12-15 19:31:30,264: File stored e25601e3e.csv
+INFO 2021-12-15 19:31:30,264: processing f9945b55f
+INFO 2021-12-15 19:31:43,300: Pull succeded
+INFO 2021-12-15 19:32:04,734: Metrics calculated
+INFO 2021-12-15 19:32:04,735: File stored f9945b55f.csv
+INFO 2021-12-15 19:32:04,736: processing 4c73b8c0f
+INFO 2021-12-15 19:32:14,238: Pull succeded
+INFO 2021-12-15 19:32:31,961: Metrics calculated
+INFO 2021-12-15 19:32:31,962: File stored 4c73b8c0f.csv
+INFO 2021-12-15 19:32:31,963: processing b8c795e18
+INFO 2021-12-15 19:32:44,585: Pull succeded
+INFO 2021-12-15 19:33:02,638: Metrics calculated
+INFO 2021-12-15 19:33:02,640: File stored b8c795e18.csv
+INFO 2021-12-15 19:33:02,640: processing 62846f1f1
+INFO 2021-12-15 19:33:09,577: Pull succeded
+INFO 2021-12-15 19:33:27,993: Metrics calculated
+INFO 2021-12-15 19:33:27,995: File stored 62846f1f1.csv
+INFO 2021-12-15 19:33:27,995: processing 13d821456
+INFO 2021-12-15 19:33:35,160: Pull succeded
+INFO 2021-12-15 19:33:52,981: Metrics calculated
+INFO 2021-12-15 19:33:52,984: File stored 13d821456.csv
+INFO 2021-12-15 19:33:52,984: processing fa9566235
+INFO 2021-12-15 19:33:59,747: Pull succeded
+INFO 2021-12-15 19:34:19,744: Metrics calculated
+INFO 2021-12-15 19:34:19,748: File stored fa9566235.csv
+INFO 2021-12-15 19:34:19,748: processing 0b8489d31
+INFO 2021-12-15 19:34:30,956: Pull succeded
+INFO 2021-12-15 19:34:51,335: Metrics calculated
+INFO 2021-12-15 19:34:51,338: File stored 0b8489d31.csv
+INFO 2021-12-15 19:34:51,339: processing 284c5bd17
+INFO 2021-12-15 19:35:02,510: Pull succeded
+INFO 2021-12-15 19:35:22,330: Metrics calculated
+INFO 2021-12-15 19:35:22,332: File stored 284c5bd17.csv
+INFO 2021-12-15 19:35:22,332: processing 0d47f2278
+INFO 2021-12-15 19:35:34,046: Pull succeded
+INFO 2021-12-15 19:35:54,491: Metrics calculated
+INFO 2021-12-15 19:35:54,493: File stored 0d47f2278.csv
+INFO 2021-12-15 19:35:54,494: processing a1d63c27d
+INFO 2021-12-15 19:36:05,865: Pull succeded
+INFO 2021-12-15 19:36:26,019: Metrics calculated
+INFO 2021-12-15 19:36:26,021: File stored a1d63c27d.csv
+INFO 2021-12-15 19:36:26,021: processing 5f6cbfbcc
+INFO 2021-12-15 19:36:37,381: Pull succeded
+INFO 2021-12-15 19:36:56,819: Metrics calculated
+INFO 2021-12-15 19:36:56,820: File stored 5f6cbfbcc.csv
+INFO 2021-12-15 19:36:56,820: processing a6bf2bb56
+INFO 2021-12-15 19:37:07,956: Pull succeded
+INFO 2021-12-15 19:37:28,214: Metrics calculated
+INFO 2021-12-15 19:37:28,215: File stored a6bf2bb56.csv
+INFO 2021-12-15 19:37:28,215: processing c1c87a164
+INFO 2021-12-15 19:37:39,930: Pull succeded
+INFO 2021-12-15 19:37:59,944: Metrics calculated
+INFO 2021-12-15 19:37:59,946: File stored c1c87a164.csv
+INFO 2021-12-15 19:37:59,946: processing 0947e3d55
+INFO 2021-12-15 19:38:10,682: Pull succeded
+INFO 2021-12-15 19:38:30,151: Metrics calculated
+INFO 2021-12-15 19:38:30,153: File stored 0947e3d55.csv
+INFO 2021-12-15 19:38:30,153: processing 9024fe455
+INFO 2021-12-15 19:38:40,913: Pull succeded
+INFO 2021-12-15 19:38:59,897: Metrics calculated
+INFO 2021-12-15 19:38:59,898: File stored 9024fe455.csv
+INFO 2021-12-15 19:38:59,898: processing 373113454
+INFO 2021-12-15 19:39:10,459: Pull succeded
+INFO 2021-12-15 19:39:29,353: Metrics calculated
+INFO 2021-12-15 19:39:29,356: File stored 373113454.csv
+INFO 2021-12-15 19:39:29,356: processing 3c01c5ff7
+INFO 2021-12-15 19:39:40,538: Pull succeded
+INFO 2021-12-15 19:40:00,007: Metrics calculated
+INFO 2021-12-15 19:40:00,009: File stored 3c01c5ff7.csv
+INFO 2021-12-15 19:40:00,009: processing aca0c87f3
+INFO 2021-12-15 19:40:10,815: Pull succeded
+INFO 2021-12-15 19:40:29,635: Metrics calculated
+INFO 2021-12-15 19:40:29,637: File stored aca0c87f3.csv
+INFO 2021-12-15 19:40:29,638: processing 2a051a76a
+INFO 2021-12-15 19:40:40,257: Pull succeded
+INFO 2021-12-15 19:40:59,781: Metrics calculated
+INFO 2021-12-15 19:40:59,783: File stored 2a051a76a.csv
+INFO 2021-12-15 19:40:59,783: processing 37f531546
+INFO 2021-12-15 19:41:10,124: Pull succeded
+INFO 2021-12-15 19:41:29,919: Metrics calculated
+INFO 2021-12-15 19:41:29,921: File stored 37f531546.csv
+INFO 2021-12-15 19:41:29,921: processing 6a721ab52
+INFO 2021-12-15 19:41:40,765: Pull succeded
+INFO 2021-12-15 19:42:00,429: Metrics calculated
+INFO 2021-12-15 19:42:00,431: File stored 6a721ab52.csv
+INFO 2021-12-15 19:42:00,432: processing 2fde40f46
+INFO 2021-12-15 19:42:11,238: Pull succeded
+INFO 2021-12-15 19:42:30,503: Metrics calculated
+INFO 2021-12-15 19:42:30,505: File stored 2fde40f46.csv
+INFO 2021-12-15 19:42:30,506: processing 6a59764e0
+INFO 2021-12-15 19:42:40,946: Pull succeded
+INFO 2021-12-15 19:42:59,960: Metrics calculated
+INFO 2021-12-15 19:42:59,962: File stored 6a59764e0.csv
+INFO 2021-12-15 19:42:59,962: processing e399b1e50
+INFO 2021-12-15 19:43:10,755: Pull succeded
+INFO 2021-12-15 19:43:29,908: Metrics calculated
+INFO 2021-12-15 19:43:29,909: File stored e399b1e50.csv
+INFO 2021-12-15 19:43:29,910: processing bddb47ed2
+INFO 2021-12-15 19:43:40,689: Pull succeded
+INFO 2021-12-15 19:44:00,046: Metrics calculated
+INFO 2021-12-15 19:44:00,047: File stored bddb47ed2.csv
+INFO 2021-12-15 19:44:00,048: processing ec67c88b2
+INFO 2021-12-15 19:44:10,958: Pull succeded
+INFO 2021-12-15 19:44:30,179: Metrics calculated
+INFO 2021-12-15 19:44:30,182: File stored ec67c88b2.csv
+INFO 2021-12-15 19:44:30,182: processing a07fc245d
+INFO 2021-12-15 19:44:40,940: Pull succeded
+INFO 2021-12-15 19:45:00,900: Metrics calculated
+INFO 2021-12-15 19:45:00,902: File stored a07fc245d.csv
+INFO 2021-12-15 19:45:00,902: processing f8deaa5cf
+INFO 2021-12-15 19:45:11,845: Pull succeded
+INFO 2021-12-15 19:45:30,558: Metrics calculated
+INFO 2021-12-15 19:45:30,560: File stored f8deaa5cf.csv
+INFO 2021-12-15 19:45:30,560: processing bd66184e2
+INFO 2021-12-15 19:45:41,902: Pull succeded
+INFO 2021-12-15 19:46:01,283: Metrics calculated
+INFO 2021-12-15 19:46:01,284: File stored bd66184e2.csv
+INFO 2021-12-15 19:46:01,285: processing 8e00662cb
+INFO 2021-12-15 19:46:12,403: Pull succeded
+INFO 2021-12-15 19:46:32,793: Metrics calculated
+INFO 2021-12-15 19:46:32,796: File stored 8e00662cb.csv
+INFO 2021-12-15 19:46:32,796: processing 6f08b8eae
+INFO 2021-12-15 19:46:43,722: Pull succeded
+INFO 2021-12-15 19:47:03,356: Metrics calculated
+INFO 2021-12-15 19:47:03,359: File stored 6f08b8eae.csv
+INFO 2021-12-15 19:47:03,359: processing 8a8bb4474
+INFO 2021-12-15 19:47:14,260: Pull succeded
+INFO 2021-12-15 19:47:29,621: Metrics calculated
+INFO 2021-12-15 19:47:29,623: File stored 8a8bb4474.csv
+INFO 2021-12-15 19:47:29,623: processing 02447a017
+INFO 2021-12-15 19:47:40,594: Pull succeded
+INFO 2021-12-15 19:47:56,227: Metrics calculated
+INFO 2021-12-15 19:47:56,229: File stored 02447a017.csv
+INFO 2021-12-15 19:47:56,229: processing 1750ff026
+INFO 2021-12-15 19:48:02,383: Pull succeded
+INFO 2021-12-15 19:48:21,830: Metrics calculated
+INFO 2021-12-15 19:48:21,831: File stored 1750ff026.csv
+INFO 2021-12-15 19:48:21,831: processing 69b31ba86
+INFO 2021-12-15 19:48:32,596: Pull succeded
+INFO 2021-12-15 19:48:48,588: Metrics calculated
+INFO 2021-12-15 19:48:48,590: File stored 69b31ba86.csv
+INFO 2021-12-15 19:48:48,590: processing 1247b230b
+INFO 2021-12-15 19:48:59,910: Pull succeded
+INFO 2021-12-15 19:49:19,016: Metrics calculated
+INFO 2021-12-15 19:49:19,018: File stored 1247b230b.csv
+INFO 2021-12-15 19:49:19,019: processing 24bef6b55
+INFO 2021-12-15 19:49:25,251: Pull succeded
+INFO 2021-12-15 19:49:44,486: Metrics calculated
+INFO 2021-12-15 19:49:44,489: File stored 24bef6b55.csv
+INFO 2021-12-15 19:49:44,489: processing d458ef780
+INFO 2021-12-15 19:49:55,187: Pull succeded
+INFO 2021-12-15 19:50:14,586: Metrics calculated
+INFO 2021-12-15 19:50:14,588: File stored d458ef780.csv
+INFO 2021-12-15 19:50:14,588: processing b32ed2d45
+INFO 2021-12-15 19:50:20,502: Pull succeded
+INFO 2021-12-15 19:50:39,623: Metrics calculated
+INFO 2021-12-15 19:50:39,626: File stored b32ed2d45.csv
+INFO 2021-12-15 19:50:39,626: processing 4076baa81
+INFO 2021-12-15 19:50:50,422: Pull succeded
+INFO 2021-12-15 19:51:10,019: Metrics calculated
+INFO 2021-12-15 19:51:10,023: File stored 4076baa81.csv
+INFO 2021-12-15 19:51:10,023: processing 527e07b26
+INFO 2021-12-15 19:51:20,967: Pull succeded
+INFO 2021-12-15 19:51:40,268: Metrics calculated
+INFO 2021-12-15 19:51:40,271: File stored 527e07b26.csv
+INFO 2021-12-15 19:51:40,271: processing b6ef902ea
+INFO 2021-12-15 19:51:51,021: Pull succeded
+INFO 2021-12-15 19:52:09,879: Metrics calculated
+INFO 2021-12-15 19:52:09,882: File stored b6ef902ea.csv
+INFO 2021-12-15 19:52:09,882: processing ddd35a244
+INFO 2021-12-15 19:52:20,409: Pull succeded
+INFO 2021-12-15 19:52:36,373: Metrics calculated
+INFO 2021-12-15 19:52:36,376: File stored ddd35a244.csv
+INFO 2021-12-15 19:52:36,376: processing 0f06e30a9
+INFO 2021-12-15 19:52:46,913: Pull succeded
+INFO 2021-12-15 19:53:07,171: Metrics calculated
+INFO 2021-12-15 19:53:07,174: File stored 0f06e30a9.csv
+INFO 2021-12-15 19:53:07,174: processing 9e25ad57d
+INFO 2021-12-15 19:53:17,890: Pull succeded
+INFO 2021-12-15 19:53:36,970: Metrics calculated
+INFO 2021-12-15 19:53:36,973: File stored 9e25ad57d.csv
+INFO 2021-12-15 19:53:36,974: processing f689991a5
+INFO 2021-12-15 19:53:43,269: Pull succeded
+INFO 2021-12-15 19:54:02,428: Metrics calculated
+INFO 2021-12-15 19:54:02,429: File stored f689991a5.csv
+INFO 2021-12-15 19:54:02,429: processing 9b7f473fa
+INFO 2021-12-15 19:54:12,823: Pull succeded
+INFO 2021-12-15 19:54:32,700: Metrics calculated
+INFO 2021-12-15 19:54:32,702: File stored 9b7f473fa.csv
+INFO 2021-12-15 19:54:32,703: processing e7193ac42
+INFO 2021-12-15 19:54:43,823: Pull succeded
+INFO 2021-12-15 19:55:04,183: Metrics calculated
+INFO 2021-12-15 19:55:04,187: File stored e7193ac42.csv
+INFO 2021-12-15 19:55:04,187: processing 90f43370b
+INFO 2021-12-15 19:55:14,944: Pull succeded
+INFO 2021-12-15 19:55:34,093: Metrics calculated
+INFO 2021-12-15 19:55:34,095: File stored 90f43370b.csv
+INFO 2021-12-15 19:55:34,095: processing 44045cc85
+INFO 2021-12-15 19:55:44,663: Pull succeded
+INFO 2021-12-15 19:56:04,467: Metrics calculated
+INFO 2021-12-15 19:56:04,470: File stored 44045cc85.csv
+INFO 2021-12-15 19:56:04,471: processing aa05b50e9
+INFO 2021-12-15 19:56:14,923: Pull succeded
+INFO 2021-12-15 19:56:34,733: Metrics calculated
+INFO 2021-12-15 19:56:34,737: File stored aa05b50e9.csv
+INFO 2021-12-15 19:56:34,737: processing 69fb711b4
+INFO 2021-12-15 19:56:45,726: Pull succeded
+INFO 2021-12-15 19:57:04,913: Metrics calculated
+INFO 2021-12-15 19:57:04,916: File stored 69fb711b4.csv
+INFO 2021-12-15 19:57:04,916: processing c3d170ba8
+INFO 2021-12-15 19:57:10,696: Pull succeded
+INFO 2021-12-15 19:57:29,855: Metrics calculated
+INFO 2021-12-15 19:57:29,857: File stored c3d170ba8.csv
+INFO 2021-12-15 19:57:29,857: processing d96264e60
+INFO 2021-12-15 19:57:40,332: Pull succeded
+INFO 2021-12-15 19:57:59,542: Metrics calculated
+INFO 2021-12-15 19:57:59,543: File stored d96264e60.csv
+INFO 2021-12-15 19:57:59,543: processing ca74c94ae
+INFO 2021-12-15 19:58:09,643: Pull succeded
+INFO 2021-12-15 19:58:29,135: Metrics calculated
+INFO 2021-12-15 19:58:29,138: File stored ca74c94ae.csv
+INFO 2021-12-15 19:58:29,138: processing 2ca5d3e05
+INFO 2021-12-15 19:58:35,436: Pull succeded
+INFO 2021-12-15 19:58:51,333: Metrics calculated
+INFO 2021-12-15 19:58:51,334: File stored 2ca5d3e05.csv
+INFO 2021-12-15 19:58:51,335: processing 36b643d79
+INFO 2021-12-15 19:58:57,214: Pull succeded
+INFO 2021-12-15 19:59:12,980: Metrics calculated
+INFO 2021-12-15 19:59:12,982: File stored 36b643d79.csv
+INFO 2021-12-15 19:59:12,983: processing 4a09287c4
+INFO 2021-12-15 19:59:19,268: Pull succeded
+INFO 2021-12-15 19:59:34,587: Metrics calculated
+INFO 2021-12-15 19:59:34,591: File stored 4a09287c4.csv
+INFO 2021-12-15 19:59:34,591: processing 4e657ba5e
+INFO 2021-12-15 19:59:40,428: Pull succeded
+INFO 2021-12-15 19:59:56,234: Metrics calculated
+INFO 2021-12-15 19:59:56,237: File stored 4e657ba5e.csv
+INFO 2021-12-15 19:59:56,237: processing 1daeba6fd
+INFO 2021-12-15 20:00:01,905: Pull succeded
+INFO 2021-12-15 20:00:21,315: Metrics calculated
+INFO 2021-12-15 20:00:21,317: File stored 1daeba6fd.csv
+INFO 2021-12-15 20:00:21,318: processing 958c835ef
+INFO 2021-12-15 20:00:27,600: Pull succeded
+INFO 2021-12-15 20:00:42,836: Metrics calculated
+INFO 2021-12-15 20:00:42,839: File stored 958c835ef.csv
+INFO 2021-12-15 20:00:42,839: processing ec3c8123b
+INFO 2021-12-15 20:00:48,204: Pull succeded
+INFO 2021-12-15 20:01:03,879: Metrics calculated
+INFO 2021-12-15 20:01:03,882: File stored ec3c8123b.csv
+INFO 2021-12-15 20:01:03,882: processing a9fedabe3
+INFO 2021-12-15 20:01:09,891: Pull succeded
+INFO 2021-12-15 20:01:25,655: Metrics calculated
+INFO 2021-12-15 20:01:25,658: File stored a9fedabe3.csv
+INFO 2021-12-15 20:01:25,658: processing 354685bbf
+INFO 2021-12-15 20:01:31,744: Pull succeded
+INFO 2021-12-15 20:01:50,862: Metrics calculated
+INFO 2021-12-15 20:01:50,864: File stored 354685bbf.csv
+INFO 2021-12-15 20:01:50,864: processing 135900883
+INFO 2021-12-15 20:02:01,574: Pull succeded
+INFO 2021-12-15 20:02:17,235: Metrics calculated
+INFO 2021-12-15 20:02:17,236: File stored 135900883.csv
+INFO 2021-12-15 20:02:17,237: processing 33f5c5366
+INFO 2021-12-15 20:02:27,471: Pull succeded
+INFO 2021-12-15 20:02:43,058: Metrics calculated
+INFO 2021-12-15 20:02:43,060: File stored 33f5c5366.csv
+INFO 2021-12-15 20:02:43,061: processing c8720327a
+INFO 2021-12-15 20:02:49,228: Pull succeded
+INFO 2021-12-15 20:03:08,822: Metrics calculated
+INFO 2021-12-15 20:03:08,824: File stored c8720327a.csv
+INFO 2021-12-15 20:03:08,825: processing 44573fc5f
+INFO 2021-12-15 20:03:14,865: Pull succeded
+INFO 2021-12-15 20:03:30,560: Metrics calculated
+INFO 2021-12-15 20:03:30,562: File stored 44573fc5f.csv
+INFO 2021-12-15 20:03:30,563: processing 2df086b31
+INFO 2021-12-15 20:03:36,349: Pull succeded
+INFO 2021-12-15 20:03:51,964: Metrics calculated
+INFO 2021-12-15 20:03:51,966: File stored 2df086b31.csv
+INFO 2021-12-15 20:03:51,966: processing caeaa4571
+INFO 2021-12-15 20:03:58,028: Pull succeded
+INFO 2021-12-15 20:04:13,864: Metrics calculated
+INFO 2021-12-15 20:04:13,867: File stored caeaa4571.csv
+INFO 2021-12-15 20:04:13,867: processing 3ea9d4734
+INFO 2021-12-15 20:04:19,980: Pull succeded
+INFO 2021-12-15 20:04:35,937: Metrics calculated
+INFO 2021-12-15 20:04:35,939: File stored 3ea9d4734.csv
+INFO 2021-12-15 20:04:35,940: processing b133faa68
+INFO 2021-12-15 20:04:41,993: Pull succeded
+INFO 2021-12-15 20:04:57,772: Metrics calculated
+INFO 2021-12-15 20:04:57,774: File stored b133faa68.csv
+INFO 2021-12-15 20:04:57,774: processing 30ec90aca
+INFO 2021-12-15 20:05:07,184: Pull succeded
+INFO 2021-12-15 20:05:26,212: Metrics calculated
+INFO 2021-12-15 20:05:26,214: File stored 30ec90aca.csv
+INFO 2021-12-15 20:05:26,214: processing 65afe3543
+INFO 2021-12-15 20:05:34,468: Pull succeded
+INFO 2021-12-15 20:05:53,906: Metrics calculated
+INFO 2021-12-15 20:05:53,908: File stored 65afe3543.csv
+INFO 2021-12-15 20:05:53,909: processing 0dd5309bc
+INFO 2021-12-15 20:06:02,266: Pull succeded
+INFO 2021-12-15 20:06:21,318: Metrics calculated
+INFO 2021-12-15 20:06:21,321: File stored 0dd5309bc.csv
+INFO 2021-12-15 20:06:21,321: processing c2d1de384
+INFO 2021-12-15 20:06:26,939: Pull succeded
+INFO 2021-12-15 20:06:45,779: Metrics calculated
+INFO 2021-12-15 20:06:45,782: File stored c2d1de384.csv
+INFO 2021-12-15 20:06:45,782: processing b7c54b79d
+INFO 2021-12-15 20:06:51,042: Pull succeded
+INFO 2021-12-15 20:07:07,209: Metrics calculated
+INFO 2021-12-15 20:07:07,211: File stored b7c54b79d.csv
