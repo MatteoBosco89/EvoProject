@@ -1,3 +1,12 @@
+###
+### Step 5 Progetto Evoluzione del Software
+###
+### Categorizzazione tipologia di errore in base alle righe di codice modificate
+### Normalizzazione in base al massimo e minimo numero di righe modificate
+### Scala su 5 fasce
+### Creazione dataset finale
+###
+
 import pandas as pd
 from pandas.core.frame import DataFrame
 import openpyxl

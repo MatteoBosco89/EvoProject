@@ -1,7 +1,12 @@
+###
+### Step 3 Progetto Evoluzione del Software
+###
+### Merge per creazione dataset con metriche per ogni commit e righe modificate
+###
+
 import pandas as pd
 import os
 
-# script per merging dei dataset delle metriche
 
 folderName = input("Insert folder name: ")
 result = pd.DataFrame()
@@ -39,7 +44,4 @@ for filename in data_dir:
             file_df.iloc[i,2] = int(v[0])
     result = pd.concat([result, file_df])
     
-
-
-
 result.to_csv("MetricsDataset.csv", index = False)

@@ -1,17 +1,9 @@
-#massimi=sorted(massimi,reverse=True,key=lambda f: int(f[1])) 
-#for x in range(0,9):
- #  print(massimi[x])
-
-
-
-    
-   
-
-#df= pd.DataFrame(commit_frame, columns=["commit_hash","modified"])
-#df.plot(x="commit_hash", y=["modified"],kind="bar",figsize=(9,8))
-#plt.title("Linee modificate dai commit")
-#plt.show()
-
+###
+### Step 6 Progetto Evoluzione del Software
+###
+### Creazione grafici per analisi a partire dal dataset finale
+### 
+###
 
 import pandas as pd
 import numpy as np
@@ -47,6 +39,7 @@ plt.show()
 
 fig = plt.figure(figsize=[10, 7])
 
+### CREAZIONE BOX PLOT
 
 plt.boxplot(df["CBO"])
 plt.title("CBO")
@@ -70,42 +63,48 @@ plt.boxplot(df["LOC"])
 plt.title("LOC")
 plt.show()
 
-#df.plot(x="commit_hash", y="file_modified",kind="bar",figsize=(9,8))
-#plt.title("File modificati dai commit")
-#plt.show()
+### CREAZIONE GRAFICI PER ANALISI TEMPORALE
 
-#df.plot(x="commit_hash", y="modified",kind="bar",figsize=(9,8))
-#plt.title("Linee modificate dai commit")
-#plt.show()
+### ANALISI FILE E LINEE MODIFICATE
 
-#df=pd.DataFrame(commit_frame, columns=["commit_hash","CBO"])
-#df.plot(x="commit_hash", y=["CBO"])
-#plt.axhline(2,color="red")
-#plt.show()
+df.plot(x="commit_hash", y="file_modified",kind="bar",figsize=(9,8))
+plt.title("File modificati dai commit")
+plt.show()
 
-#df=pd.DataFrame(commit_frame, columns=["commit_hash","WMC"])
-#df.plot(x="commit_hash", y=["WMC"])
-#plt.axhline(14,color="red")
-#plt.show()
+df.plot(x="commit_hash", y="modified",kind="bar",figsize=(9,8))
+plt.title("Linee modificate dai commit")
+plt.show()
 
-#df=pd.DataFrame(commit_frame, columns=["commit_hash","DIT"])
-#df.plot(x="commit_hash", y=["DIT"])
-#plt.axhline(7,color="red")
-#plt.show()
 
-#df=pd.DataFrame(commit_frame, columns=["commit_hash","RFC"])
-#df.plot(x="commit_hash", y=["RFC"])
-#plt.show()
+### ANALISI METRICHE
 
-#df=pd.DataFrame(commit_frame, columns=["commit_hash","LCOM"])
-#df.plot(x="commit_hash", y=["LCOM"])
-#plt.show()
+df.plot(x="commit_hash", y=["CBO"])
+plt.axhline(2,color="red")
+plt.show()
 
-#df=pd.DataFrame(commit_frame, columns=["commit_hash","NOC"])
-#df.plot(x="commit_hash", y=["NOC"])
-#plt.show()
 
-#df=pd.DataFrame(commit_frame, columns=["commit_hash","LOC"])
-#df.plot(x="commit_hash", y=["LOC"])
-#plt.show()
+df.plot(x="commit_hash", y=["WMC"])
+plt.axhline(14,color="red")
+plt.show()
+
+
+df.plot(x="commit_hash", y=["DIT"])
+plt.axhline(7,color="red")
+plt.show()
+
+
+df.plot(x="commit_hash", y=["RFC"])
+plt.show()
+
+
+df.plot(x="commit_hash", y=["LCOM"])
+plt.show()
+
+
+df.plot(x="commit_hash", y=["NOC"])
+plt.show()
+
+
+df.plot(x="commit_hash", y=["LOC"])
+plt.show()
 

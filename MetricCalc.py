@@ -1,3 +1,13 @@
+###
+### Step 2 Progetto Evoluzione del Software
+###
+### Calcolo Metriche per ogni commit nello stato DEFECT
+### Salvataggio Metriche nei file
+### Creazione dataset con Git Diff calcolo righe modificate 
+### per passare dallo stato DEFECT allo stato SAFE (per fixare il bug)
+###
+
+
 import openpyxl
 from openpyxl import load_workbook
 from pprint import pprint
@@ -9,11 +19,12 @@ import logging
 import traceback
 import pandas as pd
 
-# script calcolo metriche 
+### CALCOLO METRICHE 
 
-file_excel = openpyxl.load_workbook('data.xlsx')
+file_excel = openpyxl.load_workbook('SafeDefectMerge.xlsx')
 sheet = file_excel.get_sheet_by_name('Sheet1')
-repo = git.Repo('/Users/patriziadecristofaro/Desktop/Arduino')
+# Inserire percorso repository
+repo = git.Repo('Arduino')
 logging.basicConfig(format='%(levelname)s %(asctime)s: %(message)s',level=logging.INFO, filename='debug.log')
 
 print("+++++++++++++++++++++ INIZIO CALCOLO METRICHE +++++++++++++++++++++++++")
@@ -42,6 +53,9 @@ for x in range(1,681):
 
 print("+++++++++++++++++++++ FINE CALCOLO METRICHE +++++++++++++++++++++++++")
 logging.info("+++++++++++++++++++++ FINE CALCOLO METRICHE +++++++++++++++++++++++++")
+
+
+### CALCOLO RIGHE MODIFICATE CON GIT DIFF
 
 print("+++++++++++++++++++++ INIZIO GIT DIFF +++++++++++++++++++++++")
 logging.info("+++++++++++++++++++++ INIZIO GIT DIFF +++++++++++++++++++++++")

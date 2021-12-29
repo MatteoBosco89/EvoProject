@@ -1,8 +1,13 @@
+###
+### Step 7 Progetto Evoluzione del Software
+###
+### Test ANOVA sul dataset finale
+### 
+###
+
 import pandas as pd
 from pandas.core.frame import DataFrame
 from scipy import stats
-
-
 
 def calc_mean(source, n):
     target = pd.DataFrame()

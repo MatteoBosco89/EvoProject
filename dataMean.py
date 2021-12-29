@@ -1,10 +1,18 @@
+###
+### Step 4 Progetto Evoluzione del Software
+###
+### Calcolo delle medie delle metriche per ogni commit
+### Rimozione duplicati
+### Creazione dataset con medie metriche per commit
+###
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from pandas.core.frame import DataFrame
 from operator import itemgetter
 
-df=pd.read_csv("MetricsDataset1.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
+df=pd.read_csv("MetricsDataset.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
 print(df)
 df.drop_duplicates(subset=['fileid','commit_hash', 'modified', 'file'],keep=False,inplace=True)
 commit_frame=pd.DataFrame()
@@ -32,7 +40,7 @@ for a in range(0,672):
     temp.insert(8, 'RFC', [df_t["rfc"].mean()])
     temp.insert(9, 'LCOM', [df_t["lcom"].mean()]) 
     temp.insert(10, 'LOC', [df_t["loc"].sum()])
-    """print(temp)"""
+    
     commit_frame = pd.concat([commit_frame, temp])
 commit_frame.to_csv("DataMean.csv",index=False)
 
