@@ -26,19 +26,31 @@ dfc.insert(1, "Type2", 0)
 dfc.insert(2, "Type3", 0)
 dfc.insert(3, "Type4", 0)
 dfc.insert(4, "Type5", 0)
+dfc.insert(5, "Type", "")
 res=pd.concat([df,dfc])
 res["Type1"]=0
 res["Type2"]=0
 res["Type3"]=0
 res["Type4"]=0
 res["Type5"]=0
+res["Type"]=""
 print(res)
 for i,e in res.iterrows():
     l=int(e["modified"])
     if(l >= 0):
-        if(l <= aliquota): res.at[i, 'Type1'] = 1
-        elif(l <= aliquota*2): res.at[i, 'Type2'] = 1
-        elif(l <= aliquota*3): res.at[i, 'Type3'] = 1
-        elif(l <= aliquota*4): res.at[i, 'Type4'] = 1
-        elif(l <= aliquota*5): res.at[i, 'Type5'] = 1
+        if(l <= aliquota): 
+            res.at[i, 'Type1'] = 1
+            res.at[i, 'Type'] = "Type1"
+        elif(l <= aliquota*2): 
+            res.at[i, 'Type2'] = 1
+            res.at[i, 'Type'] = "Type2"
+        elif(l <= aliquota*3): 
+            res.at[i, 'Type3'] = 1
+            res.at[i, 'Type'] = "Type3"
+        elif(l <= aliquota*4): 
+            res.at[i, 'Type4'] = 1
+            res.at[i, 'Type'] = "Type4"
+        elif(l <= aliquota*5): 
+            res.at[i, 'Type5'] = 1
+            res.at[i, 'Type'] = "Type5"
 res.to_csv("DataCategorized.csv", index=False)

@@ -10,6 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from pandas.core.frame import DataFrame
 from operator import itemgetter
+import seaborn as sb
 
 
 df=pd.read_csv("DataCategorized.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
@@ -41,25 +42,25 @@ fig = plt.figure(figsize=[10, 7])
 
 ### CREAZIONE BOX PLOT
 
-plt.boxplot(df["CBO"])
+sb.boxplot(x="Type", y="CBO", data=df)
 plt.title("CBO")
 plt.show()
-plt.boxplot(df["WMC"])
+sb.boxplot(x="Type", y="WMC", data=df)
 plt.title("WMC")
 plt.show()
-plt.boxplot(df["DIT"])
+sb.boxplot(x="Type", y="DIT", data=df)
 plt.title("DIT")
 plt.show()
-plt.boxplot(df["NOC"])
+sb.boxplot(x="Type", y="NOC", data=df)
 plt.title("NOC")
 plt.show()
-plt.boxplot(df["RFC"])
+sb.boxplot(x="Type", y="RFC", data=df)
 plt.title("RFC")
 plt.show()
-plt.boxplot(df["LCOM"])
+sb.boxplot(x="Type", y="LCOM", data=df)
 plt.title("LCOM")
 plt.show()
-plt.boxplot(df["LOC"])
+sb.boxplot(x="Type", y="LOC", data=df)
 plt.title("LOC")
 plt.show()
 
@@ -76,7 +77,7 @@ plt.title("Linee modificate dai commit")
 plt.show()
 
 
-### ANALISI METRICHE
+### ANALISI TEMPORALE METRICHE
 
 df.plot(x="commit_hash", y=["CBO"])
 plt.axhline(2,color="red")

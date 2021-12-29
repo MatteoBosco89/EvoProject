@@ -57,3 +57,22 @@ anova.insert(1, "F-Value", [Fcbo, Fwmc, Fdit, Fnoc, Frfc, Flcom, Floc])
 anova.insert(2, "P-Value", [pcbo, pwmc, pdit, pnoc, prfc, plcom, ploc])
 
 anova.to_csv("AnovaResults.csv", index=False)
+
+for i in ["Type1", "Type2", "Type3", "Type4", "Type5"]:
+    ant = pd.DataFrame()
+    Pres = []
+    Fres = []
+    Fcbo, pcbo = stats.f_oneway(df.loc[df[i]==1]["CBO"], df["CBO"])
+    Fwmc, pwmc = stats.f_oneway(df.loc[df[i]==1]["WMC"], df["WMC"])
+    Fdit, pdit = stats.f_oneway(df.loc[df[i]==1]["DIT"], df["DIT"])
+    Fnoc, pnoc = stats.f_oneway(df.loc[df[i]==1]["NOC"], df["NOC"])
+    Frfc, prfc = stats.f_oneway(df.loc[df[i]==1]["RFC"], df["RFC"])
+    Flcom, plcom = stats.f_oneway(df.loc[df[i]==1]["LCOM"], df["LCOM"])
+    Floc, ploc = stats.f_oneway(df.loc[df[i]==1]["LOC"], df["LOC"])
+    ant.insert(0, "Metric", ["CBO", "WMC", "DIT", "NOC", "RFC", "LCOM", "LOC"])
+    ant.insert(1, "F-Value", [Fcbo, Fwmc, Fdit, Fnoc, Frfc, Flcom, Floc])
+    ant.insert(2, "P-Value", [pcbo, pwmc, pdit, pnoc, prfc, plcom, ploc])
+    ant.to_csv("AnovaResults"+i+".csv", index=False)
+
+
+
