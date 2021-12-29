@@ -14,12 +14,12 @@ from github import Github
 import xlsxwriter
 
 # Commit Con Fix (stato safe)
-workbook = xlsxwriter.Workbook('Safe.xlsx')
-worksheet = workbook.add_worksheet()
+workbook1 = xlsxwriter.Workbook('Safe.xlsx')
+worksheet1 = workbook1.add_worksheet()
 
 # Commit Precedenti (stato defect)
-workbook1 = xlsxwriter.Workbook('Defect.xlsx')
-worksheet1 = workbook1.add_worksheet()
+workbook = xlsxwriter.Workbook('Defect.xlsx')
+worksheet = workbook.add_worksheet()
 
 # Merge safe e defect
 w = xlsxwriter.Workbook('SafeDefectMerge.xlsx')
@@ -39,7 +39,7 @@ safeDict=dict()
 defectDict=dict()
 
 
-for x in range(1,2824):
+for x in range(1,3196):
     safeA=(sheet.cell(x,4).value)
     safeB=(sheet.cell(x,1).value)
     giorno=str((sheet.cell(x,3).value))
