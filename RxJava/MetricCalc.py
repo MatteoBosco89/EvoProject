@@ -24,14 +24,14 @@ import pandas as pd
 file_excel = openpyxl.load_workbook('SafeDefectMerge.xlsx')
 sheet = file_excel.get_sheet_by_name('Sheet1')
 # Inserire percorso repository
-repo = git.Repo('Arduino')
+repo = git.Repo('/Users/patriziadecristofaro/GIT/RxJava')
 logging.basicConfig(format='%(levelname)s %(asctime)s: %(message)s',level=logging.INFO, filename='debug.log')
 
 print("+++++++++++++++++++++ INIZIO CALCOLO METRICHE +++++++++++++++++++++++++")
 logging.info("+++++++++++++++++++++ INIZIO CALCOLO METRICHE +++++++++++++++++++++++++")
-i = 0
+i = 293
 c = ""
-for x in range(1,681):
+for x in range(296,976):
     try:
         if(i < 10): c = '00' + str(i)
         elif(i < 100 and i >= 10): c = '0' + str(i)
@@ -39,10 +39,10 @@ for x in range(1,681):
         comm=(sheet.cell(x,1).value)
         logging.info("processing "+ comm)
         a=repo.commit(comm)
-        repo.git.checkout(a)
+        repo.git.checkout("-f",a)
         #repo.git.pull('origin', 'master')
         logging.info("Checkout succeded")
-        subprocess.call(['java', '-jar',  'ck-0.6.5-SNAPSHOT-jar-with-dependencies.jar', '/Users/patriziadecristofaro/Desktop/Arduino'])
+        subprocess.call(['java', '-jar',  'ck-0.6.5-SNAPSHOT-jar-with-dependencies.jar', '/Users/patriziadecristofaro/GIT/RxJava'])
         logging.info("Metrics calculated")
         shutil.move("class.csv", "commit_list/"+ c + "_" +comm+".csv")
         logging.info("File stored " + c + "_" + comm + ".csv")
@@ -61,7 +61,7 @@ print("+++++++++++++++++++++ INIZIO GIT DIFF +++++++++++++++++++++++")
 logging.info("+++++++++++++++++++++ INIZIO GIT DIFF +++++++++++++++++++++++")
 
 data = []
-for x in range(1,681):
+for x in range(1,976):
     try:
         comm1=(sheet.cell(x,1).value)
         comm2=(sheet.cell(x,2).value)
@@ -71,7 +71,7 @@ for x in range(1,681):
         s.pop()
         for l in s:
             ss = l.split('|')
-            fname = "/Arduino/" + ss[0].strip()
+            fname = "/RxJava/" + ss[0].strip()
             modLines = ss[1].strip().replace("+", "").replace("-", "")
             data1 = [comm1, fname, modLines]
             data.append(data1)
