@@ -12,13 +12,30 @@ import matplotlib.pyplot as plt
 from pandas.core.frame import DataFrame
 from operator import itemgetter
 
-df=pd.read_csv("MetricsDataset.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
-print(df)
-df.drop_duplicates(subset=['fileid','commit_hash', 'modified', 'file'],keep=False,inplace=True)
+df1=pd.read_csv("MetricsDataset1.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
+print(df1)
+df2=pd.read_csv("MetricsDataset2.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
+print(df2)
+df3=pd.read_csv("MetricsDataset3.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
+print(df3)
+df4=pd.read_csv("MetricsDataset4.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
+print(df4)
+df1.drop_duplicates(subset=['fileid','commit_hash', 'modified', 'file'],keep=False,inplace=True)
+df2.drop_duplicates(subset=['fileid','commit_hash', 'modified', 'file'],keep=False,inplace=True)
+df3.drop_duplicates(subset=['fileid','commit_hash', 'modified', 'file'],keep=False,inplace=True)
+df4.drop_duplicates(subset=['fileid','commit_hash', 'modified', 'file'],keep=False,inplace=True)
+
+df = pd.DataFrame()
+
+df = pd.concat([df1, df2, df3, df4])
+
 commit_frame=pd.DataFrame()
-print(commit_frame)
+
+
+
 massimi=list()
-for a in range(0,672):
+
+for a in range(0, 870):
     temp=pd.DataFrame()
     df_t = df.loc[df["fileid"]==str(a)]
     temp.insert(0, "fileid", [a])
@@ -42,6 +59,8 @@ for a in range(0,672):
     temp.insert(10, 'LOC', [df_t["loc"].sum()])
     
     commit_frame = pd.concat([commit_frame, temp])
+
+
 commit_frame.to_csv("DataMean.csv",index=False)
 
 

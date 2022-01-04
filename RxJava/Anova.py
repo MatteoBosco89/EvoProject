@@ -23,7 +23,7 @@ def calc_mean(source, n):
     target.insert(0, "Type"+str(n), mean)
     return target["Type"+str(n)]
 
-df=pd.read_csv("DataCategorized.csv", sep = ';', parse_dates = [0], infer_datetime_format = False, header = 0)
+df=pd.read_csv("DataCategorized1.csv", sep = ';', parse_dates = [0], infer_datetime_format = False, header = 0)
 
 dff = pd.DataFrame()
 

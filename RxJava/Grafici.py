@@ -16,21 +16,19 @@ import seaborn as sb
 df=pd.read_csv("DataCategorized.csv", sep = ';', parse_dates = [0], infer_datetime_format = True, header = 0)
 massimi = list()
 max = pd.DataFrame()
-cbo_type1 = list()
+sogliaRFC = []
 
 for i, d in df.iterrows():
-    massimi.append([d["commit_hash"], d["modified"], d["CBO"]])
-    if(int(d["Type1"]) == 1):
-        cbo_type1.append([i, d["CBO"]])
+    massimi.append([d["commit_hash"], d["modified"]])
+    sogliaRFC.append((float(d["DIT"]) * float(d["WMC"])) + 1)
 
 massimi=sorted(massimi, reverse=True, key=lambda f: int(f[1])) 
 m = list()
 c = list()
-cbo_boxplot = list()
+
 for x in range(0,10):
     m.append(massimi[x][1])
     c.append(massimi[x][0])
-    cbo_boxplot.append([massimi[x][2], 0])
 
 max.insert(0, "Max", m)
 max.insert(1, "commit", c)
@@ -94,15 +92,16 @@ plt.axhline(7,color="red")
 plt.show()
 
 
-df.plot(x="commit_hash", y=["RFC"])
+df.plot(x="commit_hash", y=["RFC"]) # RFC alto complessità alta test difficili da preparare
+plt.plot(df["commit_hash"], sogliaRFC, color="red")
 plt.show()
 
 
-df.plot(x="commit_hash", y=["LCOM"])
+df.plot(x="commit_hash", y=["LCOM"]) # grandi valori aumentano la complessità
 plt.show()
 
 
-df.plot(x="commit_hash", y=["NOC"])
+df.plot(x="commit_hash", y=["NOC"]) # maggiore è peggio è
 plt.show()
 
 

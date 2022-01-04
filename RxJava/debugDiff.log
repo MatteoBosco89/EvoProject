@@ -1,0 +1,1182 @@
+INFO 2022-01-02 15:09:54,171: +++++++++++++++++++++ INIZIO GIT DIFF +++++++++++++++++++++++
+INFO 2022-01-02 15:09:54,171: processing Defect and Safe
+INFO 2022-01-02 15:09:54,249: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 Defect Safe
+  stderr: 'fatal: ambiguous argument 'Defect': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:09:54,250: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 Defect Safe
+  stderr: 'fatal: ambiguous argument 'Defect': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:09:54,251: processing c3500f8f7 and 9d48f996e
+INFO 2022-01-02 15:09:54,339: processing ab8f73fa7 and b66c0d36b
+INFO 2022-01-02 15:09:54,424: processing b66c0d36b and 60e43f9c7
+INFO 2022-01-02 15:09:54,500: processing 6e0a15499 and 9eb049791
+INFO 2022-01-02 15:09:54,570: processing 9eb049791 and 787d8fc02
+INFO 2022-01-02 15:09:54,646: processing 787d8fc02 and c7f554f26
+INFO 2022-01-02 15:09:54,735: processing c7f554f26 and 9.67337e+29
+INFO 2022-01-02 15:09:54,800: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 c7f554f26 9.67337e+29
+  stderr: 'fatal: ambiguous argument '9.67337e+29': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:09:54,801: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 c7f554f26 9.67337e+29
+  stderr: 'fatal: ambiguous argument '9.67337e+29': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:09:54,801: processing 377e5bd91 and 0b96a8d66
+INFO 2022-01-02 15:09:54,867: processing 031af80c3 and 868ca9a34
+INFO 2022-01-02 15:09:54,952: processing 3396f5ae1 and e38ca1d2b
+INFO 2022-01-02 15:09:55,018: processing e38ca1d2b and a1a146930
+INFO 2022-01-02 15:09:55,080: processing ca9d4822d and 5d6346e02
+INFO 2022-01-02 15:09:55,144: processing 30455adbf and b22ab40b0
+INFO 2022-01-02 15:09:55,218: processing b22ab40b0 and 321f3b005
+INFO 2022-01-02 15:09:55,314: processing 321f3b005 and ff642734f
+INFO 2022-01-02 15:09:55,476: processing c0ec61f02 and 1bd63b536
+INFO 2022-01-02 15:09:55,672: processing ee001549e and 88625d40d
+INFO 2022-01-02 15:09:55,804: processing 58ebd1b7f and fa37722ea
+INFO 2022-01-02 15:09:55,944: processing 7e1e01e1b and 51a12c1d5
+INFO 2022-01-02 15:09:56,109: processing 4f8778eac and d624e9648
+INFO 2022-01-02 15:09:56,290: processing a1c62dd3e and 775712d06
+INFO 2022-01-02 15:09:56,468: processing 571a9708a and 5d1847146
+INFO 2022-01-02 15:09:56,634: processing 5d1847146 and 5abd62a2e
+INFO 2022-01-02 15:09:56,951: processing 5abd62a2e and db4ecd554
+INFO 2022-01-02 15:09:57,154: processing e1de8c544 and 3bed0b434
+INFO 2022-01-02 15:09:57,382: processing 2672b74cd and d172fd90a
+INFO 2022-01-02 15:09:57,560: processing e517f5583 and 6c383cf76
+INFO 2022-01-02 15:09:57,743: processing db9f9a60a and fb555df33
+INFO 2022-01-02 15:09:57,903: processing f81c0aca8 and c21c1e7c4
+INFO 2022-01-02 15:09:58,029: processing 72d9872ff and fb22a73a7
+INFO 2022-01-02 15:09:58,201: processing fb22a73a7 and 256e083db
+INFO 2022-01-02 15:09:58,368: processing 420ac77b6 and e449fb139
+INFO 2022-01-02 15:09:59,034: processing e449fb139 and 550005cf2
+INFO 2022-01-02 15:09:59,272: processing 4a9f2fb05 and af383b5ad
+INFO 2022-01-02 15:09:59,476: processing af383b5ad and 169e7e06e
+INFO 2022-01-02 15:09:59,737: processing 9cfb29436 and b24b42f81
+INFO 2022-01-02 15:09:59,885: processing b24b42f81 and 97fbcc7e3
+INFO 2022-01-02 15:10:00,285: processing 97fbcc7e3 and d35b3e7d8
+INFO 2022-01-02 15:10:00,513: processing 8ed552b01 and b316700b7
+INFO 2022-01-02 15:10:00,715: processing 70bd7099e and 0181f0ef2
+INFO 2022-01-02 15:10:00,884: processing 61fb9244c and 394fb92a0
+INFO 2022-01-02 15:10:01,016: processing 74ba4ebca and 9d48d2199
+INFO 2022-01-02 15:10:01,156: processing 2b0b6845d and 35f2b2fa1
+INFO 2022-01-02 15:10:01,282: processing 35f2b2fa1 and 429611e1d
+INFO 2022-01-02 15:10:01,406: processing 7a8b681f5 and b868b24c3
+INFO 2022-01-02 15:10:01,610: processing 8d3e766dc and c9c816ed3
+INFO 2022-01-02 15:10:01,807: processing fbb27acbd and 9563a1b60
+INFO 2022-01-02 15:10:01,936: processing b7cb10b80 and 504bd0563
+INFO 2022-01-02 15:10:02,019: processing 1d5b004d3 and 58456dabe
+INFO 2022-01-02 15:10:02,093: processing 58456dabe and 3fb72d6ab
+INFO 2022-01-02 15:10:02,156: processing 5f34896ed and a372ee899
+INFO 2022-01-02 15:10:02,220: processing a372ee899 and eb9af4d37
+INFO 2022-01-02 15:10:02,283: processing eb9af4d37 and b34091e15
+INFO 2022-01-02 15:10:02,356: processing b34091e15 and 36e460a3e
+INFO 2022-01-02 15:10:02,495: processing 9c68e5ba5 and 2eff168e4
+INFO 2022-01-02 15:10:03,079: processing 4b7772cb3 and 581b19f0f
+INFO 2022-01-02 15:10:04,032: processing cbcb6fefd and 3e8fbddb7
+INFO 2022-01-02 15:10:04,428: processing 236f59d5b and bf5df77b7
+INFO 2022-01-02 15:10:04,617: processing bf5df77b7 and 7108d0907
+INFO 2022-01-02 15:10:04,896: processing d8a3a8ff4 and 87b53faef
+INFO 2022-01-02 15:10:05,030: processing b4b635e6a and ce9c6b5e2
+INFO 2022-01-02 15:10:05,131: processing 622d861ef and 25f23643a
+INFO 2022-01-02 15:10:05,221: processing 2ea065c0e and 5ef3600f8
+INFO 2022-01-02 15:10:05,292: processing 24be900ed and 2519ef816
+INFO 2022-01-02 15:10:05,376: processing 7190d234b and 02ee6fae4
+INFO 2022-01-02 15:10:05,613: processing 4d5962a85 and 335bb226c
+INFO 2022-01-02 15:10:05,818: processing 2612d7548 and a0a18aca7
+INFO 2022-01-02 15:10:06,028: processing cf02e7190 and 031f1ea5a
+INFO 2022-01-02 15:10:06,212: processing b31a371ad and b20b62c91
+INFO 2022-01-02 15:10:06,348: processing b20b62c91 and 9869e7875
+INFO 2022-01-02 15:10:06,531: processing ff7312055 and e92bafaf2
+INFO 2022-01-02 15:10:06,755: processing e92bafaf2 and d5259ca76
+INFO 2022-01-02 15:10:06,888: processing ba41db1a6 and 1fa6ae3be
+INFO 2022-01-02 15:10:07,013: processing 797bf4dd4 and 071b89435
+INFO 2022-01-02 15:10:07,095: processing eb7e414f1 and ffbfb6713
+INFO 2022-01-02 15:10:07,166: processing b61168494 and 75ba2f1bd
+INFO 2022-01-02 15:10:07,227: processing 21201034b and 644806b2e
+INFO 2022-01-02 15:10:07,300: processing abd66858b and 6f5004939
+INFO 2022-01-02 15:10:07,397: processing dc12d5bb9 and f651b7a50
+INFO 2022-01-02 15:10:07,693: processing 4388cee20 and 75fdc86d7
+INFO 2022-01-02 15:10:07,861: processing 52595d32b and 261168476
+INFO 2022-01-02 15:10:08,137: processing 6886142c6 and 413887485
+INFO 2022-01-02 15:10:08,452: processing f5e3b5b36 and 60fa75493
+INFO 2022-01-02 15:10:08,678: processing b80de9378 and 6f18d8b1c
+INFO 2022-01-02 15:10:08,913: processing 8c87c29be and 1531e21ca
+INFO 2022-01-02 15:10:09,099: processing 2721eadf6 and 9fd3f3ed6
+INFO 2022-01-02 15:10:09,507: processing e98ae37ba and d2631ec62
+INFO 2022-01-02 15:10:09,666: processing d2631ec62 and 6020f105e
+INFO 2022-01-02 15:10:09,840: processing 6020f105e and 0188a7cdf
+INFO 2022-01-02 15:10:10,107: processing de66728dd and f8bacd494
+INFO 2022-01-02 15:10:10,330: processing 52342a23c and 34942adb3
+INFO 2022-01-02 15:10:10,463: processing a127b061a and b7de34925
+INFO 2022-01-02 15:10:10,728: processing 6bacf96ac and 4850c862a
+INFO 2022-01-02 15:10:10,845: processing 4850c862a and c968effdb
+INFO 2022-01-02 15:10:10,913: processing 358557062 and 68d181b39
+INFO 2022-01-02 15:10:11,009: processing 92fe7f9d3 and a7b40b3b5
+INFO 2022-01-02 15:10:11,076: processing 11fe816ff and 2e18a2b8b
+INFO 2022-01-02 15:10:11,149: processing 2e18a2b8b and cb02e2a7a
+INFO 2022-01-02 15:10:11,222: processing bd383717e and 367eb224a
+INFO 2022-01-02 15:10:11,290: processing 636857802 and 59578815c
+INFO 2022-01-02 15:10:11,361: processing 97b51eb2a and 284f79ad6
+INFO 2022-01-02 15:10:11,452: processing 284f79ad6 and 969b3a9f7
+INFO 2022-01-02 15:10:11,625: processing 969b3a9f7 and 1a0fcdc97
+INFO 2022-01-02 15:10:11,845: processing 1a0fcdc97 and 2aabbd374
+INFO 2022-01-02 15:10:12,047: processing 5e7edd277 and 89f3218d8
+INFO 2022-01-02 15:10:12,279: processing 36e6c31b5 and faf37ab22
+INFO 2022-01-02 15:10:12,457: processing faf37ab22 and d0a48b266
+INFO 2022-01-02 15:10:12,708: processing d0a48b266 and 965a2125b
+INFO 2022-01-02 15:10:12,949: processing e257ad391 and 1ea15baf5
+INFO 2022-01-02 15:10:13,252: processing 5df8e3c6a and d92b15197
+INFO 2022-01-02 15:10:13,590: processing d92b15197 and bb7b7a328
+INFO 2022-01-02 15:10:13,805: processing 02fd9524a and e0caeeea9
+INFO 2022-01-02 15:10:14,063: processing 63ae2b19d and 490ef8663
+INFO 2022-01-02 15:10:14,247: processing b46b5b35f and f7ae906f1
+INFO 2022-01-02 15:10:14,589: processing 4323b704f and eba034e2f
+INFO 2022-01-02 15:10:14,763: processing 5e68f2524 and f03577038
+INFO 2022-01-02 15:10:15,039: processing 715dcece5 and ede1288d3
+INFO 2022-01-02 15:10:15,246: processing 669c7b6bb and fa83439e6
+INFO 2022-01-02 15:10:15,430: processing b032731cf and 782909f7b
+INFO 2022-01-02 15:10:15,682: processing 782909f7b and 6ef253074
+INFO 2022-01-02 15:10:15,874: processing 18eed1a94 and b58bc454d
+INFO 2022-01-02 15:10:16,023: processing 10da2ae1c and f67efa785
+INFO 2022-01-02 15:10:16,182: processing c4e3a6c61 and 25fa72954
+INFO 2022-01-02 15:10:16,285: processing d48e92f13 and 2de214cec
+INFO 2022-01-02 15:10:16,368: processing 2de214cec and 41ebe38fe
+INFO 2022-01-02 15:10:16,444: processing e6a2951c7 and b05df2428
+INFO 2022-01-02 15:10:16,600: processing a39f9f8a0 and 646aa624e
+INFO 2022-01-02 15:10:16,816: processing 5417b596b and e71110ea1
+INFO 2022-01-02 15:10:17,186: processing 0b8014c85 and 50b04ec83
+INFO 2022-01-02 15:10:17,560: processing 6ec81dfcb and 97ab17092
+INFO 2022-01-02 15:10:17,783: processing 1c66113ec and ac74a7928
+INFO 2022-01-02 15:10:18,131: processing 115b6d327 and 1945713fd
+INFO 2022-01-02 15:10:18,246: processing 1945713fd and 997546f4b
+INFO 2022-01-02 15:10:18,325: processing d2d425265 and f1a211479
+INFO 2022-01-02 15:10:18,393: processing f1a211479 and 8acdaa156
+INFO 2022-01-02 15:10:19,337: processing 8acdaa156 and 1e37030f6
+INFO 2022-01-02 15:10:19,520: processing 470bb89ba and b9d29cee3
+INFO 2022-01-02 15:10:19,643: processing 5c467b30c and 62564d664
+INFO 2022-01-02 15:10:20,133: processing 62564d664 and bc6965c5b
+INFO 2022-01-02 15:10:20,226: processing 22885fa9f and 9ff362496
+INFO 2022-01-02 15:10:20,295: processing 9343e290b and ff5656b36
+INFO 2022-01-02 15:10:20,362: processing ff5656b36 and 7fcf5a999
+INFO 2022-01-02 15:10:20,423: processing e25e159cd and 1e7eabd94
+INFO 2022-01-02 15:10:20,514: processing 9a6f9cbb2 and 06081552d
+INFO 2022-01-02 15:10:20,817: processing 7e43a6c40 and 564fba0fb
+INFO 2022-01-02 15:10:21,009: processing 564fba0fb and d09964c45
+INFO 2022-01-02 15:10:21,490: processing d09964c45 and 63d2400e7
+INFO 2022-01-02 15:10:21,977: processing cdf7ee760 and f109b3e47
+INFO 2022-01-02 15:10:22,198: processing f109b3e47 and a17b59238
+INFO 2022-01-02 15:10:22,360: processing a17b59238 and 7ded55b66
+INFO 2022-01-02 15:10:22,504: processing 39b9787bc and ec9bd2c87
+INFO 2022-01-02 15:10:22,661: processing e1a4d0261 and 7729df4cf
+INFO 2022-01-02 15:10:22,856: processing 7729df4cf and dab56f798
+INFO 2022-01-02 15:10:23,042: processing 01aab571d and b753147c6
+INFO 2022-01-02 15:10:23,145: processing 26a034939 and 21f7d526a
+INFO 2022-01-02 15:10:23,222: processing 9979fa743 and f7564f60f
+INFO 2022-01-02 15:10:23,295: processing ba1d44853 and fcb76576f
+INFO 2022-01-02 15:10:23,397: processing 5f0dfc57a and c799e5256
+INFO 2022-01-02 15:10:23,500: processing 3ec9ef3e6 and 39d49fcf3
+INFO 2022-01-02 15:10:23,666: processing bdf70f571 and d5d01594c
+INFO 2022-01-02 15:10:23,954: processing 2bb345ba0 and 3921da74d
+INFO 2022-01-02 15:10:24,154: processing e85c4045e and 04a9e05ee
+INFO 2022-01-02 15:10:24,392: processing 04a9e05ee and be9841a29
+INFO 2022-01-02 15:10:24,638: processing c11900ca9 and 78c5708de
+INFO 2022-01-02 15:10:24,954: processing 829f016a6 and 988b2f62e
+INFO 2022-01-02 15:10:25,096: processing 96064c37a and a1191a217
+INFO 2022-01-02 15:10:25,187: processing a1191a217 and a144b0e20
+INFO 2022-01-02 15:10:25,273: processing dba5de963 and 6b036e806
+INFO 2022-01-02 15:10:25,362: processing 6b036e806 and 6d11a551d
+INFO 2022-01-02 15:10:25,492: processing 8425eff1d and f66764299
+INFO 2022-01-02 15:10:25,724: processing 1b3feeb9c and 4377b364d
+INFO 2022-01-02 15:10:25,988: processing 813988b67 and 996e78fa7
+INFO 2022-01-02 15:10:26,277: processing 996e78fa7 and 591826561
+INFO 2022-01-02 15:10:26,476: processing 591826561 and c3ee3483a
+INFO 2022-01-02 15:10:26,820: processing c3ee3483a and 109572d78
+INFO 2022-01-02 15:10:27,343: processing 109572d78 and c45fce2b0
+INFO 2022-01-02 15:10:27,779: processing dccbc6baa and 6383157b2
+INFO 2022-01-02 15:10:28,034: processing 866ddd34b and 622b66125
+INFO 2022-01-02 15:10:28,291: processing 622b66125 and 8cfb25b6a
+INFO 2022-01-02 15:10:28,560: processing f8fc1cb4c and d107ebaa3
+INFO 2022-01-02 15:10:28,808: processing c451ce9eb and 3bba2459d
+INFO 2022-01-02 15:10:29,042: processing 9dc3f22ca and 9a94fd278
+INFO 2022-01-02 15:10:29,356: processing 9a94fd278 and 5b2dab3ad
+INFO 2022-01-02 15:10:29,689: processing 9f35594ec and b1d9c1cb6
+INFO 2022-01-02 15:10:29,858: processing fdbf5efb6 and 0977f040a
+INFO 2022-01-02 15:10:30,141: processing 1f7d6dccd and 2c3db738b
+INFO 2022-01-02 15:10:30,289: processing 2c3db738b and 43e3d777b
+INFO 2022-01-02 15:10:30,515: processing 28dd5fcdb and 1d0d90c0e
+INFO 2022-01-02 15:10:31,127: processing 1d0d90c0e and 9b3a838c0
+INFO 2022-01-02 15:10:31,473: processing 8e6bef3fc and 5ef9075a4
+INFO 2022-01-02 15:10:31,741: processing 93c9fcc00 and 25910ee4f
+INFO 2022-01-02 15:10:31,954: processing 8e5e3e138 and a041883e5
+INFO 2022-01-02 15:10:32,160: processing 723d93521 and b5e493366
+INFO 2022-01-02 15:10:32,382: processing f90ba89fe and a283deb5b
+INFO 2022-01-02 15:10:32,631: processing 00f448819 and bcf9807ad
+INFO 2022-01-02 15:10:32,810: processing 0bb666613 and c601c1a42
+INFO 2022-01-02 15:10:33,388: processing 06f5d836a and 51b8acfa0
+INFO 2022-01-02 15:10:34,105: processing fcefa211a and 27650908d
+INFO 2022-01-02 15:10:34,388: processing 5.1085E+48 and 015e2b4e9
+INFO 2022-01-02 15:10:34,550: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 5.1085E+48 015e2b4e9
+  stderr: 'fatal: ambiguous argument '5.1085E+48': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:10:34,551: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 5.1085E+48 015e2b4e9
+  stderr: 'fatal: ambiguous argument '5.1085E+48': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:10:34,552: processing f3dbf3c03 and c2baf9389
+INFO 2022-01-02 15:10:34,773: processing c2baf9389 and 0202e6382
+INFO 2022-01-02 15:10:35,204: processing 1da668a86 and f26b7b232
+INFO 2022-01-02 15:10:35,355: processing e24a23bcb and 6a1c8f0c5
+INFO 2022-01-02 15:10:35,435: processing 93bd19058 and 028d18980
+INFO 2022-01-02 15:10:35,505: processing fdc4c604d and 59bb9112e
+INFO 2022-01-02 15:10:35,576: processing 8926255ab and 4e4c165d5
+INFO 2022-01-02 15:10:35,767: processing 4e4c165d5 and 0ac1e6c18
+INFO 2022-01-02 15:10:36,291: processing 84309b657 and 672575477
+INFO 2022-01-02 15:10:36,869: processing 672575477 and 9ee0fdcd0
+INFO 2022-01-02 15:10:37,086: processing 9ee0fdcd0 and f5eb8f77d
+INFO 2022-01-02 15:10:37,498: processing 0bd83a9bb and 3d9842ff2
+INFO 2022-01-02 15:10:38,353: processing bdf075e87 and 171ebc026
+INFO 2022-01-02 15:10:38,789: processing aa8c7c3c1 and cd2f14637
+INFO 2022-01-02 15:10:39,046: processing fe48c7238 and 3c537f850
+INFO 2022-01-02 15:10:39,218: processing 0f92fdd8e and f023a10bf
+INFO 2022-01-02 15:10:39,335: processing df7bf9080 and ac83ed9b4
+INFO 2022-01-02 15:10:39,426: processing 446acf5cd and 9520d6328
+INFO 2022-01-02 15:10:39,518: processing 95ce9aaae and 90f814fa7
+INFO 2022-01-02 15:10:39,595: processing 3c244fbc0 and 8915b8bb5
+INFO 2022-01-02 15:10:39,740: processing d012a528e and a2259447b
+INFO 2022-01-02 15:10:40,189: processing 0ab38b4dc and c90e51b29
+INFO 2022-01-02 15:10:40,435: processing 049ba1236 and f1b46a925
+INFO 2022-01-02 15:10:40,701: processing 5d1006ea0 and 6d3066fba
+INFO 2022-01-02 15:10:40,866: processing 290319aca and d947c408f
+INFO 2022-01-02 15:10:41,252: processing dd94e7b6a and c7f7d5787
+INFO 2022-01-02 15:10:41,545: processing d764c1b09 and f4ea0737c
+INFO 2022-01-02 15:10:41,693: processing f4ea0737c and 98e75c204
+INFO 2022-01-02 15:10:42,262: processing 26a8642a7 and 54b19be07
+INFO 2022-01-02 15:10:42,426: processing 1cac6fc58 and cbd7c0380
+INFO 2022-01-02 15:10:42,518: processing c9588bdaf and a7a0ee944
+INFO 2022-01-02 15:10:42,609: processing c57049c72 and 0000b2cee
+INFO 2022-01-02 15:10:42,732: processing 7babfaf1d and 945e0ce84
+INFO 2022-01-02 15:10:42,922: processing ffbf2ff18 and 37523c041
+INFO 2022-01-02 15:10:43,143: processing 37523c041 and 68983965c
+INFO 2022-01-02 15:10:43,282: processing f4c83f432 and 548f7cf47
+INFO 2022-01-02 15:10:43,382: processing ac4aed1bd and 2f3968dbf
+INFO 2022-01-02 15:10:43,475: processing 53fb292f3 and 7ffb0ef4d
+INFO 2022-01-02 15:10:43,593: processing 26f8e8350 and 4328276cf
+INFO 2022-01-02 15:10:43,683: processing ada02c505 and d6e78d5ee
+INFO 2022-01-02 15:10:43,917: processing 084ac6fe7 and 9c50bdc5f
+INFO 2022-01-02 15:10:44,063: processing afc4da1aa and 243bd3a68
+INFO 2022-01-02 15:10:44,252: processing c298d5efb and c32209bff
+INFO 2022-01-02 15:10:44,443: processing c32209bff and 6b25b2304
+INFO 2022-01-02 15:10:44,606: processing 6b25b2304 and b780143ad
+INFO 2022-01-02 15:10:44,795: processing 8b3862e67 and eb92efdbc
+INFO 2022-01-02 15:10:45,127: processing 68d40628a and bb73bbc74
+INFO 2022-01-02 15:10:45,317: processing bb73bbc74 and d3cb033ba
+INFO 2022-01-02 15:10:45,548: processing 940c26eb6 and a0ebbc77c
+INFO 2022-01-02 15:10:45,621: processing 9f990cacf and 271eda44a
+INFO 2022-01-02 15:10:45,714: processing 271eda44a and 731e0a024
+INFO 2022-01-02 15:10:45,946: processing ea73bd1f5 and 2c82d48d5
+INFO 2022-01-02 15:10:46,146: processing 7ce4c84f9 and 88679528f
+INFO 2022-01-02 15:10:46,334: processing 3013ec902 and e68f0b20a
+INFO 2022-01-02 15:10:46,506: processing e68f0b20a and 2087f2346
+INFO 2022-01-02 15:10:46,614: processing 2087f2346 and cbb6fda73
+INFO 2022-01-02 15:10:46,721: processing 352e7fa5b and ceff938a5
+INFO 2022-01-02 15:10:46,970: processing ceff938a5 and 682f4bd73
+INFO 2022-01-02 15:10:47,143: processing fb47ac807 and 7298e763b
+INFO 2022-01-02 15:10:47,227: processing 7298e763b and 792fffe44
+INFO 2022-01-02 15:10:47,311: processing 59ded837d and 17b01ab1f
+INFO 2022-01-02 15:10:47,398: processing 8525f6f43 and 9f6e9a484
+INFO 2022-01-02 15:10:47,484: processing 9791c2d1e and 7ce68609c
+INFO 2022-01-02 15:10:47,577: processing 7ce68609c and 3e26fa32b
+INFO 2022-01-02 15:10:47,664: processing 3e26fa32b and 0ab352f84
+INFO 2022-01-02 15:10:47,881: processing 1e503b412 and 56eebb514
+INFO 2022-01-02 15:10:48,117: processing 19a9d33b0 and 56f88df6f
+INFO 2022-01-02 15:10:48,797: processing 6896110c5 and 15a20e199
+INFO 2022-01-02 15:10:49,065: processing e79790556 and e505cee39
+INFO 2022-01-02 15:10:49,354: processing e505cee39 and cd4c1acef
+INFO 2022-01-02 15:10:49,538: processing dea5af5c5 and 96b06f9b5
+INFO 2022-01-02 15:10:49,827: processing 073418f72 and 77e27713e
+INFO 2022-01-02 15:10:50,056: processing 91fbba8ae and 10956f309
+INFO 2022-01-02 15:10:50,255: processing cc1776de7 and 943c54487
+INFO 2022-01-02 15:10:50,385: processing f4955b048 and 45d0eaf5d
+INFO 2022-01-02 15:10:50,460: processing 6fe11aa16 and b16727cd5
+INFO 2022-01-02 15:10:50,526: processing 21578d5d0 and 947e5f866
+INFO 2022-01-02 15:10:50,597: processing 4f55f9582 and 42fa5aab3
+INFO 2022-01-02 15:10:50,659: processing cdc0c2fef and 5b728bf23
+INFO 2022-01-02 15:10:50,839: processing f6af2dc15 and 012af0229
+INFO 2022-01-02 15:10:51,262: processing 012af0229 and 67cae348e
+INFO 2022-01-02 15:10:51,430: processing 67cae348e and c857ba336
+INFO 2022-01-02 15:10:51,594: processing c857ba336 and b4b67623d
+INFO 2022-01-02 15:10:52,000: processing 8fa3a3742 and 3e58d902f
+INFO 2022-01-02 15:10:52,252: processing 5454879ef and 265090cf3
+INFO 2022-01-02 15:10:52,398: processing 265090cf3 and 4bb777c63
+INFO 2022-01-02 15:10:52,509: processing 261dc38a8 and d06e42083
+INFO 2022-01-02 15:10:52,606: processing b42b4ac06 and 7039d62b4
+INFO 2022-01-02 15:10:52,689: processing 2f3c0d5fc and 0db09c361
+INFO 2022-01-02 15:10:52,846: processing 5d7d73c31 and 69894342b
+INFO 2022-01-02 15:10:53,083: processing ccbd4832f and 803efa48c
+INFO 2022-01-02 15:10:53,326: processing 2a08d800b and 1560ea832
+INFO 2022-01-02 15:10:53,644: processing 2d11791c6 and f453b3e59
+INFO 2022-01-02 15:10:53,917: processing ea2249afe and 1c20ab0f5
+INFO 2022-01-02 15:10:54,184: processing 6eeb24901 and 105d20fdb
+INFO 2022-01-02 15:10:54,354: processing b4a03422a and 2ef2a96f4
+INFO 2022-01-02 15:10:54,445: processing 60208220c and ba56962b2
+INFO 2022-01-02 15:10:54,639: processing 75303612b and be17891a0
+INFO 2022-01-02 15:10:54,914: processing 46b51cc52 and b195ff8ab
+INFO 2022-01-02 15:10:55,083: processing b195ff8ab and 1c00aa6cc
+INFO 2022-01-02 15:10:55,314: processing 1c00aa6cc and 007ce5508
+INFO 2022-01-02 15:10:55,560: processing 459da07f1 and 3cf18a1a0
+INFO 2022-01-02 15:10:55,678: processing c74f9550b and 9be3552e3
+INFO 2022-01-02 15:10:55,792: processing 7058a7674 and 641d4bc31
+INFO 2022-01-02 15:10:56,001: processing 09c3b6249 and 0e2e73f63
+INFO 2022-01-02 15:10:56,204: processing 5dbb81fbd and b5655d261
+INFO 2022-01-02 15:10:56,382: processing d3f83facd and a213d1bda
+INFO 2022-01-02 15:10:56,520: processing c46153c7e and 30e7afa3d
+INFO 2022-01-02 15:10:56,632: processing 30e7afa3d and bf40e09d9
+INFO 2022-01-02 15:10:56,709: processing bf40e09d9 and 43b75a9c7
+INFO 2022-01-02 15:10:56,889: processing 43b75a9c7 and 84c72a517
+INFO 2022-01-02 15:10:57,318: processing 84c72a517 and a2701658d
+INFO 2022-01-02 15:10:57,528: processing a2701658d and ab398c8e9
+INFO 2022-01-02 15:10:57,713: processing 59b59b27f and af4fc88b3
+INFO 2022-01-02 15:10:57,910: processing 06c1b0570 and e2c5bfc8e
+INFO 2022-01-02 15:10:58,138: processing bf29c6110 and 8e27cdcf8
+INFO 2022-01-02 15:10:58,328: processing 8e27cdcf8 and 3b95e2fb1
+INFO 2022-01-02 15:10:58,493: processing 750c627ff and d23ff7103
+INFO 2022-01-02 15:10:58,614: processing 593185aee and f35489c5f
+INFO 2022-01-02 15:10:58,695: processing b86e1da5d and 3702d02fe
+INFO 2022-01-02 15:10:58,829: processing b44e8ad04 and 3a0d891f1
+INFO 2022-01-02 15:10:59,143: processing 3a0d891f1 and 7a9ae10e9
+INFO 2022-01-02 15:10:59,365: processing 9b5aefd31 and 31ee3c346
+INFO 2022-01-02 15:10:59,761: processing 31ee3c346 and 5f22d97da
+INFO 2022-01-02 15:11:01,053: processing 3eae70842 and eea2afa29
+INFO 2022-01-02 15:11:01,510: processing eea2afa29 and 6543fa63d
+INFO 2022-01-02 15:11:02,601: processing 981ff6add and 62de4d0ab
+INFO 2022-01-02 15:11:02,691: processing 88fcda319 and f9a972272
+INFO 2022-01-02 15:11:02,792: processing 3e7b1f576 and d49cd1e8b
+INFO 2022-01-02 15:11:03,052: processing ce6a6fb2c and 4e38f632d
+INFO 2022-01-02 15:11:03,365: processing 30a3f2b8c and 68c7332db
+INFO 2022-01-02 15:11:03,558: processing cc117734b and f8d90bd50
+INFO 2022-01-02 15:11:03,667: processing f8d90bd50 and b068f5d8b
+INFO 2022-01-02 15:11:03,791: processing bf5f1cb7a and 6bbd921cd
+INFO 2022-01-02 15:11:03,939: processing 6bbd921cd and 53b46595d
+INFO 2022-01-02 15:11:04,596: processing 53b46595d and a720f5860
+INFO 2022-01-02 15:11:05,161: processing d429110e6 and cb6333e85
+INFO 2022-01-02 15:11:05,376: processing 463380996 and cc8bf6d21
+INFO 2022-01-02 15:11:05,496: processing b027db6b3 and 0f6dd5a3a
+INFO 2022-01-02 15:11:05,591: processing 69868d553 and a07e83701
+INFO 2022-01-02 15:11:05,661: processing 676313a49 and cc7689584
+INFO 2022-01-02 15:11:05,729: processing cc7689584 and 5ca76e032
+INFO 2022-01-02 15:11:05,794: processing 5ca76e032 and 0f2cd15d6
+INFO 2022-01-02 15:11:05,926: processing 22a56d02a and 11374c265
+INFO 2022-01-02 15:11:06,440: processing 11374c265 and a5d885d15
+INFO 2022-01-02 15:11:06,716: processing a5d885d15 and 089794cb4
+INFO 2022-01-02 15:11:06,905: processing 089794cb4 and db76ba2b7
+INFO 2022-01-02 15:11:07,157: processing db76ba2b7 and 212af0a0f
+INFO 2022-01-02 15:11:07,541: processing c1ec1f4a4 and 334de61dd
+INFO 2022-01-02 15:11:07,753: processing 334de61dd and a2a7a29cd
+INFO 2022-01-02 15:11:07,888: processing a2a7a29cd and 7d10c7e49
+INFO 2022-01-02 15:11:08,244: processing b338afa0f and 1f252c0ac
+INFO 2022-01-02 15:11:08,678: processing 1f252c0ac and 803f59bfa
+INFO 2022-01-02 15:11:09,322: processing 71bb31e00 and e128ffe3c
+INFO 2022-01-02 15:11:09,710: processing e128ffe3c and 00d33b700
+INFO 2022-01-02 15:11:09,935: processing 82bc2def6 and a0c52f16b
+INFO 2022-01-02 15:11:10,093: processing a0c52f16b and 855252b72
+INFO 2022-01-02 15:11:10,183: processing 79535dc56 and 9043a4ff5
+INFO 2022-01-02 15:11:10,300: processing 3eec19864 and 434f2100c
+INFO 2022-01-02 15:11:10,575: processing 80bf26b48 and 22048a3b8
+INFO 2022-01-02 15:11:10,868: processing 22048a3b8 and 1dfa37f08
+INFO 2022-01-02 15:11:11,017: processing 5d8c8f92d and 7cd393880
+INFO 2022-01-02 15:11:11,505: processing 155860ece and 49c0032a1
+INFO 2022-01-02 15:11:11,749: processing bd87ceb64 and 46b5a0f39
+INFO 2022-01-02 15:11:11,884: processing f44341aa9 and f7a59afa8
+INFO 2022-01-02 15:11:12,035: processing f7a59afa8 and 0794d9ffa
+INFO 2022-01-02 15:11:12,255: processing 8efad4a08 and 4a593af2b
+INFO 2022-01-02 15:11:12,428: processing 4a593af2b and 3bbddaf1f
+INFO 2022-01-02 15:11:12,562: processing db2ee9a71 and f283fcff1
+INFO 2022-01-02 15:11:12,673: processing 76358542f and 31e7bb6bd
+INFO 2022-01-02 15:11:12,755: processing d1282eec3 and 32d33bed0
+INFO 2022-01-02 15:11:12,826: processing 4565858f3 and 2e8c1b5b3
+INFO 2022-01-02 15:11:12,925: processing 2e8c1b5b3 and 55b6baec6
+INFO 2022-01-02 15:11:13,213: processing bc12860e3 and f5f039297
+INFO 2022-01-02 15:11:13,373: processing fa839bb18 and 621741b7b
+INFO 2022-01-02 15:11:13,548: processing 0a229e42b and 348ecce42
+INFO 2022-01-02 15:11:13,820: processing 348ecce42 and 2cf434944
+INFO 2022-01-02 15:11:14,077: processing 5c0a95592 and 0f7890e61
+INFO 2022-01-02 15:11:14,252: processing 0f7890e61 and bc848822a
+INFO 2022-01-02 15:11:14,548: processing 0920f23b2 and 5ac444887
+INFO 2022-01-02 15:11:14,777: processing 5ac444887 and 2290ffc37
+INFO 2022-01-02 15:11:14,884: processing 3cecb9037 and e8f9250ff
+INFO 2022-01-02 15:11:15,004: processing 357effaab and 1b0ccc851
+INFO 2022-01-02 15:11:15,314: processing cff496212 and 4bbc6007f
+INFO 2022-01-02 15:11:15,541: processing 4bbc6007f and cda7d3469
+INFO 2022-01-02 15:11:15,668: processing cda7d3469 and 0e74ac8b5
+INFO 2022-01-02 15:11:15,759: processing d21720938 and bf1a4f3c4
+INFO 2022-01-02 15:11:15,826: processing 8690b185c and ebaf9a1a0
+INFO 2022-01-02 15:11:15,897: processing ebaf9a1a0 and 24c535e85
+INFO 2022-01-02 15:11:16,205: processing 24c535e85 and 9050bd5cc
+INFO 2022-01-02 15:11:16,501: processing 9050bd5cc and 56b9feaf4
+INFO 2022-01-02 15:11:16,653: processing 56b9feaf4 and a75d4f992
+INFO 2022-01-02 15:11:16,776: processing a75d4f992 and 03295a2b2
+INFO 2022-01-02 15:11:16,846: processing 03295a2b2 and 64bd6c1cb
+INFO 2022-01-02 15:11:16,942: processing 64bd6c1cb and cade58c41
+INFO 2022-01-02 15:11:17,184: processing cade58c41 and de7b1f5c3
+INFO 2022-01-02 15:11:17,359: processing de7b1f5c3 and 6349171fd
+INFO 2022-01-02 15:11:17,612: processing 6349171fd and 018bd222f
+INFO 2022-01-02 15:11:17,757: processing 018bd222f and 71b4e7ab8
+INFO 2022-01-02 15:11:17,854: processing 71b4e7ab8 and f0ff512e8
+INFO 2022-01-02 15:11:17,957: processing 2b727b0dc and 79e4c4e05
+INFO 2022-01-02 15:11:18,264: processing 79e4c4e05 and 77a4f63eb
+INFO 2022-01-02 15:11:18,465: processing 77a4f63eb and af973b80d
+INFO 2022-01-02 15:11:18,604: processing 012bd0d25 and 48ee022ec
+INFO 2022-01-02 15:11:18,684: processing 37afd534b and 24dcc2a47
+INFO 2022-01-02 15:11:18,794: processing 24dcc2a47 and 9d07b367b
+INFO 2022-01-02 15:11:18,886: processing 9d07b367b and c63c76b5d
+INFO 2022-01-02 15:11:19,036: processing c63c76b5d and b0aeb620e
+INFO 2022-01-02 15:11:19,447: processing b0aeb620e and 30b9296d7
+INFO 2022-01-02 15:11:19,730: processing 3c4628561 and 061cdb685
+INFO 2022-01-02 15:11:19,952: processing 60656e53c and a2556443f
+INFO 2022-01-02 15:11:20,234: processing a2556443f and 1bf3fafcd
+INFO 2022-01-02 15:11:20,464: processing beb515651 and fc6ea3a1c
+INFO 2022-01-02 15:11:20,622: processing e670021c3 and 754c33f35
+INFO 2022-01-02 15:11:20,742: processing 04c06988a and 9b503e504
+INFO 2022-01-02 15:11:20,840: processing 40be93bf7 and 158d9d9c4
+INFO 2022-01-02 15:11:20,961: processing 57156e364 and 87ea43197
+INFO 2022-01-02 15:11:21,185: processing 87ea43197 and 4188f589d
+INFO 2022-01-02 15:11:21,387: processing 54d422429 and 332b67c89
+INFO 2022-01-02 15:11:21,582: processing 332b67c89 and a40a65941
+INFO 2022-01-02 15:11:21,843: processing 5620449a6 and 4c16adf9b
+INFO 2022-01-02 15:11:21,946: processing b21aef940 and 053cc4f1b
+INFO 2022-01-02 15:11:22,184: processing 50563ce46 and 162c31cdf
+INFO 2022-01-02 15:11:22,398: processing f6fd5deff and c38a78062
+INFO 2022-01-02 15:11:22,511: processing c38a78062 and aeea97892
+INFO 2022-01-02 15:11:22,612: processing aeea97892 and 7337bb8f4
+INFO 2022-01-02 15:11:22,722: processing 7337bb8f4 and 8026b41bb
+INFO 2022-01-02 15:11:22,816: processing 4c1417729 and 522ce798d
+INFO 2022-01-02 15:11:22,921: processing 522ce798d and d5b4d6f38
+INFO 2022-01-02 15:11:23,050: processing 35f280735 and 29c1b6e8a
+INFO 2022-01-02 15:11:23,315: processing da987ed17 and c148ea5dc
+INFO 2022-01-02 15:11:23,497: processing 31281b60e and a82eff91b
+INFO 2022-01-02 15:11:23,777: processing a82eff91b and 1a068ddfd
+INFO 2022-01-02 15:11:24,137: processing 6e6c771b6 and 356302169
+INFO 2022-01-02 15:11:24,466: processing 356302169 and f2a59c6ea
+INFO 2022-01-02 15:11:24,869: processing e39599cc4 and e26dd2bc7
+INFO 2022-01-02 15:11:25,194: processing 553241286 and 8741a21b8
+INFO 2022-01-02 15:11:25,464: processing 8741a21b8 and 824c65a16
+INFO 2022-01-02 15:11:25,613: processing 224cafb25 and ed63daa95
+INFO 2022-01-02 15:11:25,704: processing 939a3b101 and ce76ea9b8
+INFO 2022-01-02 15:11:25,819: processing ce76ea9b8 and 74e54add5
+INFO 2022-01-02 15:11:25,912: processing 74e54add5 and 412828dbf
+INFO 2022-01-02 15:11:26,039: processing 412828dbf and 6db3afc06
+INFO 2022-01-02 15:11:26,387: processing 14fcc22ec and b73a2028b
+INFO 2022-01-02 15:11:26,686: processing b73a2028b and e8fa3a5d8
+INFO 2022-01-02 15:11:26,932: processing e8fa3a5d8 and c653ae33d
+INFO 2022-01-02 15:11:27,134: processing de6a9d3cc and 5ee1e1449
+INFO 2022-01-02 15:11:27,396: processing f410739c4 and 46345351a
+INFO 2022-01-02 15:11:27,593: processing 46345351a and 67e8cfede
+INFO 2022-01-02 15:11:27,715: processing 9544c6aa6 and 51113b7ca
+INFO 2022-01-02 15:11:27,806: processing 51113b7ca and ab8460bfb
+INFO 2022-01-02 15:11:27,906: processing 34bf40aa7 and a3b454d84
+INFO 2022-01-02 15:11:28,044: processing 1ff313fd3 and 9fa580c29
+INFO 2022-01-02 15:11:28,826: processing 9fa580c29 and 84d38bf04
+INFO 2022-01-02 15:11:29,141: processing 308255868 and 77c564318
+INFO 2022-01-02 15:11:29,347: processing 5348ebf33 and dad663fb1
+INFO 2022-01-02 15:11:29,508: processing 24422387 and cc522a581
+INFO 2022-01-02 15:11:29,602: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 24422387 cc522a581
+  stderr: 'fatal: ambiguous argument '24422387': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:11:29,602: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 24422387 cc522a581
+  stderr: 'fatal: ambiguous argument '24422387': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:11:29,603: processing 1.52167E+90 and aa451ef11
+INFO 2022-01-02 15:11:29,742: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 1.52167E+90 aa451ef11
+  stderr: 'fatal: ambiguous argument '1.52167E+90': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:11:29,743: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 1.52167E+90 aa451ef11
+  stderr: 'fatal: ambiguous argument '1.52167E+90': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:11:29,744: processing aa451ef11 and 7ab07ca12
+INFO 2022-01-02 15:11:29,886: processing 0951cdb08 and 01e97fc51
+INFO 2022-01-02 15:11:30,012: processing 01e97fc51 and a2804809c
+INFO 2022-01-02 15:11:30,248: processing c4f3ac396 and 399169534
+INFO 2022-01-02 15:11:30,475: processing e0e630e05 and 7163288b1
+INFO 2022-01-02 15:11:31,441: processing 802b41d5a and 3fd23c6cb
+INFO 2022-01-02 15:11:31,578: processing c694a2ada and faf9d65f6
+INFO 2022-01-02 15:11:31,653: processing bc1ed77ad and 2c2051f53
+INFO 2022-01-02 15:11:31,721: processing 2c2051f53 and c1d4ca7ec
+INFO 2022-01-02 15:11:31,790: processing dded0d2f3 and 14ed8d40c
+INFO 2022-01-02 15:11:31,859: processing 204309452 and 290602edd
+INFO 2022-01-02 15:11:31,941: processing 290602edd and d747d5259
+INFO 2022-01-02 15:11:32,047: processing d747d5259 and 3b6707a41
+INFO 2022-01-02 15:11:32,240: processing a85a11eb8 and 0fd9c762a
+INFO 2022-01-02 15:11:32,366: processing 8758fdd98 and d6eb4dd0f
+INFO 2022-01-02 15:11:32,580: processing c698a61a0 and 9eba5879d
+INFO 2022-01-02 15:11:32,761: processing 68a356ed4 and 489236db6
+INFO 2022-01-02 15:11:32,992: processing 00e58f40b and 3b911b88b
+INFO 2022-01-02 15:11:33,199: processing 3b911b88b and a1a868f9b
+INFO 2022-01-02 15:11:33,406: processing a1a868f9b and bbd4c3782
+INFO 2022-01-02 15:11:33,705: processing bbd4c3782 and 8b6035208
+INFO 2022-01-02 15:11:33,891: processing 8b6035208 and afe2b41de
+INFO 2022-01-02 15:11:34,055: processing d51763dda and 31339a26e
+INFO 2022-01-02 15:11:34,242: processing 31339a26e and d73638702
+INFO 2022-01-02 15:11:34,491: processing 2f7145a68 and 6fcdc7eb2
+INFO 2022-01-02 15:11:34,656: processing 6fcdc7eb2 and 6e5628d88
+INFO 2022-01-02 15:11:34,747: processing bfad7ea96 and f8373d3b9
+INFO 2022-01-02 15:11:34,848: processing 900beb1bf and f8f4cd094
+INFO 2022-01-02 15:11:34,938: processing 1f2ece0b8 and adaa91316
+INFO 2022-01-02 15:11:35,015: processing adaa91316 and 8d5d179ba
+INFO 2022-01-02 15:11:35,156: processing 8d5d179ba and 01cddd5ee
+INFO 2022-01-02 15:11:35,472: processing 01ceedce3 and 729e90e92
+INFO 2022-01-02 15:11:35,759: processing 729e90e92 and bf12d3279
+INFO 2022-01-02 15:11:35,966: processing 9759e6356 and 53de3f2bb
+INFO 2022-01-02 15:11:36,143: processing f6ca9ee01 and 491e615d4
+INFO 2022-01-02 15:11:36,322: processing 491e615d4 and 8eb6482ca
+INFO 2022-01-02 15:11:36,493: processing 8eb6482ca and da6ef5144
+INFO 2022-01-02 15:11:36,771: processing da6ef5144 and 2b4fc37b1
+INFO 2022-01-02 15:11:36,954: processing 2b4fc37b1 and 69d6aaf61
+INFO 2022-01-02 15:11:37,055: processing 69d6aaf61 and b28007ee8
+INFO 2022-01-02 15:11:37,242: processing b28007ee8 and 5d23e29a6
+INFO 2022-01-02 15:11:37,504: processing 5d23e29a6 and 419dc0fa1
+INFO 2022-01-02 15:11:37,702: processing 419dc0fa1 and c28a1c7f0
+INFO 2022-01-02 15:11:37,915: processing 7071fc0a8 and 5db7b9416
+INFO 2022-01-02 15:11:38,022: processing 5db7b9416 and 9585c6e2a
+INFO 2022-01-02 15:11:38,188: processing 7ebea1369 and c7e6cf972
+INFO 2022-01-02 15:11:38,445: processing b0c8b42b2 and fd9b6bcbc
+INFO 2022-01-02 15:11:38,643: processing 80a0b017c and d8f9e8620
+INFO 2022-01-02 15:11:38,846: processing 2d98e3480 and bd9926555
+INFO 2022-01-02 15:11:38,945: processing 0cf708256 and c4fcd9187
+INFO 2022-01-02 15:11:39,037: processing d32a1b0ea and eadd43f00
+INFO 2022-01-02 15:11:39,170: processing a22cce7c5 and a90788c2d
+INFO 2022-01-02 15:11:39,783: processing 9fa9cea2a and 23c06b1d6
+INFO 2022-01-02 15:11:39,921: processing 03336a980 and 63b67d5de
+INFO 2022-01-02 15:11:39,995: processing b3c611c39 and 0a0f6f7a9
+INFO 2022-01-02 15:11:40,079: processing 935822cee and 2d5ce6935
+INFO 2022-01-02 15:11:40,223: processing 2d5ce6935 and 39d3bd97b
+INFO 2022-01-02 15:11:40,459: processing 11a4157a5 and e22acf63e
+INFO 2022-01-02 15:11:40,625: processing 4201930000000 and 899e6a8f2
+INFO 2022-01-02 15:11:40,731: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 4201930000000 899e6a8f2
+  stderr: 'fatal: ambiguous argument '4201930000000': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:11:40,732: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 4201930000000 899e6a8f2
+  stderr: 'fatal: ambiguous argument '4201930000000': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:11:40,732: processing 8d1cecc95 and 0a24f8d01
+INFO 2022-01-02 15:11:40,834: processing 1e2a7252b and d43b3d1f7
+INFO 2022-01-02 15:11:40,908: processing 66519c0cc and ac8b504c1
+INFO 2022-01-02 15:11:40,979: processing ac8b504c1 and 07eefcd00
+INFO 2022-01-02 15:11:41,045: processing 07eefcd00 and 5430c98db
+INFO 2022-01-02 15:11:41,230: processing b21c23725 and dd5c6464f
+INFO 2022-01-02 15:11:41,518: processing dd5c6464f and 5cb9f4182
+INFO 2022-01-02 15:11:41,644: processing 8ad226067 and d000c1035
+INFO 2022-01-02 15:11:41,882: processing 54bb58811 and 6e8651e24
+INFO 2022-01-02 15:11:42,037: processing 6e8651e24 and 620981ad1
+INFO 2022-01-02 15:11:42,228: processing 620981ad1 and b96c6a6fe
+INFO 2022-01-02 15:11:42,381: processing 9643d94e5 and f3ce7238c
+INFO 2022-01-02 15:11:42,685: processing 7730e2fba and b22f24fc0
+INFO 2022-01-02 15:11:42,864: processing 339dad2ac and 46412b66b
+INFO 2022-01-02 15:11:43,121: processing a01b3d2d7 and af625be79
+INFO 2022-01-02 15:11:43,304: processing 12266f392 and 89e9b0dd4
+INFO 2022-01-02 15:11:43,594: processing 9d2bd38e3 and 5328eaf10
+INFO 2022-01-02 15:11:43,793: processing 5328eaf10 and 69c666da0
+INFO 2022-01-02 15:11:43,907: processing 7b0b75cd8 and 9e296f4e1
+INFO 2022-01-02 15:11:43,986: processing dd5cfcd28 and 9f394817f
+INFO 2022-01-02 15:11:44,055: processing 1c1839a12 and 3061b7c8f
+INFO 2022-01-02 15:11:44,144: processing 3061b7c8f and b51cc2152
+INFO 2022-01-02 15:11:44,326: processing b51cc2152 and 5d2272033
+INFO 2022-01-02 15:11:44,493: processing fdcd4b249 and 92b27f2f4
+INFO 2022-01-02 15:11:44,695: processing 2aa30ce47 and 9f4a65711
+INFO 2022-01-02 15:11:44,913: processing 94c972a47 and 2bbd3dc4b
+INFO 2022-01-02 15:11:45,127: processing 2bbd3dc4b and 1a55fdd8f
+INFO 2022-01-02 15:11:45,284: processing 28fe6fd4c and 80de503e7
+INFO 2022-01-02 15:11:45,546: processing 3919d238f and e3ca9e519
+INFO 2022-01-02 15:11:45,690: processing e3ca9e519 and 97020800e
+INFO 2022-01-02 15:11:45,785: processing 4ecae622d and 967e083d0
+INFO 2022-01-02 15:11:46,462: processing df1be3ebf and c506bb831
+INFO 2022-01-02 15:11:46,675: processing 5107dd340 and c06d2b103
+INFO 2022-01-02 15:11:46,823: processing c06d2b103 and 009de58c4
+INFO 2022-01-02 15:11:46,905: processing 009de58c4 and 071de1fd8
+INFO 2022-01-02 15:11:46,973: processing d2de4eb3c and 0a87f29e2
+INFO 2022-01-02 15:11:47,054: processing 02044cd4e and 5ec9cec92
+INFO 2022-01-02 15:11:47,134: processing b6ea9eba5 and 6309bbc26
+INFO 2022-01-02 15:11:47,583: processing 6309bbc26 and a5d55dc4e
+INFO 2022-01-02 15:11:47,705: processing a5d55dc4e and 24a837185
+INFO 2022-01-02 15:11:47,881: processing 7ecebe132 and 7d09e458b
+INFO 2022-01-02 15:11:48,054: processing 7d09e458b and 5ebbd9ab2
+INFO 2022-01-02 15:11:48,203: processing 5ebbd9ab2 and 4073dc5a7
+INFO 2022-01-02 15:11:48,338: processing 4073dc5a7 and 8f5dbd4b9
+INFO 2022-01-02 15:11:48,507: processing 4e19e15ff and 3371e35e5
+INFO 2022-01-02 15:11:48,715: processing 3371e35e5 and 1ff742a40
+INFO 2022-01-02 15:11:48,842: processing 1ff742a40 and 03189e87e
+INFO 2022-01-02 15:11:48,942: processing 99359a790 and b80a051b9
+INFO 2022-01-02 15:11:49,016: processing 6cb1ab682 and d6a683afa
+INFO 2022-01-02 15:11:49,104: processing d6a683afa and b1a07b9f9
+INFO 2022-01-02 15:11:49,202: processing 9e852f131 and 32f936623
+INFO 2022-01-02 15:11:50,275: processing 6f12f6fae and ca20a2bf0
+INFO 2022-01-02 15:11:50,520: processing ca20a2bf0 and 53e15f122
+INFO 2022-01-02 15:11:50,621: processing 53e15f122 and 94bbe08c8
+INFO 2022-01-02 15:11:50,719: processing 94bbe08c8 and 000a174d8
+INFO 2022-01-02 15:11:51,832: processing 000a174d8 and 78c497540
+INFO 2022-01-02 15:11:51,887: processing 78c497540 and 835e4f2a0
+INFO 2022-01-02 15:11:52,407: processing 593c17d2b and 4925f6d60
+INFO 2022-01-02 15:11:52,483: processing 71b544f5d and 28cd5e300
+INFO 2022-01-02 15:11:52,642: processing ef1cae879 and 34d5c96bf
+INFO 2022-01-02 15:11:52,715: processing 34d5c96bf and c9bb518df
+INFO 2022-01-02 15:11:52,776: processing e9fad2483 and 68a9a66d2
+INFO 2022-01-02 15:11:52,979: processing 05e160c7c and 109c8c2cd
+INFO 2022-01-02 15:11:53,041: processing cc6f5e57a and ecdd5639b
+INFO 2022-01-02 15:11:53,104: processing 68f85bf4b and 9807aae38
+INFO 2022-01-02 15:11:53,570: processing 868dc0fed and 4c7e62cfe
+INFO 2022-01-02 15:11:53,764: processing 4c7e62cfe and 75c40b58f
+INFO 2022-01-02 15:11:54,240: processing 7a5320f85 and ae2aaa607
+INFO 2022-01-02 15:11:54,733: processing fca5a8e15 and 458933f47
+INFO 2022-01-02 15:11:54,807: processing cdcbf0156 and 9099f90e2
+INFO 2022-01-02 15:11:55,516: processing 2d36c7b32 and 2241a729e
+INFO 2022-01-02 15:11:55,611: processing ed9a2c4b9 and 4aa80cd44
+INFO 2022-01-02 15:11:55,779: processing 0e0edb572 and c64992280
+INFO 2022-01-02 15:11:55,844: processing f7d780956 and bf1cfcb5f
+INFO 2022-01-02 15:11:55,947: processing 5273cf05e and c0aff9c7b
+INFO 2022-01-02 15:11:56,009: processing 5ae547835 and d6eaff347
+INFO 2022-01-02 15:11:56,163: processing a4d3f7298 and d37f29e42
+INFO 2022-01-02 15:11:56,275: processing 7f07f4652 and 44720f922
+INFO 2022-01-02 15:11:57,794: processing 991ae3486 and 18cef9609
+INFO 2022-01-02 15:11:57,871: processing 23461ee40 and a6bbf4630
+INFO 2022-01-02 15:11:58,070: processing ec4eb4f3b and 4aab4ebe3
+INFO 2022-01-02 15:11:58,253: processing 4aab4ebe3 and fba05ea81
+INFO 2022-01-02 15:11:58,623: processing e8ff93464 and 3262f16b2
+INFO 2022-01-02 15:11:58,682: processing 66952188d and d80a2619e
+INFO 2022-01-02 15:11:58,742: processing f0ba5250c and 6a6a3022b
+INFO 2022-01-02 15:11:58,804: processing 6a6a3022b and 06eedeacb
+INFO 2022-01-02 15:11:58,864: processing ae8e4d4f0 and 9c38530ca
+INFO 2022-01-02 15:11:58,923: processing 5b8845d4c and 7db9f958b
+INFO 2022-01-02 15:11:59,515: processing da8883753 and 7a1a4afad
+INFO 2022-01-02 15:11:59,672: processing 7a1a4afad and 7aa0b347c
+INFO 2022-01-02 15:12:00,452: processing 7aa0b347c and 35c8da6ca
+INFO 2022-01-02 15:12:00,687: processing 35c8da6ca and 9fb404033
+INFO 2022-01-02 15:12:00,839: processing 9fb404033 and 317662465
+INFO 2022-01-02 15:12:01,041: processing 7e0f6d88f and 0094304ae
+INFO 2022-01-02 15:12:01,542: processing 6dbeff4b5 and 25e78c553
+INFO 2022-01-02 15:12:01,769: processing 25e78c553 and 4c0f93be9
+INFO 2022-01-02 15:12:01,871: processing 4c0f93be9 and f97c50dad
+INFO 2022-01-02 15:12:02,034: processing a85657232 and 16170870a
+INFO 2022-01-02 15:12:02,176: processing 16170870a and 607752975
+INFO 2022-01-02 15:12:02,232: processing b8a3320cb and 0c30b0872
+INFO 2022-01-02 15:12:02,355: processing 52dc0500c and b15df9899
+INFO 2022-01-02 15:12:02,782: processing b15df9899 and 83a3332cd
+INFO 2022-01-02 15:12:03,119: processing 83a3332cd and f59ce0093
+INFO 2022-01-02 15:12:03,206: processing eddc153f9 and 35281d578
+INFO 2022-01-02 15:12:04,209: processing 1145819b6 and 0cfaf8992
+INFO 2022-01-02 15:12:04,349: processing 0cfaf8992 and 939f172b5
+INFO 2022-01-02 15:12:04,426: processing 0b038babb and 4ce25cb96
+INFO 2022-01-02 15:12:04,502: processing db8b73317 and 4f878d569
+INFO 2022-01-02 15:12:04,842: processing 4f878d569 and 9966209d7
+INFO 2022-01-02 15:12:04,946: processing 9966209d7 and 44c5705b4
+INFO 2022-01-02 15:12:05,032: processing 133037357 and 15f805424
+INFO 2022-01-02 15:12:05,127: processing 15f805424 and 9a585a7d6
+INFO 2022-01-02 15:12:05,193: processing 1ebd97900 and 56d5586f5
+INFO 2022-01-02 15:12:05,256: processing 56d5586f5 and 1236bf3c6
+INFO 2022-01-02 15:12:05,377: processing 8e9c935d5 and 666b05cc8
+INFO 2022-01-02 15:12:06,048: processing c60a21a05 and 4017e26b2
+INFO 2022-01-02 15:12:06,705: processing 679cdf614 and f4daec633
+INFO 2022-01-02 15:12:06,860: processing 994d8fcb9 and 85da0a8f6
+INFO 2022-01-02 15:12:07,066: processing 20655c36a and 525bf5820
+INFO 2022-01-02 15:12:07,203: processing 5d7f54935 and 24448b47e
+INFO 2022-01-02 15:12:07,443: processing 24448b47e and 6e99ad0a5
+INFO 2022-01-02 15:12:07,749: processing 6e99ad0a5 and 115a095a6
+INFO 2022-01-02 15:12:07,898: processing 603f6c690 and d923f319c
+INFO 2022-01-02 15:12:08,019: processing ffe49c3f0 and 3d1b379e3
+INFO 2022-01-02 15:12:08,155: processing 73dde07fa and 5356fe475
+INFO 2022-01-02 15:12:08,251: processing cb0a32f9a and 0b2deb109
+INFO 2022-01-02 15:12:08,377: processing 64f335c46 and a28b558e5
+INFO 2022-01-02 15:12:08,672: processing 1c8206385 and c3a1d911b
+INFO 2022-01-02 15:12:08,825: processing c3a1d911b and d08266bb9
+INFO 2022-01-02 15:12:09,229: processing d08266bb9 and 9461a7002
+INFO 2022-01-02 15:12:09,309: processing ce21ecf82 and 56123c9e9
+INFO 2022-01-02 15:12:09,520: processing 23a77e8ce and df94c0d23
+INFO 2022-01-02 15:12:10,044: processing df94c0d23 and 39a4e42e0
+INFO 2022-01-02 15:12:10,199: processing 88ff1f638 and d9d1b7ec7
+INFO 2022-01-02 15:12:10,372: processing 4562e69de and c68077ba9
+INFO 2022-01-02 15:12:10,459: processing c68077ba9 and e654e9b02
+INFO 2022-01-02 15:12:10,561: processing e654e9b02 and d9dabab1b
+INFO 2022-01-02 15:12:10,662: processing 497f35f64 and 7c609157c
+INFO 2022-01-02 15:12:10,971: processing e71d371f2 and 35c29511c
+INFO 2022-01-02 15:12:11,042: processing 63a59319b and a2cb6ab4b
+INFO 2022-01-02 15:12:11,122: processing a2cb6ab4b and a5df9633c
+INFO 2022-01-02 15:12:11,297: processing fe4acf2a6 and 637978c66
+INFO 2022-01-02 15:12:11,389: processing 637978c66 and d250ae7e9
+INFO 2022-01-02 15:12:11,579: processing d250ae7e9 and 212db455b
+INFO 2022-01-02 15:12:11,792: processing 212db455b and 7.88873e+34
+INFO 2022-01-02 15:12:11,986: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 212db455b 7.88873e+34
+  stderr: 'fatal: ambiguous argument '7.88873e+34': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:12:11,987: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 212db455b 7.88873e+34
+  stderr: 'fatal: ambiguous argument '7.88873e+34': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:12:11,987: processing 7.88873E+39 and 19d83c148
+INFO 2022-01-02 15:12:12,210: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 7.88873E+39 19d83c148
+  stderr: 'fatal: ambiguous argument '7.88873E+39': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:12:12,210: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 7.88873E+39 19d83c148
+  stderr: 'fatal: ambiguous argument '7.88873E+39': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:12:12,211: processing e255de7db and 81d281f07
+INFO 2022-01-02 15:12:12,480: processing 3e7d63ceb and 9e18df665
+INFO 2022-01-02 15:12:12,680: processing 9e18df665 and edd8aed81
+INFO 2022-01-02 15:12:12,871: processing edd8aed81 and 1124dc78c
+INFO 2022-01-02 15:12:13,139: processing e28dc4ba7 and d2c9c34e3
+INFO 2022-01-02 15:12:13,761: processing d2c9c34e3 and 42ca8c4ff
+INFO 2022-01-02 15:12:14,028: processing 42ca8c4ff and 869c8554a
+INFO 2022-01-02 15:12:14,255: processing 0d6c8e3a9 and a779687b4
+INFO 2022-01-02 15:12:14,400: processing a779687b4 and 98d0b7f2e
+INFO 2022-01-02 15:12:14,510: processing 98d0b7f2e and b0520da3c
+INFO 2022-01-02 15:12:14,881: processing b0520da3c and 70d44071d
+INFO 2022-01-02 15:12:15,004: processing 70d44071d and f79625a9e
+INFO 2022-01-02 15:12:15,069: processing f79625a9e and 3634c92cb
+INFO 2022-01-02 15:12:15,176: processing 07d24c2ec and 83ba4b9bc
+INFO 2022-01-02 15:12:15,270: processing ea03b91a2 and ff282b964
+INFO 2022-01-02 15:12:15,339: processing ff282b964 and f2351e22d
+INFO 2022-01-02 15:12:15,486: processing 106d00485 and 6df4ea385
+INFO 2022-01-02 15:12:15,825: processing 6df4ea385 and ba6f392de
+INFO 2022-01-02 15:12:16,038: processing 2f8e8bc60 and 91d2b9365
+INFO 2022-01-02 15:12:16,328: processing 715d71d38 and ff66abcc5
+INFO 2022-01-02 15:12:16,557: processing 17b325e89 and e5ae0b95d
+INFO 2022-01-02 15:12:16,758: processing baa00f7f8 and fedb543ce
+INFO 2022-01-02 15:12:17,018: processing fedb543ce and 8429dc767
+INFO 2022-01-02 15:12:17,201: processing 8429dc767 and b238cc80b
+INFO 2022-01-02 15:12:17,287: processing f29493822 and b7f81d2a1
+INFO 2022-01-02 15:12:17,430: processing b7f81d2a1 and 34b4b6b66
+INFO 2022-01-02 15:12:17,640: processing 75e9bfa3b and 9f24df9e8
+INFO 2022-01-02 15:12:17,859: processing 5b6d1f8c8 and 2332df245
+INFO 2022-01-02 15:12:18,201: processing 2332df245 and 1875256f3
+INFO 2022-01-02 15:12:18,341: processing a902d4aac and 9b91d4ec2
+INFO 2022-01-02 15:12:18,557: processing 48516372b and 5e3c6bdc3
+INFO 2022-01-02 15:12:18,905: processing 5e3c6bdc3 and a9f1f4f15
+INFO 2022-01-02 15:12:19,075: processing a9f1f4f15 and fe3d60d90
+INFO 2022-01-02 15:12:19,164: processing fe3d60d90 and c30903667
+INFO 2022-01-02 15:12:19,244: processing 71330c061 and 479f89fc3
+INFO 2022-01-02 15:12:19,341: processing 479f89fc3 and 19fac95ca
+INFO 2022-01-02 15:12:19,442: processing 19fac95ca and b917754a6
+INFO 2022-01-02 15:12:19,809: processing f38eb995d and 307a6a699
+INFO 2022-01-02 15:12:20,051: processing f6965b1e6 and 57178273a
+INFO 2022-01-02 15:12:20,853: processing d1cd15328 and 3768a53a8
+INFO 2022-01-02 15:12:20,937: processing 3768a53a8 and cd4567596
+INFO 2022-01-02 15:12:21,019: processing a9065c319 and 3852b1ba2
+INFO 2022-01-02 15:12:21,123: processing 3852b1ba2 and 471d59088
+INFO 2022-01-02 15:12:21,213: processing 71cda3ebd and e5d3b0e1d
+INFO 2022-01-02 15:12:21,273: processing 87208280d and 14ea26be8
+INFO 2022-01-02 15:12:21,353: processing 14ea26be8 and 6d0340767
+INFO 2022-01-02 15:12:21,433: processing 6d0340767 and 154fe09c6
+INFO 2022-01-02 15:12:21,603: processing 66fbf5a26 and 91346ce51
+INFO 2022-01-02 15:12:21,900: processing 0bf1ec097 and 64d2d1508
+INFO 2022-01-02 15:12:22,091: processing 64d2d1508 and 28d13528c
+INFO 2022-01-02 15:12:22,352: processing 7bfeccced and d9e2df90c
+INFO 2022-01-02 15:12:22,593: processing 61af0c013 and 6daf59ebc
+INFO 2022-01-02 15:12:22,803: processing 6daf59ebc and 870096572
+INFO 2022-01-02 15:12:23,028: processing 870096572 and 06f801c78
+INFO 2022-01-02 15:12:23,310: processing a00ea07a4 and 421c5bbb2
+INFO 2022-01-02 15:12:23,426: processing 421c5bbb2 and 4a32963dc
+INFO 2022-01-02 15:12:23,599: processing 7494a2c05 and 2a4b18e74
+INFO 2022-01-02 15:12:23,922: processing 2a4b18e74 and a03bf90c1
+INFO 2022-01-02 15:12:24,134: processing a03bf90c1 and 19ba99357
+INFO 2022-01-02 15:12:24,246: processing 335644487 and 26eff7994
+INFO 2022-01-02 15:12:24,341: processing b5501c563 and f059ded2c
+INFO 2022-01-02 15:12:24,436: processing f059ded2c and 67f77fa80
+INFO 2022-01-02 15:12:24,589: processing 67f77fa80 and 4c22f9699
+INFO 2022-01-02 15:12:24,967: processing 4c22f9699 and 88c60b9a5
+INFO 2022-01-02 15:12:25,216: processing 88c60b9a5 and 57b82767d
+INFO 2022-01-02 15:12:25,390: processing 2d03fa971 and cbb027d8d
+INFO 2022-01-02 15:12:25,543: processing cbb027d8d and b58642b1e
+INFO 2022-01-02 15:12:25,971: processing 7673c0907 and db75e89f1
+INFO 2022-01-02 15:12:26,102: processing db75e89f1 and ce1f2d0f5
+INFO 2022-01-02 15:12:26,190: processing 7df3e3ccc and ab0c59094
+INFO 2022-01-02 15:12:26,313: processing cd91a9f71 and da06e59e7
+INFO 2022-01-02 15:12:26,379: processing da06e59e7 and 0e1956682
+INFO 2022-01-02 15:12:26,478: processing 29bceefab and cd258e3b0
+INFO 2022-01-02 15:12:26,835: processing 3f6e570ef and 2d6a39c9b
+INFO 2022-01-02 15:12:26,979: processing 2d6a39c9b and 7748fd5e6
+INFO 2022-01-02 15:12:27,227: processing 7748fd5e6 and b717c89ef
+INFO 2022-01-02 15:12:27,346: processing 851de4154 and 7c95808f0
+INFO 2022-01-02 15:12:27,419: processing 7c95808f0 and 6c8b0efad
+INFO 2022-01-02 15:12:27,512: processing fa58d3637 and 5ec4f761b
+INFO 2022-01-02 15:12:27,678: processing 5ec4f761b and a0bfaa220
+INFO 2022-01-02 15:12:27,960: processing a0bfaa220 and 83d1a4f4e
+INFO 2022-01-02 15:12:28,130: processing ba5edc9bf and 879d60f79
+INFO 2022-01-02 15:12:28,294: processing 879d60f79 and 80d9b909e
+INFO 2022-01-02 15:12:28,423: processing 434d1f420 and 5ab208308
+INFO 2022-01-02 15:12:28,571: processing 5ab208308 and 2abeadbdd
+INFO 2022-01-02 15:12:28,758: processing 6c58557f5 and db627720e
+INFO 2022-01-02 15:12:28,939: processing db627720e and 30a206de2
+INFO 2022-01-02 15:12:29,231: processing b9d5a4db8 and ea6c7de9b
+INFO 2022-01-02 15:12:29,358: processing 8bf04e968 and b5c7957c4
+INFO 2022-01-02 15:12:29,433: processing b5c7957c4 and c799bc08a
+INFO 2022-01-02 15:12:29,564: processing 2fa773cf4 and 815c5d230
+INFO 2022-01-02 15:12:29,909: processing 8a62afb5a and c11f71512
+INFO 2022-01-02 15:12:30,125: processing c11f71512 and a9ef16b32
+INFO 2022-01-02 15:12:30,315: processing a9ef16b32 and 42a355a62
+INFO 2022-01-02 15:12:30,447: processing 42a355a62 and b17bd1a62
+INFO 2022-01-02 15:12:30,638: processing b17bd1a62 and 84d333e07
+INFO 2022-01-02 15:12:31,134: processing 52ee8ed9e and f64fdd9b3
+INFO 2022-01-02 15:12:31,267: processing f64fdd9b3 and f9881dfbd
+INFO 2022-01-02 15:12:31,350: processing 73a85c15d and b7086efb4
+INFO 2022-01-02 15:12:31,417: processing b7086efb4 and f82a19743
+INFO 2022-01-02 15:12:31,490: processing f82a19743 and 06a06e6ed
+INFO 2022-01-02 15:12:31,623: processing 06a06e6ed and 96e5a605c
+INFO 2022-01-02 15:12:32,074: processing 96e5a605c and 31b41f8d4
+INFO 2022-01-02 15:12:32,284: processing 39e5d91fc and 4c1975371
+INFO 2022-01-02 15:12:32,403: processing 4c1975371 and 3656b9bcc
+INFO 2022-01-02 15:12:32,479: processing 4d8f008cb and 4ed9c5116
+INFO 2022-01-02 15:12:32,619: processing 4ed9c5116 and 5d6ac534b
+INFO 2022-01-02 15:12:33,061: processing 5d6ac534b and 132798219
+INFO 2022-01-02 15:12:33,312: processing 3480eb930 and 01232cb35
+INFO 2022-01-02 15:12:33,479: processing 6c115a40d and 08be74178
+INFO 2022-01-02 15:12:33,574: processing 08be74178 and 27c309f88
+INFO 2022-01-02 15:12:33,748: processing 27c309f88 and cf6f5b887
+INFO 2022-01-02 15:12:33,867: processing 09df08a93 and 5d2e8fb43
+INFO 2022-01-02 15:12:33,935: processing 5d2e8fb43 and 81fe956dc
+INFO 2022-01-02 15:12:34,001: processing 340bed9cd and f51cd52c6
+INFO 2022-01-02 15:12:34,071: processing f51cd52c6 and 29582f0ff
+INFO 2022-01-02 15:12:34,133: processing 5242cf330 and f61b2299d
+INFO 2022-01-02 15:12:34,198: processing 7cd552ce9 and ea7ca2c81
+INFO 2022-01-02 15:12:34,262: processing c43229b67 and 9b037c766
+INFO 2022-01-02 15:12:34,328: processing 99a620a38 and 797301b2b
+INFO 2022-01-02 15:12:34,391: processing 8c60d9d48 and 41c0a0729
+INFO 2022-01-02 15:12:34,453: processing ad8ca8e58 and 15fea59b8
+INFO 2022-01-02 15:12:34,516: processing 15fea59b8 and 8c5bd1d58
+INFO 2022-01-02 15:12:34,648: processing ea4d43a79 and 3e11dc060
+INFO 2022-01-02 15:12:34,984: processing 3e11dc060 and da922d22b
+INFO 2022-01-02 15:12:35,222: processing 748fb50f6 and 54e98620e
+INFO 2022-01-02 15:12:35,454: processing e1cb606ab and bb1e313a8
+INFO 2022-01-02 15:12:35,687: processing 5387e206a and 7f2ceb419
+INFO 2022-01-02 15:12:35,989: processing 7f2ceb419 and cd6bc08c5
+INFO 2022-01-02 15:12:36,155: processing b0bc478fb and e7a3f12a7
+INFO 2022-01-02 15:12:36,412: processing aff44822d and 98ee8bc7b
+INFO 2022-01-02 15:12:36,730: processing 0a6c9f5bd and 109908440
+INFO 2022-01-02 15:12:36,899: processing b99efbfb7 and 205375dee
+INFO 2022-01-02 15:12:37,158: processing 9564121 and 5f1542be4
+INFO 2022-01-02 15:12:37,342: processing 30905fc42 and d20b17e77
+INFO 2022-01-02 15:12:37,668: processing d20b17e77 and 860e39ea2
+INFO 2022-01-02 15:12:37,861: processing 4d2e8212a and 53d5a235f
+INFO 2022-01-02 15:12:38,183: processing 9f2beac79 and 7ba9a3e04
+INFO 2022-01-02 15:12:38,476: processing 7ba9a3e04 and 39e159f20
+INFO 2022-01-02 15:12:38,678: processing a1c3ba9c8 and ba1f40ffc
+INFO 2022-01-02 15:12:38,995: processing bc1c705e5 and d91ee5a63
+INFO 2022-01-02 15:12:39,230: processing d91ee5a63 and 1ed3e5eaa
+INFO 2022-01-02 15:12:39,448: processing f00533c91 and 2adb1fa6e
+INFO 2022-01-02 15:12:39,550: processing 2adb1fa6e and aa3133091
+INFO 2022-01-02 15:12:39,749: processing 7194f3eca and eb426fd01
+INFO 2022-01-02 15:12:40,106: processing 421b9a4e1 and b8380e21f
+INFO 2022-01-02 15:12:40,224: processing 1fbc44fb8 and d8f615356
+INFO 2022-01-02 15:12:40,299: processing d8f615356 and e76a4765c
+INFO 2022-01-02 15:12:40,373: processing 12c0e3011 and 4227a5903
+INFO 2022-01-02 15:12:40,543: processing d6345dc92 and 237084f1c
+INFO 2022-01-02 15:12:40,735: processing ebab90300 and 8.55153e+83
+INFO 2022-01-02 15:12:40,916: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 ebab90300 8.55153e+83
+  stderr: 'fatal: ambiguous argument '8.55153e+83': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:12:40,917: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 ebab90300 8.55153e+83
+  stderr: 'fatal: ambiguous argument '8.55153e+83': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:12:40,917: processing a267d7efd and 0ea2c957d
+INFO 2022-01-02 15:12:41,095: processing 51dd03b47 and 3ba1d35d4
+INFO 2022-01-02 15:12:41,306: processing 3ba1d35d4 and 9f2c43575
+INFO 2022-01-02 15:12:41,479: processing 9f2c43575 and 5e5d5a27a
+INFO 2022-01-02 15:12:41,763: processing 5e5d5a27a and 92812812a
+INFO 2022-01-02 15:12:41,951: processing 92812812a and 3aae12e3c
+INFO 2022-01-02 15:12:42,147: processing 3aae12e3c and 2edea6b8c
+INFO 2022-01-02 15:12:42,353: processing 95dde6fbf and e3f38ecd4
+INFO 2022-01-02 15:12:42,510: processing 5f4daa9e6 and 7646371a4
+INFO 2022-01-02 15:12:42,601: processing 4e50ea491 and 7bdcb5948
+INFO 2022-01-02 15:12:42,752: processing 7bdcb5948 and 90bca55c3
+INFO 2022-01-02 15:12:43,415: processing a5d99b726 and f671b57b1
+INFO 2022-01-02 15:12:43,588: processing 5c58f8263 and 0fe6e5548
+INFO 2022-01-02 15:12:43,729: processing 0fe6e5548 and 995a6f54d
+INFO 2022-01-02 15:12:44,040: processing 1706fe1e2 and 2770e4dd0
+INFO 2022-01-02 15:12:44,150: processing 2770e4dd0 and 54c281a3d
+INFO 2022-01-02 15:12:44,241: processing 348142463 and 9b44404b9
+INFO 2022-01-02 15:12:44,327: processing 86902355b and b5b27d4d5
+INFO 2022-01-02 15:12:44,454: processing 0072c3056 and 05b0d40bd
+INFO 2022-01-02 15:12:44,518: processing dc94f561a and 5b929c4cd
+INFO 2022-01-02 15:12:44,614: processing fbba23e3d and 90203b6f6
+INFO 2022-01-02 15:12:44,963: processing b9f5ef812 and 4af78a769
+INFO 2022-01-02 15:12:45,118: processing 4af78a769 and 07e126f03
+INFO 2022-01-02 15:12:45,317: processing 0ffb50f76 and 6fefdc6e6
+INFO 2022-01-02 15:12:45,625: processing d506ddcc4 and 175f7de3e
+INFO 2022-01-02 15:12:45,781: processing 175f7de3e and e8156d500
+INFO 2022-01-02 15:12:46,063: processing 09695b4ae and 5d8b0acec
+INFO 2022-01-02 15:12:46,280: processing 5d8b0acec and fc0ca6e15
+INFO 2022-01-02 15:12:46,456: processing fc0ca6e15 and ba06bffaa
+INFO 2022-01-02 15:12:46,550: processing ba06bffaa and 65c49561d
+INFO 2022-01-02 15:12:46,664: processing cc186bc69 and 8bbe51d10
+INFO 2022-01-02 15:12:46,896: processing 2e39d9923 and 27ce955df
+INFO 2022-01-02 15:12:47,151: processing 27ce955df and 6b07923f2
+INFO 2022-01-02 15:12:47,353: processing 396f2f6d1 and ca5119cde
+INFO 2022-01-02 15:12:47,439: processing a80b657e2 and 8b9740840
+INFO 2022-01-02 15:12:47,505: processing 27c63b6a4 and c5a42a273
+INFO 2022-01-02 15:12:47,575: processing f4a18fdb9 and 0155b6986
+INFO 2022-01-02 15:12:47,701: processing 1ad606b71 and fd63c492c
+INFO 2022-01-02 15:12:47,941: processing 0e7b8eaa6 and 835ab0069
+INFO 2022-01-02 15:12:48,184: processing 7d6529137 and eceae80ae
+INFO 2022-01-02 15:12:48,384: processing 2e566fbc3 and c7d91c68e
+INFO 2022-01-02 15:12:48,660: processing e0532b71f and 205fea699
+INFO 2022-01-02 15:12:48,921: processing 205fea699 and 59454ea47
+INFO 2022-01-02 15:12:49,232: processing 59454ea47 and fbbae6c37
+INFO 2022-01-02 15:12:49,492: processing b9c00a8e5 and 3c773caf3
+INFO 2022-01-02 15:12:49,651: processing a1758c4b9 and c35874145
+INFO 2022-01-02 15:12:49,906: processing 378cbf92c and 8654393d7
+INFO 2022-01-02 15:12:50,276: processing 8654393d7 and 2fb950427
+INFO 2022-01-02 15:12:50,482: processing 140663775 and 1a774e6d7
+INFO 2022-01-02 15:12:50,624: processing 64783120e and 3281b027c
+INFO 2022-01-02 15:12:50,769: processing bc9d59441 and 2334d880a
+INFO 2022-01-02 15:12:51,163: processing 55f3bb2a3 and 6afd2b8d6
+INFO 2022-01-02 15:12:51,352: processing 7058126ad and f800b30f0
+INFO 2022-01-02 15:12:51,462: processing ac3b5b195 and 3e4ae3856
+INFO 2022-01-02 15:12:51,547: processing 3481ed1ee and 913e80046
+INFO 2022-01-02 15:12:51,765: processing 913e80046 and 5aef7fee1
+INFO 2022-01-02 15:12:52,692: processing 5aef7fee1 and 090f99e13
+INFO 2022-01-02 15:12:53,174: processing 090f99e13 and d7d0a33e0
+INFO 2022-01-02 15:12:53,306: processing e1b383840 and 2eda9d82f
+INFO 2022-01-02 15:12:53,450: processing d40f923ef and 5106a20e0
+INFO 2022-01-02 15:12:53,544: processing a85ddd154 and 621b8cda9
+INFO 2022-01-02 15:12:53,728: processing 6e266af10 and 7fffa00e3
+INFO 2022-01-02 15:12:54,056: processing 7fffa00e3 and 184a17b7d
+INFO 2022-01-02 15:12:54,376: processing 2bed8c18b and 583c4e71f
+INFO 2022-01-02 15:12:54,996: processing 583c4e71f and 40087e95c
+INFO 2022-01-02 15:12:55,156: processing f854c1740 and edb1f7158
+INFO 2022-01-02 15:12:55,464: processing edb1f7158 and 92efd60f6
+INFO 2022-01-02 15:12:55,548: processing 92efd60f6 and 05c34294c
+INFO 2022-01-02 15:12:55,620: processing e13874d68 and fb37226be
+INFO 2022-01-02 15:12:55,910: processing b71a1d9fe and cc7fce89c
+INFO 2022-01-02 15:12:56,357: processing ae8025d02 and 335ee341a
+INFO 2022-01-02 15:12:56,532: processing b40a892b9 and 71945f3b5
+INFO 2022-01-02 15:12:56,606: processing 71945f3b5 and d35ac97b8
+INFO 2022-01-02 15:12:56,758: processing d35ac97b8 and 58b0014d8
+INFO 2022-01-02 15:12:56,996: processing 58b0014d8 and aa8e03fcf
+INFO 2022-01-02 15:12:57,178: processing aa8e03fcf and dd336fd59
+INFO 2022-01-02 15:12:57,308: processing d9c076061 and e4eee64bf
+INFO 2022-01-02 15:12:57,429: processing e4eee64bf and ab6c4b3df
+INFO 2022-01-02 15:12:57,549: processing 228f6d9f8 and e00c4993c
+INFO 2022-01-02 15:12:57,705: processing eae828016 and 28e24dc23
+INFO 2022-01-02 15:12:58,001: processing 1144ebc1b and 2572fa74a
+INFO 2022-01-02 15:12:58,372: processing 2572fa74a and a644739d1
+INFO 2022-01-02 15:12:58,570: processing a644739d1 and a1693ecc9
+INFO 2022-01-02 15:13:00,765: processing f8841c71e and c98416be5
+INFO 2022-01-02 15:13:01,893: processing a07c45eee and f1441b00f
+INFO 2022-01-02 15:13:02,409: processing 54d92792f and faf6392ec
+INFO 2022-01-02 15:13:02,651: processing faf6392ec and 9a36930bf
+INFO 2022-01-02 15:13:02,870: processing 9a36930bf and 852e0529b
+INFO 2022-01-02 15:13:02,959: processing 0c50f0ab1 and 6518eb93b
+INFO 2022-01-02 15:13:03,038: processing 8.77702E+38 and cb7ff83a2
+INFO 2022-01-02 15:13:03,107: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 8.77702E+38 cb7ff83a2
+  stderr: 'fatal: ambiguous argument '8.77702E+38': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+INFO 2022-01-02 15:13:03,108: Traceback (most recent call last):
+  File "diffme.py", line 26, in <module>
+    d = repo.git.diff("--stat=10000", comm1, comm2)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 585, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 1124, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "D:\Python36\lib\site-packages\git\cmd.py", line 928, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git diff --stat=10000 8.77702E+38 cb7ff83a2
+  stderr: 'fatal: ambiguous argument '8.77702E+38': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]''
+
+INFO 2022-01-02 15:13:03,108: processing e6406b362 and c1a919c64
+INFO 2022-01-02 15:13:03,194: processing c1a919c64 and 2f27ea4a8
+INFO 2022-01-02 15:13:03,264: processing 2f27ea4a8 and 118f40551
+INFO 2022-01-02 15:13:03,335: processing 999ee67b9 and df2cdb75c
+INFO 2022-01-02 15:13:03,417: processing df2cdb75c and 502699917
+INFO 2022-01-02 15:13:03,537: processing 502699917 and 7c0793d5f
+INFO 2022-01-02 15:13:03,606: processing a92a35739 and e65cd8d19
+INFO 2022-01-02 15:13:03,678: processing e91223709 and e00d7f268
+INFO 2022-01-02 15:13:03,780: processing 4c97d20fc and 01cae8997
+INFO 2022-01-02 15:13:03,982: processing 01cae8997 and c045188ff
+INFO 2022-01-02 15:13:04,328: processing c045188ff and daeccff5d
+INFO 2022-01-02 15:13:04,624: processing daeccff5d and df7f1cdf9
+INFO 2022-01-02 15:13:04,796: processing 652f2a1e5 and 2392349cc
+INFO 2022-01-02 15:13:05,085: processing 735add2c2 and f96821f14
+INFO 2022-01-02 15:13:05,313: processing 747f59eaa and 0b92c6f04
+INFO 2022-01-02 15:13:06,004: processing b57169bab and 480889c58
+INFO 2022-01-02 15:13:06,306: processing af17c6e26 and 79f8e6dde
+INFO 2022-01-02 15:13:06,770: processing 641e80154 and e54ea2d49
+INFO 2022-01-02 15:13:07,072: processing ed4c08172 and 9e2fa63aa
+INFO 2022-01-02 15:13:07,204: processing 9e2fa63aa and 45c0b064d
+INFO 2022-01-02 15:13:07,313: processing 45c0b064d and 6030d83ce
+INFO 2022-01-02 15:13:07,417: processing 84677c560 and 1e4dbcf78
+INFO 2022-01-02 15:13:07,528: processing 4dd4a65fa and 479a7a28f
+INFO 2022-01-02 15:13:07,633: processing 9fec1c729 and 336ecb899
+INFO 2022-01-02 15:13:07,723: processing 050c57a51 and 1cf5b9d07
+INFO 2022-01-02 15:13:07,800: processing 13ffa189b and 0c84f4017
+INFO 2022-01-02 15:13:07,978: processing 5dbc2a84f and e8d59c52c
+INFO 2022-01-02 15:13:08,283: processing ad1840b1b and 13473da61
+INFO 2022-01-02 15:13:08,623: processing ea8ab3bbd and 611bb3f04
+INFO 2022-01-02 15:13:08,878: processing f1a795da0 and b3516b2fb
+INFO 2022-01-02 15:13:09,222: processing c181169bf and 5f6aafcba
+INFO 2022-01-02 15:13:09,483: processing 38eda0c02 and b3ad0752d
+INFO 2022-01-02 15:13:09,851: processing 6b2cf341c and b34e5f664
+INFO 2022-01-02 15:13:10,085: processing b34e5f664 and 47b513d71
+INFO 2022-01-02 15:13:10,223: processing f863a4ec8 and 73604160a
+INFO 2022-01-02 15:13:10,334: processing 14a95255e and c4780977c
+INFO 2022-01-02 15:13:10,432: processing c4780977c and b47783e31
+INFO 2022-01-02 15:13:10,506: processing b47783e31 and 51de02143
+INFO 2022-01-02 15:13:10,574: processing 77c2ef160 and fbee37a05
+INFO 2022-01-02 15:13:10,640: processing fbee37a05 and eb58c5916
+INFO 2022-01-02 15:13:10,709: processing eb58c5916 and 5c2606419
+INFO 2022-01-02 15:13:10,777: processing ca222c290 and c693edbb3
+INFO 2022-01-02 15:13:10,918: processing c693edbb3 and e2b1d2fc6
+INFO 2022-01-02 15:13:11,245: processing e2b1d2fc6 and 3f386be35
+INFO 2022-01-02 15:13:11,437: processing 3245db767 and 53cde3351
+INFO 2022-01-02 15:13:11,698: processing 53cde3351 and 3e0977ded
+INFO 2022-01-02 15:13:12,073: processing 5cbb6070a and 7ed8e1a89
+INFO 2022-01-02 15:13:12,342: processing fe71f6a22 and 0690c7cc2
+INFO 2022-01-02 15:13:12,603: processing 0690c7cc2 and 0668d042b
+INFO 2022-01-02 15:13:12,888: processing 0668d042b and fb45ce83c
+INFO 2022-01-02 15:13:13,201: processing 78b29f796 and 5b408f6a0
+INFO 2022-01-02 15:13:13,424: processing 5b408f6a0 and bfd242da5
+INFO 2022-01-02 15:13:13,609: processing 7741c59fd and dde2c0e7b
+INFO 2022-01-02 15:13:13,788: processing e0122a4c2 and 54850d0d3
+INFO 2022-01-02 15:13:14,031: processing 4d325c6b7 and 0cb8978c1
+INFO 2022-01-02 15:13:14,252: processing 55941d998 and 26dddf51e
+INFO 2022-01-02 15:13:14,765: processing 1c3594c21 and f75498c8b
+INFO 2022-01-02 15:13:14,849: processing f75498c8b and 5c0ca0359
+INFO 2022-01-02 15:13:15,363: processing e600b532b and bdf13a1fd
+INFO 2022-01-02 15:13:15,547: processing bdf13a1fd and cea706672
+INFO 2022-01-02 15:13:15,636: processing cea706672 and b7e2f1937
+INFO 2022-01-02 15:13:15,709: processing b7e2f1937 and 771616c40
+INFO 2022-01-02 15:13:15,779: processing 771616c40 and 1d7e8acb3
+INFO 2022-01-02 15:13:15,861: processing 4749ab387 and 333094355
+INFO 2022-01-02 15:13:16,174: processing a9e0a8ab6 and bb814d206
+INFO 2022-01-02 15:13:16,411: processing bb814d206 and 75e7e5010
+INFO 2022-01-02 15:13:16,659: processing 5b0dd58a8 and f3d858324
+INFO 2022-01-02 15:13:17,058: processing 939b5ce0b and b47691414
+INFO 2022-01-02 15:13:17,303: processing b47691414 and 30d45272c
+INFO 2022-01-02 15:13:17,489: processing abeab97a3 and ce45fc2ee
+INFO 2022-01-02 15:13:17,589: must be str, not NoneType
+INFO 2022-01-02 15:13:17,589: Traceback (most recent call last):
+  File "diffme.py", line 25, in <module>
+    logging.info("processing "+ comm1 + " and " + comm2)
+TypeError: must be str, not NoneType
+
+INFO 2022-01-02 15:13:18,429: +++++++++++++++++++++ FINE GIT DIFF +++++++++++++++++++++++
